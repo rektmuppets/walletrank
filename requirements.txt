@@ -1,0 +1,4 @@
+psycopg[binary]==3.2.2
+stellar-sdk==9.3.0
+aiogram==3.13.1
+aiohttp==3.10.10
