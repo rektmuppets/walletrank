@@ -1,6 +1,7 @@
 import json
 import psycopg
 from datetime import datetime, timedelta, timezone
+import os
 
 # Database connection parameters
 DB_HOST = "horizon.cz2imkksk7b4.us-west-1.rds.amazonaws.com"
@@ -48,6 +49,8 @@ def fetch_swaps():
     ORDER BY num_swaps DESC
     LIMIT 1000;
     """
+    # Set a statement timeout to prevent hanging
+    cursor.execute("SET statement_timeout = '300s';")  # 5-minute timeout
     cursor.execute(query, (start_time,))
     results = cursor.fetchall()
 
@@ -64,13 +67,21 @@ def fetch_swaps():
 # Main script logic
 if __name__ == "__main__":
     print("Fetching swaps from Horizon PostgreSQL database...")
-    wallet_rankings = fetch_swaps()
+    try:
+        wallet_rankings = fetch_swaps()
 
-    with open("wallet_rankings.json", "w") as f:
-        json.dump(wallet_rankings, f, indent=2)
+        # Archive the current wallet_rankings.json with a timestamp
+        if os.path.exists("wallet_rankings.json"):
+            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            os.rename("wallet_rankings.json", f"backups/wallet_rankings_{timestamp}.json")
 
-    print(f"Saved {len(wallet_rankings)} wallet rankings to wallet_rankings.json")
+        with open("wallet_rankings.json", "w") as f:
+            json.dump(wallet_rankings, f, indent=2)
 
-    # Clean up
-    cursor.close()
-    conn.close()
+        print(f"Saved {len(wallet_rankings)} wallet rankings to wallet_rankings.json")
+    except Exception as e:
+        print(f"Error occurred: {e}")
+    finally:
+        # Clean up
+        cursor.close()
+        conn.close()

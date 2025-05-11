@@ -1,0 +1,5002 @@
+[
+  {
+    "source_account": "GBLVLKGRDU66WLWY4XRORJXCC4LDZ347AQTUYBEPBABIZTVITW2OAGIP",
+    "num_swaps": 72211,
+    "total_volume_xlm": 6471.362951600092
+  },
+  {
+    "source_account": "GAX72E6IIODHSLOK47KQKLTNVAHPPYMM7FPLFV6ZONQAMAP7MBESEVQS",
+    "num_swaps": 24956,
+    "total_volume_xlm": 6350.017801400001
+  },
+  {
+    "source_account": "GB37DH4CM64RFUJ4LVNGTECDITMYELOBFUW7CR36644JZMFYZA3UBHQW",
+    "num_swaps": 23710,
+    "total_volume_xlm": 0.0
+  },
+  {
+    "source_account": "GCY7AY7OOO2XKZUCKLOZL3MJ62DW5UNL3ISFWDEDEEJM7JFGYZEUS55Z",
+    "num_swaps": 11947,
+    "total_volume_xlm": 29535.250917600126
+  },
+  {
+    "source_account": "GDCVHDFEB2XBU2DHIDUUSC47W6LSE3UH4VFNIJBKRYQJCTOTAME6UBED",
+    "num_swaps": 10069,
+    "total_volume_xlm": 3826.3768693000093
+  },
+  {
+    "source_account": "GCO45COWIBDZEGJ3DRGDGCCCJXK777F2S6D6HXQKXVB3EKQVCQU7B2WA",
+    "num_swaps": 9259,
+    "total_volume_xlm": 1473.6442226000072
+  },
+  {
+    "source_account": "GAFB7IYPCYZCODQBB5BR5JO45JC4PPVLARUAXQSFHWTLH2KMHPWJ36GD",
+    "num_swaps": 8395,
+    "total_volume_xlm": 1e-07
+  },
+  {
+    "source_account": "GCSO6DAFG52JZDJOB2ZXY3FZBCFJIEINR2BXNA2TTTCMFAOL5SQMIPW6",
+    "num_swaps": 6673,
+    "total_volume_xlm": 1.0580000000000007
+  },
+  {
+    "source_account": "GBXASTWB24TIOS7U235VE2DTA2PA3NO2ZZYCMKMUCXB3H5RGSNSMEDNY",
+    "num_swaps": 6380,
+    "total_volume_xlm": 112350.99710950001
+  },
+  {
+    "source_account": "GBTEZE3JLLRBS5NFXRPQU675AFLC3L7P2CXDOIM4333AUNCZ2NUA2EKV",
+    "num_swaps": 5995,
+    "total_volume_xlm": 0.0
+  },
+  {
+    "source_account": "GCEETSI6ZGG3CS37YUFAUKCCJSCOILXL43JOJVZ435KBJ5NICDYY4EMP",
+    "num_swaps": 5713,
+    "total_volume_xlm": 4832.820583099993
+  },
+  {
+    "source_account": "GDKET3IZMV2ZAM4CIWSWWFOTLWDSHIR7NJBHZOWXGZA7C35D4W7BLK7W",
+    "num_swaps": 3489,
+    "total_volume_xlm": 0.0
+  },
+  {
+    "source_account": "GB7FZIUYDPOVOGCNCCKEG46MK45WPKXPXA5AWLRTTDKFCPRNPY67EILI",
+    "num_swaps": 3323,
+    "total_volume_xlm": 248.85192219999993
+  },
+  {
+    "source_account": "GAFYXEXG66CVYM4F73M3SYSMNTCZ3O2KLC7T25GH6W63AJKSUWOGJFVT",
+    "num_swaps": 2740,
+    "total_volume_xlm": 25908.32701719999
+  },
+  {
+    "source_account": "GDRP4YBMFGUVDPSCH26ZUSTEVCCCWYZ53EA33Q7IYYG7GF4Y7LJKQOLP",
+    "num_swaps": 2708,
+    "total_volume_xlm": 270800.0
+  },
+  {
+    "source_account": "GD4Y5Q4Z4NQEIC766D4IWWZTP3T2LG7ANQO3KZREHTQYOVXIZFXC2B3G",
+    "num_swaps": 2356,
+    "total_volume_xlm": 235600.0
+  },
+  {
+    "source_account": "GDV3SQW4UJ6CPCSOTN4ACFZKORRCZDSYZ5MR3HUTXD7GSR6UIOWTU3OD",
+    "num_swaps": 2341,
+    "total_volume_xlm": 234100.0
+  },
+  {
+    "source_account": "GBU5LJ3LCOG6ODCWKTH64BLAL6VDFDFT3BFAHAQCHNUQ7FOBRA6BT7DW",
+    "num_swaps": 2337,
+    "total_volume_xlm": 233700.0
+  },
+  {
+    "source_account": "GAB2USD46ANVQT3DLHUERP4ZSLYZ4NHHSJKNNIUTXMDU7G5ZPH5LQ2NI",
+    "num_swaps": 2315,
+    "total_volume_xlm": 231500.0
+  },
+  {
+    "source_account": "GADT77LT3VZHKPT3ENLWJN2S3ROXJQMVU55SMSFITHTEO6GDNURCMQL3",
+    "num_swaps": 2313,
+    "total_volume_xlm": 231300.0
+  },
+  {
+    "source_account": "GBBGJXUJVODWEMJADZAYNR6HOP6OGKVN2MZDWZR7QU7IXCSKGF4ZJJKK",
+    "num_swaps": 2292,
+    "total_volume_xlm": 229200.0
+  },
+  {
+    "source_account": "GBBDEMULK2VLLN3XIJBRDRRODJXN7ADR2U2V4N4YXHXQFWWNIYOCN3QU",
+    "num_swaps": 2266,
+    "total_volume_xlm": 226600.0
+  },
+  {
+    "source_account": "GAD3VC6TCU3R2Y3CXT7TR7KQPCLYQFW26AHOIQFOVIZPSA6KUJEVMMTQ",
+    "num_swaps": 2265,
+    "total_volume_xlm": 226500.0
+  },
+  {
+    "source_account": "GDVSD54GNB5Y7EG2KCHISBCMVHRHWIIU3B6EPK75M2BMRO34R47ALBL5",
+    "num_swaps": 2264,
+    "total_volume_xlm": 226400.0
+  },
+  {
+    "source_account": "GCR43YSO77EKNZ2OJTEF5Y6YJBYARNDU67RW5LCEBG4D5OT5KQN2QHI7",
+    "num_swaps": 2261,
+    "total_volume_xlm": 226100.0
+  },
+  {
+    "source_account": "GB4EXO65BNUBOSYSK7GZ5Q2VSTMHCNFV4Q5ARZ7ESDOD7MZCDJ6RJ2Y5",
+    "num_swaps": 2259,
+    "total_volume_xlm": 225900.0
+  },
+  {
+    "source_account": "GDXKXJWRWRQ5KWUC7YT6G257EPLQGJOVSOV6VGJUHAYZ7QXEQJBCIKE2",
+    "num_swaps": 2256,
+    "total_volume_xlm": 225600.0
+  },
+  {
+    "source_account": "GBZ7IDPID3M4PG4T73RITHKL72GPOYWR3MFHKG7A64BIWV4F5T22MILF",
+    "num_swaps": 2244,
+    "total_volume_xlm": 224400.0
+  },
+  {
+    "source_account": "GA5BFBWNRBOL54DKMQSTLCNETE5TNXZVAJRJ4CESSCPOR5CEKVDSWY23",
+    "num_swaps": 2244,
+    "total_volume_xlm": 224400.0
+  },
+  {
+    "source_account": "GAWXJ2F2L3AWYJDCRBOB2PGSTMJLOE5CHDWLE26B33V5K5BL2AZ4G5CS",
+    "num_swaps": 2228,
+    "total_volume_xlm": 222800.0
+  },
+  {
+    "source_account": "GCVTFNE2K7OZORXRPCWJJY6GOJDAA372CYNZRHON2FWF4CHN64Y22ZJV",
+    "num_swaps": 2222,
+    "total_volume_xlm": 222200.0
+  },
+  {
+    "source_account": "GC4IV62C4Z4G25KLCVD2W24Y2CB6CWZN2SPS7XBWB7S3HBLTU3ZAICZU",
+    "num_swaps": 2221,
+    "total_volume_xlm": 222100.0
+  },
+  {
+    "source_account": "GAUJYJUGSPR32QXQ3EUG35XNGIV3TILWIXTAW26D6LKLV4HV3WMT4CG4",
+    "num_swaps": 2219,
+    "total_volume_xlm": 221900.0
+  },
+  {
+    "source_account": "GAGEGZS36RIVK5ZIHPIT7ZPWDLX2QKEIBWSCZJEDU3YOECDOQRERZ4UR",
+    "num_swaps": 2205,
+    "total_volume_xlm": 220500.0
+  },
+  {
+    "source_account": "GDTIBTCPL5XQZXJEFGCI7CZJRCKGQLLXCBDE3NLUUUB2ILXI6CQFEONN",
+    "num_swaps": 2200,
+    "total_volume_xlm": 220000.0
+  },
+  {
+    "source_account": "GB6BD5RWV246G3VA5Y5F2GL4VL35WZH2RM7QA4HYRTFA4DBAIZMC5EVF",
+    "num_swaps": 2199,
+    "total_volume_xlm": 219900.0
+  },
+  {
+    "source_account": "GARHEDF4UQ5KCTMVRNSF6MERP5MINXUI4BI7QVK6DLLGCHA5CJ3GAOKA",
+    "num_swaps": 2156,
+    "total_volume_xlm": 215600.0
+  },
+  {
+    "source_account": "GD3ITMLHKAM736VD7ES5U2BTN4KTYFVXEAWNZYHIDMKE7YP65RLD5QZS",
+    "num_swaps": 2155,
+    "total_volume_xlm": 215500.0
+  },
+  {
+    "source_account": "GDWIY64XVM6D4FR2G4KYTDKA7TLVOIYCJOJZJZQACWP7IA4B2UFQDF2A",
+    "num_swaps": 2155,
+    "total_volume_xlm": 215500.0
+  },
+  {
+    "source_account": "GBB64PHYCBQMCFVHMSGNG4T7FNR2H42A2KJMY4WKPRDNDJJ7J43VYMYK",
+    "num_swaps": 2137,
+    "total_volume_xlm": 213700.0
+  },
+  {
+    "source_account": "GASC2OYE7XGNX24HGQVZYFOLHTSTGNGNQISYBNNSO53R4VXACHCWUUKI",
+    "num_swaps": 2121,
+    "total_volume_xlm": 212100.0
+  },
+  {
+    "source_account": "GDJ6SLZK4UF44Z6EB4MIEFUAFYUQWKNU5XPUADWATLAP6MZ252XKDGX6",
+    "num_swaps": 2107,
+    "total_volume_xlm": 210700.0
+  },
+  {
+    "source_account": "GAIJNJP57WVGQF3ON3U2SN5I3TC44G6F4JRCJEDQKH43XFMM4GAUHRCU",
+    "num_swaps": 2103,
+    "total_volume_xlm": 210300.0
+  },
+  {
+    "source_account": "GA2IDVTM6HFN6FQXXDTU5ZZGM5SLLFIQSS543YWM2CEKM62TPNPBOXTV",
+    "num_swaps": 2092,
+    "total_volume_xlm": 209200.0
+  },
+  {
+    "source_account": "GBQ27JLA3U7WNOXCPPCACF36V3GRSSQXKGY4Z6DXXMFKXKM22N7CMLBI",
+    "num_swaps": 2092,
+    "total_volume_xlm": 209200.0
+  },
+  {
+    "source_account": "GCCVLHJPWLCTPGZHIHFVLKHPULNETRBX3KGCIP7LV454S53CSINX5GBK",
+    "num_swaps": 2085,
+    "total_volume_xlm": 208500.0
+  },
+  {
+    "source_account": "GAATGATFB6DA3U32V2DVH6HV4WS3A6BIPUMBOLRNGNQS5XUUKZS4J6VT",
+    "num_swaps": 2071,
+    "total_volume_xlm": 207100.0
+  },
+  {
+    "source_account": "GBZPHCU6IVAACYKH46CNODWKQJ67N54Y7IYWGYEOWVXOHT6DXOBL46BU",
+    "num_swaps": 2066,
+    "total_volume_xlm": 206600.0
+  },
+  {
+    "source_account": "GBNO6OQWNUSH4DD46LOCAENIDCRZY3JR66JDBUZLXTLHIUZ4UVNWXV3N",
+    "num_swaps": 2059,
+    "total_volume_xlm": 205900.0
+  },
+  {
+    "source_account": "GC7DDERTVR35GTPYSBCUZAZ3VEKSFTDCUAQSCQGODVZQI2AWKX4VJLS2",
+    "num_swaps": 2053,
+    "total_volume_xlm": 205300.0
+  },
+  {
+    "source_account": "GB6MNAK3ORERWL2GBEQUSUEV2WHW2PQAC7MWIE3Q6ND4GUHNSGPVFBO2",
+    "num_swaps": 2043,
+    "total_volume_xlm": 204300.0
+  },
+  {
+    "source_account": "GA4EQ56WCJYNH5RH2CFTYBF5K2AKOY37FS4JBHYZKQM4SL23B7H6XI6N",
+    "num_swaps": 2019,
+    "total_volume_xlm": 201900.0
+  },
+  {
+    "source_account": "GAALXAZVF6GW764VDOAD336OFCSW3HTQVPXGNAHXPJWWUO4PQ7D6VWBG",
+    "num_swaps": 2006,
+    "total_volume_xlm": 200600.0
+  },
+  {
+    "source_account": "GCNWDDXAZBNVNXDRIOXHDZ2VWNTDWDKP6VOSBYYXZGJLKW4CTDA4XB2D",
+    "num_swaps": 1978,
+    "total_volume_xlm": 197800.0
+  },
+  {
+    "source_account": "GD5DPAN4ZO4RP72IX5PKLNH3FPP45PC3ZOZPZAFYK4YBX2NAPJ7WLYPD",
+    "num_swaps": 1959,
+    "total_volume_xlm": 195900.0
+  },
+  {
+    "source_account": "GCLFDLBRJRIYOB7GDMESBHECSI4WSGZTDDJ4M65JBHVWP2SGZOA6C6HP",
+    "num_swaps": 1946,
+    "total_volume_xlm": 194600.0
+  },
+  {
+    "source_account": "GCUPRM3K6G7HV4AI4PHQGJYYZOFGDMCMZC3OOFOAXKUH4ZE6TV34HSRW",
+    "num_swaps": 1938,
+    "total_volume_xlm": 193800.0
+  },
+  {
+    "source_account": "GDVUBPA3TPPPHFA5AW23WKKG3VDXGIPUCW6Y4UDOTX3LMCZCHWHZLBUR",
+    "num_swaps": 1928,
+    "total_volume_xlm": 192800.0
+  },
+  {
+    "source_account": "GC2SMIKPOUSFHOAXDJ2ZU7SI2D7S6DGTQ2Z7SV5GMCRV52TRP2BSSOB3",
+    "num_swaps": 1901,
+    "total_volume_xlm": 190100.0
+  },
+  {
+    "source_account": "GCIT5ZOP6UECOB2MRG5NZLT6QFRUXCXD5PVK6BP42EEDDYKRF7IARYOO",
+    "num_swaps": 1896,
+    "total_volume_xlm": 189600.0
+  },
+  {
+    "source_account": "GDQZXGFJXVJKLICNW56DRBPK5DHNEKGFNKIEWKHOBPN5UENAR2HSS4RV",
+    "num_swaps": 1888,
+    "total_volume_xlm": 188800.0
+  },
+  {
+    "source_account": "GAGDKSIXUZYFDM552Z66KJAXCISUCRIFNV65JTM7AFCYPMMHWC44FFVC",
+    "num_swaps": 1872,
+    "total_volume_xlm": 187200.0
+  },
+  {
+    "source_account": "GDXLJ3SCYCG2JPM6QV7DBC4Q62OSAV4CJIRVUBMPSMX2XZVETLPPFDPC",
+    "num_swaps": 1849,
+    "total_volume_xlm": 184900.0
+  },
+  {
+    "source_account": "GAD3L3LKMFYJBEWTOTUV3LEDGBTQ634IQ3VPEUTI2TQOI4BGOCODXRZS",
+    "num_swaps": 1831,
+    "total_volume_xlm": 183100.0
+  },
+  {
+    "source_account": "GA2WF3TNIMHXDMKDMLQACG6TOS5UBAPHLDJ4M3YLSO3R6B6ZJFEPKTNM",
+    "num_swaps": 1828,
+    "total_volume_xlm": 182800.0
+  },
+  {
+    "source_account": "GC5TJ3YQDNKGGTWWGPCLTDEOATPBQC7ABE7HTJXDPVUATJPGDHDRZKN7",
+    "num_swaps": 1825,
+    "total_volume_xlm": 182500.0
+  },
+  {
+    "source_account": "GCXLLEZYBR7SICB5LXXMWEPTRAEHN6C6MDD5SK62LTLAZSCPVHDUDSKX",
+    "num_swaps": 1784,
+    "total_volume_xlm": 178400.0
+  },
+  {
+    "source_account": "GAYEKB7XQNAX7XJKRGCKWRIDQCJ4YGZXEDQPVHEWCKT3OQ6TLC7OUFQN",
+    "num_swaps": 1774,
+    "total_volume_xlm": 177400.0
+  },
+  {
+    "source_account": "GBQOR2EPHR6D34ZBWIQODIBKVX7ULAKJXXRUJWMHZBWTML3GHQRDFY6T",
+    "num_swaps": 1774,
+    "total_volume_xlm": 177400.0
+  },
+  {
+    "source_account": "GA2DUR2ZXDJM6CYREPP45E6UPZZP2765YUC65FCBJRV3AIY7ZPFXEGL3",
+    "num_swaps": 1766,
+    "total_volume_xlm": 176600.0
+  },
+  {
+    "source_account": "GBUFISVRXNZLSFMRDD3PDC2XOWRO5LDN7QNIMIBVW3VORZCMCYH7OENT",
+    "num_swaps": 1763,
+    "total_volume_xlm": 176300.0
+  },
+  {
+    "source_account": "GACHQOBGKZ6PP6YEMUVCFZIIZJEV4HWO3ZWCLP2SXPJA7U22ISBALLRV",
+    "num_swaps": 1762,
+    "total_volume_xlm": 176200.0
+  },
+  {
+    "source_account": "GCZ2DRDCTSGACUF23HYYBEGP2T5YPAI3RB2JVKWWWZOUUTGZTQCFAW3T",
+    "num_swaps": 1758,
+    "total_volume_xlm": 175800.0
+  },
+  {
+    "source_account": "GDPQLTEXCJUDETNDO7LNGJOQRZZVOJ7UAHQI2APGW56GGNZNLA4W2AH3",
+    "num_swaps": 1735,
+    "total_volume_xlm": 173500.0
+  },
+  {
+    "source_account": "GCWBPKERYC45OJONAJCNCBLIWQ4AIWI7AUEXYIHBDCV6JWXNA5SSCRHF",
+    "num_swaps": 1717,
+    "total_volume_xlm": 171700.0
+  },
+  {
+    "source_account": "GAZDQMEDRWY5HJ4RFLBG6VT4TCW4GZV7ABKRTIBX44QLMYKDHQYI6IAK",
+    "num_swaps": 1709,
+    "total_volume_xlm": 170900.0
+  },
+  {
+    "source_account": "GCG5CEC6J6LJ4VE6KFR6BRZIVKERZBRKLRG272W6MJIOPHIKAPPHBVLM",
+    "num_swaps": 1704,
+    "total_volume_xlm": 170400.0
+  },
+  {
+    "source_account": "GCH3WO4ZUOT4T6XNMPH2KY3I63NPHJJAUF246NEYNBGGOW7CS2NQM27I",
+    "num_swaps": 1691,
+    "total_volume_xlm": 169100.0
+  },
+  {
+    "source_account": "GBGDPUXXH2N4UVBO3GDMA6PH7IKI7LRSL4JIOSQBR4A43G65A7DIZMPV",
+    "num_swaps": 1675,
+    "total_volume_xlm": 167500.0
+  },
+  {
+    "source_account": "GARQ4VXXBRJWD4FEXWKBYKAGFWWV2FRPYRL7VGRMAXMCBQEJK7CXARQ7",
+    "num_swaps": 1662,
+    "total_volume_xlm": 166200.0
+  },
+  {
+    "source_account": "GDHV56H2YGVWV45IGSHFKGGCVHDXYPOGW6UX66KUCADRJ4FV6HT3C256",
+    "num_swaps": 1659,
+    "total_volume_xlm": 165900.0
+  },
+  {
+    "source_account": "GCMF6AASWZBXLR7G56KBX3MXERMB7Y7GPQIGWOQ32BFDVJQN3GGI7RZP",
+    "num_swaps": 1659,
+    "total_volume_xlm": 165900.0
+  },
+  {
+    "source_account": "GBZ6NMZUOPLNFNKPIVJPKSB7RK3ZBNRSRZST4TPDQY5JESX7GYPOZMCQ",
+    "num_swaps": 1650,
+    "total_volume_xlm": 165000.0
+  },
+  {
+    "source_account": "GDR4XI7K5KBJ7M44ACHTDUZ7ES4IQPC55JERAYZP5DCYGSIGHFZ5VGLH",
+    "num_swaps": 1646,
+    "total_volume_xlm": 164600.0
+  },
+  {
+    "source_account": "GBAX6JZGCZNOMOIZU4FE3TPQVLYVPJE5V4ZHMJI7JT6JFNDWGINM5QWX",
+    "num_swaps": 1622,
+    "total_volume_xlm": 162200.0
+  },
+  {
+    "source_account": "GAUYJ63NXNRXZL4NLZPMKWOTDUFWUAY7OJU4B3BDGSWRLJYZUDF5TAWJ",
+    "num_swaps": 1616,
+    "total_volume_xlm": 161600.0
+  },
+  {
+    "source_account": "GCVMG3A3JFBWX4ZIMFAZ2JENHYJULKM4PEWATEFITNL7NQ7YZMD7335K",
+    "num_swaps": 1616,
+    "total_volume_xlm": 161600.0
+  },
+  {
+    "source_account": "GBUMNHWDLVSF4VKWKKRGS5XZVLZBLK7LF5FL2ZVLBC4Z4NVVJH6L2UAN",
+    "num_swaps": 1607,
+    "total_volume_xlm": 160700.0
+  },
+  {
+    "source_account": "GCFGXDFRT4LJBZVPFYLTLB5IIGVJ6Q7Y637OUTOBR3VZ5Y5FYIU3AZUW",
+    "num_swaps": 1602,
+    "total_volume_xlm": 160200.0
+  },
+  {
+    "source_account": "GALEROT6D4FM3NITVAPCLWEON2PHB7REMMQGBFQJRDW6SJ4EGMEYYWL7",
+    "num_swaps": 1598,
+    "total_volume_xlm": 159800.0
+  },
+  {
+    "source_account": "GDVFUGG3NUQBDBOUYPGX54LGG3QQ6YN76C5MIXJA6T27VF4RIFJ3SKM3",
+    "num_swaps": 1591,
+    "total_volume_xlm": 159100.0
+  },
+  {
+    "source_account": "GCD6PE4OM4KGZITLL7EYFDBZMNLV5M255Y2WDBWSCXWEVF6JBA2VNATV",
+    "num_swaps": 1583,
+    "total_volume_xlm": 158300.0
+  },
+  {
+    "source_account": "GD6TONFYAS5YLK6PTLTPU7LW4CWKV4TQ6AEPGAZH6SZMMH5EEPJOGW3D",
+    "num_swaps": 1576,
+    "total_volume_xlm": 157600.0
+  },
+  {
+    "source_account": "GBAMEXG5GVDFPEYKW3BLOZHZC2QN7K6DI5DN6EHP5WX4U3AZQENSMECJ",
+    "num_swaps": 1531,
+    "total_volume_xlm": 2228.0932454000003
+  },
+  {
+    "source_account": "GD754P2RK354PJITVUQX32TLXTV4H3LS34FDBRRTHWYUSCQ4F36GTADV",
+    "num_swaps": 1529,
+    "total_volume_xlm": 69051.5393869
+  },
+  {
+    "source_account": "GCU62Q3XIJDWZ2OEXIXM2Q4LJ4YVGY5VMNYEADKNC7KK7IJ4GTJUCK6T",
+    "num_swaps": 1528,
+    "total_volume_xlm": 152800.0
+  },
+  {
+    "source_account": "GBTXYS2D3XJR6TYAXBYQIS5QHRNJ4OSZK6KA3G2YVYBMVR3RMHOTJ622",
+    "num_swaps": 1527,
+    "total_volume_xlm": 152700.0
+  },
+  {
+    "source_account": "GCIA5IBZBK3F4RJY52QG2DNF6SYGRRID35LECIM6DFE7YNO5EGVLO42Y",
+    "num_swaps": 1522,
+    "total_volume_xlm": 152200.0
+  },
+  {
+    "source_account": "GDT7JXKVCIJAJY46BBEJO6JLVF33PO2EUAEEPK6ASLMBL6SDQD6NYWUO",
+    "num_swaps": 1515,
+    "total_volume_xlm": 151500.0
+  },
+  {
+    "source_account": "GA6UF354W4QMBSDGIJTQUT2NGA6QJCYXTKJLGLNQHTEW2SXDX325TO5U",
+    "num_swaps": 1497,
+    "total_volume_xlm": 149700.0
+  },
+  {
+    "source_account": "GC4RNTJP6XR2M72PEERTZFSP6SW7ZL74TCENSDV4Z45LOOHKJJ2V5T6R",
+    "num_swaps": 1488,
+    "total_volume_xlm": 148800.0
+  },
+  {
+    "source_account": "GADJ3AWZ5CC5K5Q2LSWQY4HOJ2FSZEKTJCD5URQYFUEIOAOSUYIJKVSJ",
+    "num_swaps": 1488,
+    "total_volume_xlm": 148800.0
+  },
+  {
+    "source_account": "GBY5PGFGXOZVAULA7NJOM33LJA3V3HFUWYL3CSPF3HFH7DPSHFM2PY3T",
+    "num_swaps": 1470,
+    "total_volume_xlm": 147000.0
+  },
+  {
+    "source_account": "GBKUE3CEBSN5TJWQIJIJDUSRYEJGICSTE62KQIB24KLIU42GWGB32VNT",
+    "num_swaps": 1467,
+    "total_volume_xlm": 850897.5948863003
+  },
+  {
+    "source_account": "GC44QKYZ5WFLCIOEL3HUR5OCH3APQNYT6HTTLXUS5TZZT3NZEKG3UJPM",
+    "num_swaps": 1464,
+    "total_volume_xlm": 146400.0
+  },
+  {
+    "source_account": "GBUYVJG3GQRCQMCGRF5NRKF3YBC7D3NCGSEPPIM4GJFHSHDEE7WDEMON",
+    "num_swaps": 1462,
+    "total_volume_xlm": 203.6348227000001
+  },
+  {
+    "source_account": "GDMXKO5NKP46BDDOX22CXNXK6RF527V7ELIJ7MYRAETL5ZWDV7MNLGAM",
+    "num_swaps": 1459,
+    "total_volume_xlm": 145900.0
+  },
+  {
+    "source_account": "GBTLWHJ67QKPAPS37UIV2ANSAHP463MKUIBX2XIUWQVUWYRCBVTH4MVO",
+    "num_swaps": 1448,
+    "total_volume_xlm": 144800.0
+  },
+  {
+    "source_account": "GDQMSJRGTJ77BNP4RHPF32XOQI527ELCD5PH2ODDT6RK55ARQCMFTCKE",
+    "num_swaps": 1444,
+    "total_volume_xlm": 144400.0
+  },
+  {
+    "source_account": "GBTKZEZGDZLM6HX67SAUEYL2XZXVQ2IXU7J7REXTCQBI6NHECXF2QLNV",
+    "num_swaps": 1428,
+    "total_volume_xlm": 142800.0
+  },
+  {
+    "source_account": "GBOWQT4GUSI3HNDG4HH2KU5PWOHRLSRWTBAC5ZBVAET4XVXAEBR7IJQW",
+    "num_swaps": 1409,
+    "total_volume_xlm": 140900.0
+  },
+  {
+    "source_account": "GBOP436I5CMBT4Y7V36QAOWYCEB7MTOD3IG2ZYNYF5K6UI4MQ72Y6BME",
+    "num_swaps": 1404,
+    "total_volume_xlm": 140400.0
+  },
+  {
+    "source_account": "GCNHLNWPOXJHJJF5XSLXL7KL6TQJCP6ZZZ64FZJDA2PLZOUSF2MRBY3U",
+    "num_swaps": 1378,
+    "total_volume_xlm": 137800.0
+  },
+  {
+    "source_account": "GBTZSS6MCTBISE4XYOLBBTJIYAHOTRPL3IDXTBUL4XWXKQUXR4MWH33Q",
+    "num_swaps": 1366,
+    "total_volume_xlm": 136600.0
+  },
+  {
+    "source_account": "GC4MQKDKZFHE7FJNTX6MV2GZ23LGIP7TYYSLGZRW3LEP3C32I4KR27NE",
+    "num_swaps": 1358,
+    "total_volume_xlm": 135800.0
+  },
+  {
+    "source_account": "GDPOB6BQGOMA27JW2KUYYIMYV6WTBMIWUMWZ2HZ7HKQIYMWWPIT7XFBZ",
+    "num_swaps": 1348,
+    "total_volume_xlm": 134800.0
+  },
+  {
+    "source_account": "GDRJJVV5W7ZM4PYSEHMT57TI4MPQDF3UYCF56VWTFMMPCU5MOSD6Y5XG",
+    "num_swaps": 1339,
+    "total_volume_xlm": 133900.0
+  },
+  {
+    "source_account": "GBFCUMHHFFBSWWWHPGVOYOUBB5KJ3PK5YWLAHUPOAPYU55DKT2YYTNTB",
+    "num_swaps": 1338,
+    "total_volume_xlm": 133800.0
+  },
+  {
+    "source_account": "GA5LR3BV3MAI7NYWGJ46XFJRD7N6JFCVL5WIAGUUBMKD46EAIIZGOJLI",
+    "num_swaps": 1337,
+    "total_volume_xlm": 133700.0
+  },
+  {
+    "source_account": "GCLGBICGMO6B3PGAOZJDK44E7DVJNSEHZZA4PBFR57BXEBZG24BUDEAY",
+    "num_swaps": 1332,
+    "total_volume_xlm": 133200.0
+  },
+  {
+    "source_account": "GBCZ6HDFEBMOEQ7HXUVWKZWOVXWT4KQGBRWHLZ4MTV2DQWCLMWZFKB7D",
+    "num_swaps": 1297,
+    "total_volume_xlm": 129700.0
+  },
+  {
+    "source_account": "GAZIQWLQKVYMJ7NDZCFHQWDTQFPW4NI5JDDTZL5JJAMWYXNEBQSBFPG2",
+    "num_swaps": 1295,
+    "total_volume_xlm": 129500.0
+  },
+  {
+    "source_account": "GCLYLCVDZQ4TF5T5KF5VSHN2KDM4IFO2UGRDPJIEHM3IWHJZLVR46UUG",
+    "num_swaps": 1284,
+    "total_volume_xlm": 128400.0
+  },
+  {
+    "source_account": "GALQQVNWMCTPIAJWUO66Z6MHGFEQPYIJRZJLTNPARJE4KEFOFBKKAMLA",
+    "num_swaps": 1281,
+    "total_volume_xlm": 128100.0
+  },
+  {
+    "source_account": "GBXXADYVD2K5TAB2MQ5XHAWPK6NDWT6T2TRBJTFX2IMYBDT7KTGCLNAX",
+    "num_swaps": 1267,
+    "total_volume_xlm": 126700.0
+  },
+  {
+    "source_account": "GAQL752BITWKI72IEIRGNAVIN6BP54AXMNOSEEOMRPVSFQXFZGICXCLJ",
+    "num_swaps": 1260,
+    "total_volume_xlm": 126000.0
+  },
+  {
+    "source_account": "GCKRMNJMJTXVRVBYG3VT7JFCG7JU7CDOB6BJERLVYERWLTGESHKUIQHU",
+    "num_swaps": 1251,
+    "total_volume_xlm": 125100.0
+  },
+  {
+    "source_account": "GCBCWVJETWF2NOC7WBJXPKVBRVPG7BMYSGDKXYNLEJJY26ATV2RXM34P",
+    "num_swaps": 1249,
+    "total_volume_xlm": 124900.0
+  },
+  {
+    "source_account": "GAH45HUGAQS223X6PEFUR5WC5OBNI6TX63GLTEJSBHPYU74OZS2BELXH",
+    "num_swaps": 1248,
+    "total_volume_xlm": 124800.0
+  },
+  {
+    "source_account": "GAUXGKFOD6WLSG2PKATF4J6PVI7VKCYIHKO4M5JLREDXCDUDRK4TFV7A",
+    "num_swaps": 1245,
+    "total_volume_xlm": 124500.0
+  },
+  {
+    "source_account": "GAZBQ3PSXA45RHTBT4IBGS6RUPPQJMT3F4TRVLWJRCG652NQF66EDEAD",
+    "num_swaps": 1244,
+    "total_volume_xlm": 1797502.0
+  },
+  {
+    "source_account": "GBRMXPNMU3VCE6TN65GPFWSEHW56BRNWI2ANEWRRVWSOLR2H57TWGDM6",
+    "num_swaps": 1227,
+    "total_volume_xlm": 122700.0
+  },
+  {
+    "source_account": "GBUFFUL3S5RTGOR5GDCZJYKSM7CAZCCBRAW2IWXIIEQV5UIDPMOT7FAI",
+    "num_swaps": 1224,
+    "total_volume_xlm": 723.9300000000005
+  },
+  {
+    "source_account": "GBWP2I2GXC2LV4XLZIOLDZSB2WZ2SBZTGNR4X4WYWTEPRB4IGTLKQZSY",
+    "num_swaps": 1215,
+    "total_volume_xlm": 121500.0
+  },
+  {
+    "source_account": "GAKZNPWZUTBDHZMVKEB33YWLD74TAWWCVYII47TROIXH7U2JDQFFNM72",
+    "num_swaps": 1214,
+    "total_volume_xlm": 121400.0
+  },
+  {
+    "source_account": "GCD4BFAW2VZ5AUWBR5MN5TV5O2BQSNNJIDNK6DAS6PI5XMT56WOUXBFZ",
+    "num_swaps": 1212,
+    "total_volume_xlm": 121200.0
+  },
+  {
+    "source_account": "GC7N4YQ4ZF73JZATSLATKUDZGUHHMV2GYWW4QB6GYBMRZPOSET3HYUJR",
+    "num_swaps": 1211,
+    "total_volume_xlm": 121100.0
+  },
+  {
+    "source_account": "GDRM57SAHAZKR55F4MB7WJ5ATJOA2VXVND57JV23FVPPZSU3JEOGZ4UF",
+    "num_swaps": 1207,
+    "total_volume_xlm": 120700.0
+  },
+  {
+    "source_account": "GDXKWCXC3YIL5JRQELLOCSFAOUGLD4A7D76LKU5NB3MXZL7ZQEWQPEAR",
+    "num_swaps": 1203,
+    "total_volume_xlm": 120300.0
+  },
+  {
+    "source_account": "GC6PNZ2NJ5SCCZYLBGZKGE4ZPBCZYE7WQOTC4SAPKFYNTSV6ZQGIV7ID",
+    "num_swaps": 1198,
+    "total_volume_xlm": 119800.0
+  },
+  {
+    "source_account": "GDRJEMC2IFWKWO3ACVCWOYZJ5YZOJRKSC3FHF6SEUHGIT4NVTSRRJNAK",
+    "num_swaps": 1195,
+    "total_volume_xlm": 119500.0
+  },
+  {
+    "source_account": "GCX4SSJA5JG4TNYFV2C46K2N25XDSCBB2FO5PQMUFEQGFGOP2HU5RPIU",
+    "num_swaps": 1183,
+    "total_volume_xlm": 118300.0
+  },
+  {
+    "source_account": "GAAWRQHNY43PHX3TRCHJBOIZ576AIDH4H7EELIEGKMCPSJD34BRTNRUC",
+    "num_swaps": 1176,
+    "total_volume_xlm": 117600.0
+  },
+  {
+    "source_account": "GDLWUFVEQB7JREA5NCYWJUXND7IZVESY6VNBN52M3N27WQ3XQTGXKUIK",
+    "num_swaps": 1176,
+    "total_volume_xlm": 117600.0
+  },
+  {
+    "source_account": "GAQH3HZVDTSUBDGYMJRMPOPVOF47PGUCJ6VQCV4L6YCJZPZAGZD7E53Z",
+    "num_swaps": 1172,
+    "total_volume_xlm": 117200.0
+  },
+  {
+    "source_account": "GB3JCHJUP6HHZJLN5LKQDRFP2HWSLNXYE2TGWDGBTNXIW6MLVRQXNDBC",
+    "num_swaps": 1146,
+    "total_volume_xlm": 79540.95040490001
+  },
+  {
+    "source_account": "GBNILLYZVGRGSFCMQVDOQ2CLEJHFQDCJPCMF6KLRDZILPEXWYAA3K65R",
+    "num_swaps": 1145,
+    "total_volume_xlm": 114500.0
+  },
+  {
+    "source_account": "GAZ4H33BPHHRRM5AYYK7X7KFTEU4WUQQVJMW77443KKYWR236VKU5WWZ",
+    "num_swaps": 1111,
+    "total_volume_xlm": 111100.0
+  },
+  {
+    "source_account": "GD7MOT2OTZJDCBWA64DZZRHQ5RHCRJQ7WKIDRRGCATTABU3EUEUXVA2V",
+    "num_swaps": 1108,
+    "total_volume_xlm": 110800.0
+  },
+  {
+    "source_account": "GDLEQHUINXDFWYIKIP7LEMQ5MUXTUBAM5MGAROCFNRXWTR6V4O3P2AVC",
+    "num_swaps": 1103,
+    "total_volume_xlm": 110300.0
+  },
+  {
+    "source_account": "GCGOQMMBSNEDDDNTWP6X2IIDVKFJ5UPP6QSUBDHAQLU4SUCDFDVBO63E",
+    "num_swaps": 1100,
+    "total_volume_xlm": 110000.0
+  },
+  {
+    "source_account": "GCXLZFC2PNW4ACGRY4R4WGNTNNMG4EJGRULIT7Q2UAEXWKP5JF2WTIRP",
+    "num_swaps": 1096,
+    "total_volume_xlm": 109600.0
+  },
+  {
+    "source_account": "GBBTASRSLR6LT6QQXGXIEY2LD7EUYK7HSXET5ZYPVYFI4RCRAQEWU7Q6",
+    "num_swaps": 1089,
+    "total_volume_xlm": 108900.0
+  },
+  {
+    "source_account": "GAZILYFZCA7QI7DPEZSDVDJ2BVDSOGIT3ZKGH54UJOONG6CWYRZZQOKA",
+    "num_swaps": 1086,
+    "total_volume_xlm": 108600.0
+  },
+  {
+    "source_account": "GAA7YKKOHDXRVHRPPMQ76R5BCAQV3FYW6OUVKG6FPOZZ74MTLGY3R4NT",
+    "num_swaps": 1083,
+    "total_volume_xlm": 108300.0
+  },
+  {
+    "source_account": "GCINXZI7GVELSVBHLLFHHR2AY3MG6B6B4HFHDE6EGCZBKB27KWOXP5DA",
+    "num_swaps": 1083,
+    "total_volume_xlm": 108300.0
+  },
+  {
+    "source_account": "GDREIF2DUVNPT7RSRMQLMK7JYAGC4WCFV2MQGF26OYTRLGJJ2J7EJZBY",
+    "num_swaps": 1080,
+    "total_volume_xlm": 108000.0
+  },
+  {
+    "source_account": "GAOCL64CI7FVOBEEVFQONGFP4KJNBLHJ6IXVOMJG35DGLUG4FT6QCROJ",
+    "num_swaps": 1065,
+    "total_volume_xlm": 106500.0
+  },
+  {
+    "source_account": "GB4I5J4XILW4HZXMHQFDZEXJEBDYXXWK5C36NIYDJAFD4VFC6I3XR3HL",
+    "num_swaps": 1056,
+    "total_volume_xlm": 105600.0
+  },
+  {
+    "source_account": "GDL6TBDGLJVHDNQAFXI24RK6FE2BWAZNO4NHUMNXB5UGGEYMGZZLVH6Q",
+    "num_swaps": 1056,
+    "total_volume_xlm": 105600.0
+  },
+  {
+    "source_account": "GC66HZCPI7TAOTBMG4ISWA3SBOSEOSZIFIW7ASKS3GTAB2CNDYOTPXPN",
+    "num_swaps": 1048,
+    "total_volume_xlm": 104800.0
+  },
+  {
+    "source_account": "GB6YHTEQZC36GDRBD4T2IOKQVK7JVTZ4XWYCK2CTC7IUJQ56CRFQ6XRN",
+    "num_swaps": 1038,
+    "total_volume_xlm": 103800.0
+  },
+  {
+    "source_account": "GDZ7YKXHTH337YDR7ET3C2R2XB3BBD5WIP3JUFUN4AZZ2HE5WY4Q4NGI",
+    "num_swaps": 1022,
+    "total_volume_xlm": 102200.0
+  },
+  {
+    "source_account": "GBVPYWYXEI5TDFSRJF77F37ROGSHVXYU7KIHVQQRWNQARLBV4SWSTCGD",
+    "num_swaps": 1020,
+    "total_volume_xlm": 102000.0
+  },
+  {
+    "source_account": "GDXTHG7WHMVK2CKDJCK3P3HIFLW62VTXKKYKZO75CNRUCOYLUFH2OFEP",
+    "num_swaps": 1017,
+    "total_volume_xlm": 101700.0
+  },
+  {
+    "source_account": "GCRYKWUUVFPSJ77WZ7S3LEGCBZ5RE5WX2O5W3VMCRQ3ZNC6D2RXDT23B",
+    "num_swaps": 1001,
+    "total_volume_xlm": 100100.0
+  },
+  {
+    "source_account": "GBQFTW6V3DEFJEDPXAZEYDGR5YLXOL457CAIKY45L5X72HZNUOIZ5FMY",
+    "num_swaps": 995,
+    "total_volume_xlm": 99500.0
+  },
+  {
+    "source_account": "GDPH7RUUXZFT466UX5FOQDKNZQKIUEJUIAPRYBYTGTWCV3F6I2YFZHTR",
+    "num_swaps": 987,
+    "total_volume_xlm": 98700.0
+  },
+  {
+    "source_account": "GAMLWWJ6N74IU3JN2OSNDQHP3Z4P74RREPDW6WKOGCNF3Q2TCGU2AK44",
+    "num_swaps": 976,
+    "total_volume_xlm": 97600.0
+  },
+  {
+    "source_account": "GAZH6VXKXCQWUY5HYZRW2QFCIBM7W3GO7ZUPBR2LM6M3O7QX263E7DF5",
+    "num_swaps": 965,
+    "total_volume_xlm": 96500.0
+  },
+  {
+    "source_account": "GBKFOSWPCQKPEK6W6IKP43R62VAGMPCB73Q6VVJQEN3B3ZFKNPVGO4ZT",
+    "num_swaps": 960,
+    "total_volume_xlm": 96000.0
+  },
+  {
+    "source_account": "GDPWMGB6UC64MTIHGAQM2KZDDOEHETGYPUTACTFYURXACRISIVLAIS4O",
+    "num_swaps": 956,
+    "total_volume_xlm": 95600.0
+  },
+  {
+    "source_account": "GB2ICMRFCBEEUUWCS5WGEVITB2OQDIXHOIN6YBZEL3OAKJB6OE5QMXWA",
+    "num_swaps": 954,
+    "total_volume_xlm": 95400.0
+  },
+  {
+    "source_account": "GBQAYAA6M3RH67RT6BFR7R23GDV7PRDREBIRXOYU3OB5YOZYXXUHPBLV",
+    "num_swaps": 953,
+    "total_volume_xlm": 95300.0
+  },
+  {
+    "source_account": "GA6SYMFVLA74WVIHZNGLDQHET4APUQ5RDWX3Q46I56FC55PCI22PCLXY",
+    "num_swaps": 945,
+    "total_volume_xlm": 43.42128420000002
+  },
+  {
+    "source_account": "GAGFOUNNITFLDQC53VIAVOY4XW4VXDI5C5Q7PF57OWFT66374IBFUJO7",
+    "num_swaps": 939,
+    "total_volume_xlm": 93900.0
+  },
+  {
+    "source_account": "GAHARO4DQCXJTJ2KCEZCXRYNZGT3TORBMIPGFMCS7EMYPIKYZ4PREQPU",
+    "num_swaps": 936,
+    "total_volume_xlm": 93600.0
+  },
+  {
+    "source_account": "GB5XN6MJZKLLMKWSNO5QOKKNEU264J2GM6MBKAYEPPZWIUQ5OCQC2VJI",
+    "num_swaps": 930,
+    "total_volume_xlm": 6193.769023300003
+  },
+  {
+    "source_account": "GCCR4SE66WZDJQ2WW52LYFL67FF4G6RV4YDXGLNFHBKVWPMJNWRIWZU5",
+    "num_swaps": 929,
+    "total_volume_xlm": 92900.0
+  },
+  {
+    "source_account": "GDU6IRYRSTP4Q4MP64HKQ3KR6EMHBPFNL5ETPRFOSU2RS7NOGFLBGZXE",
+    "num_swaps": 926,
+    "total_volume_xlm": 92600.0
+  },
+  {
+    "source_account": "GB7JLWWQMZDPPLJXQHJRHVHRSIDQRAQW7YMMV3N564HH7NVUNMNODEC7",
+    "num_swaps": 920,
+    "total_volume_xlm": 92000.0
+  },
+  {
+    "source_account": "GB52FBPGPN62WH5ZXJJCSCGCEVOXPARQGAMEQCNSDBCI2VKNB6GZ6ABD",
+    "num_swaps": 915,
+    "total_volume_xlm": 91500.0
+  },
+  {
+    "source_account": "GD2I7PTRCWWVBGOSJS3QLLSART6FOT6O66DG3IGG72U3ORYWVG3R544E",
+    "num_swaps": 911,
+    "total_volume_xlm": 91100.0
+  },
+  {
+    "source_account": "GD6KDJUNN7CA4VHQVBE2IPXNKPM6KTVLBBBPELG3HEPT26T5H7ZWPORK",
+    "num_swaps": 910,
+    "total_volume_xlm": 91000.0
+  },
+  {
+    "source_account": "GABAC4CSGKWNFE5UFP5KYUQNABQWPYNMHENXTCZNWXCKVAFVHIP7ZY36",
+    "num_swaps": 903,
+    "total_volume_xlm": 90300.0
+  },
+  {
+    "source_account": "GCTSOUD3G6BB2GHJ6NBUZAHCWUBTJAIA2FBCRDDVSKNPCELUI4QG5QB7",
+    "num_swaps": 900,
+    "total_volume_xlm": 90000.0
+  },
+  {
+    "source_account": "GDGIMVF3Y36E6PKG3BHJ7FRJ6TBFVH2X2WITC3O62GQMFNEIEFSIS4ND",
+    "num_swaps": 900,
+    "total_volume_xlm": 90000.0
+  },
+  {
+    "source_account": "GBVQKKMIIX6HWM5CPC54DZTQPPXGOJUCCM434KSLOQIF67KLHINEVCWB",
+    "num_swaps": 888,
+    "total_volume_xlm": 88800.0
+  },
+  {
+    "source_account": "GB7XQX64MXV6KKNE775CMDW7HETISRFE74SNWMMEWXCYOBNGAAXXRZZT",
+    "num_swaps": 884,
+    "total_volume_xlm": 88400.0
+  },
+  {
+    "source_account": "GCA67FQOZRHETTPC7FL42ETQSXKFUAYBD5WNCBENSP4RBS7NA4PRIVER",
+    "num_swaps": 883,
+    "total_volume_xlm": 88300.0
+  },
+  {
+    "source_account": "GDPMAWEBNMFRWCX4PICDXDTEMCZANXAOO5FQHQJIRRUFE4DTMWTIR6SU",
+    "num_swaps": 881,
+    "total_volume_xlm": 88100.0
+  },
+  {
+    "source_account": "GDPAV7YZGV53Z4NUZ6RX3ASEISPY3QTT52CAL5CSH2FDJ7AIAKRFK4C2",
+    "num_swaps": 880,
+    "total_volume_xlm": 88000.0
+  },
+  {
+    "source_account": "GBYRSIKYCDEEP44WN3TVB2UCE5N7ZYZNXLB6AX7RNKJHSJRTMHYRFBP6",
+    "num_swaps": 876,
+    "total_volume_xlm": 87600.0
+  },
+  {
+    "source_account": "GDEQRUXV5Z47LPH4TW2SJTKDZ3YM6E5XEHKX3CHSWXY5LDJJ5GSCGXRK",
+    "num_swaps": 872,
+    "total_volume_xlm": 87200.0
+  },
+  {
+    "source_account": "GC5NHVE42F225ZB7J4NF67O6RMM5LQ5IQKGMZZUSPI2PCBZCRE34RXSY",
+    "num_swaps": 867,
+    "total_volume_xlm": 86700.0
+  },
+  {
+    "source_account": "GDDK6KA4CIVJXH2KDBOLHEEF522CG2YLXTD4T43UWGY4CSPSL5QOQMHE",
+    "num_swaps": 858,
+    "total_volume_xlm": 85800.0
+  },
+  {
+    "source_account": "GABIOWBZG6IXN7ASBBCDPJ2KK5OWQ76UDV3PN4WPQT5MUCFCUQR4JZLE",
+    "num_swaps": 857,
+    "total_volume_xlm": 51.01132639999998
+  },
+  {
+    "source_account": "GBTWXEB5HR3M7QBBSUXAABPDIRFUC3VHE572YD5RWCIYWNDCFCFZOJFW",
+    "num_swaps": 847,
+    "total_volume_xlm": 84700.0
+  },
+  {
+    "source_account": "GDCOQR6JACRQKKU5CBL3D7QAQNJ3OI7NQW42DJMRJDMPJIYXF5G7P2ZU",
+    "num_swaps": 838,
+    "total_volume_xlm": 83800.0
+  },
+  {
+    "source_account": "GAX2UHGIO7R5FXRVHTNTBSRVYH3JCK2ETH3F3DEB2CPJZIOZ6R62GPA2",
+    "num_swaps": 833,
+    "total_volume_xlm": 83300.0
+  },
+  {
+    "source_account": "GCGRM6L7VY6TSWLJM5ZPEMD4TZWVFAWBMAIGQONQ42AUTFDNYQLJJ72L",
+    "num_swaps": 833,
+    "total_volume_xlm": 83300.0
+  },
+  {
+    "source_account": "GDHQP3FYHSQUZZTL5S3Q2JSGFAOAVGL7MNMTYDT6DFMUOND6PF4E754N",
+    "num_swaps": 830,
+    "total_volume_xlm": 83000.0
+  },
+  {
+    "source_account": "GBGQXTRGSQ5RVNVEJLJ27UDOHTLWPWD4UOESPKTTZU6TCDXJO4GSCIAQ",
+    "num_swaps": 829,
+    "total_volume_xlm": 82900.0
+  },
+  {
+    "source_account": "GAE5LN35KSHD7SDNHW63EJH73I7MSAP7B6LJJDGWZWKMO5SVOTJUFDPC",
+    "num_swaps": 829,
+    "total_volume_xlm": 82900.0
+  },
+  {
+    "source_account": "GB7VGVQNHCT4KYY45GCWKWTYGZCWIRVUIYBX3BZGX7HX6GZU4XW6MIOT",
+    "num_swaps": 824,
+    "total_volume_xlm": 82400.0
+  },
+  {
+    "source_account": "GDASNFPNFX3JSJHBOVB7ARWQM4JGN5SYHERKP23NEOJFVO4TR3Q77YZP",
+    "num_swaps": 823,
+    "total_volume_xlm": 82300.0
+  },
+  {
+    "source_account": "GB4T4T6PNYKUYBDR5DZMABYL7DXELFCHGUANO2TJC4BPJW4UW4ZOPMQV",
+    "num_swaps": 822,
+    "total_volume_xlm": 82200.0
+  },
+  {
+    "source_account": "GA2JDOY5EGFZG3VNV7BN6SDWGGPABTCHTARX5NRKH72MRXF44XP7RUSB",
+    "num_swaps": 821,
+    "total_volume_xlm": 82100.0
+  },
+  {
+    "source_account": "GAISC73R75S22LPD5TMOFUVXQ56MGDQ2E5W6VZRIX6F746B5AANJ6J5F",
+    "num_swaps": 820,
+    "total_volume_xlm": 82000.0
+  },
+  {
+    "source_account": "GBN2D5ZQIEAUZNUXMNPQQS3NUFA6N6A6HRUCFXSST3MY5DZWJL2IIQ6U",
+    "num_swaps": 818,
+    "total_volume_xlm": 81800.0
+  },
+  {
+    "source_account": "GBBZHIVASUXBPMJDES4JJIMIRYWRSW4GPVY7DXOG625M743GGWYAQ5ZL",
+    "num_swaps": 818,
+    "total_volume_xlm": 81800.0
+  },
+  {
+    "source_account": "GDAVCBFBDPJMQE3C5T3EM4MCRQIZCSZEDOSTP5SDJV45O6WFOUQ3MUEF",
+    "num_swaps": 818,
+    "total_volume_xlm": 81800.0
+  },
+  {
+    "source_account": "GDLQO4KL6CREUOVQGVJ7HMOFNEIAR7XL2WBWC4GBOPPPATPRFO2KK6DM",
+    "num_swaps": 817,
+    "total_volume_xlm": 81700.0
+  },
+  {
+    "source_account": "GC5LCVW7GYSF4VZRWDFZRCO3URDKGQOAQFX23HN742OIKAAT7Y4OCJA7",
+    "num_swaps": 816,
+    "total_volume_xlm": 81600.0
+  },
+  {
+    "source_account": "GCI2Q23DIIDJ32Q6SQNMBNUCPJS5OBOTT3E3U2T6TPSHMX3T6UTEY6MB",
+    "num_swaps": 815,
+    "total_volume_xlm": 81500.0
+  },
+  {
+    "source_account": "GDNCZTH2PNHTEWOUEFMA6K7RHWRIUBSJ64ZTF3UTQSCMMFEGRY25T75K",
+    "num_swaps": 815,
+    "total_volume_xlm": 81500.0
+  },
+  {
+    "source_account": "GB5PSHCLB3QK5JNVB7IRNWQMWWAOTQNUGMLB4IDW66C22UQKSSGAV4HP",
+    "num_swaps": 815,
+    "total_volume_xlm": 81500.0
+  },
+  {
+    "source_account": "GAKBEPRTTZHQ4CEXUA6SFPF7LVJU33W2XZJQNCOAT2AUBTWH6MBCKPQZ",
+    "num_swaps": 814,
+    "total_volume_xlm": 81400.0
+  },
+  {
+    "source_account": "GD4ELSXYISXBLFZOE2ASLWUF4ZB4PVB3VAWKPUL4UOOIVIUQV6HEG5AC",
+    "num_swaps": 814,
+    "total_volume_xlm": 81400.0
+  },
+  {
+    "source_account": "GAT6EMSATFN2UFW6AG5Q235GMTMAFHPDYPEAIIZB4XZ7DQKUPZF5TF6N",
+    "num_swaps": 814,
+    "total_volume_xlm": 81400.0
+  },
+  {
+    "source_account": "GAA5PWDVEOHTWXXUXVTMGRBFCUAJ3AJ3T2HEOYNLG6NXBFJVBL7AIU3L",
+    "num_swaps": 814,
+    "total_volume_xlm": 81400.0
+  },
+  {
+    "source_account": "GB6MH7FYDPBLOONVGADJV4WXWCLWP32J4H4SVDDTDPPVSN55ZVXSRZA7",
+    "num_swaps": 813,
+    "total_volume_xlm": 81300.0
+  },
+  {
+    "source_account": "GCKFFWXHLBTYDVNRQBP4XGABTZUYLB52KKLBLQAFZETRFIDSMTS7YF7J",
+    "num_swaps": 812,
+    "total_volume_xlm": 81200.0
+  },
+  {
+    "source_account": "GB7Q7FSJAFAXT4CBUX36JSEMCPKJNJIHZJBC5RT7IZG4KKPSAS52RR47",
+    "num_swaps": 812,
+    "total_volume_xlm": 81200.0
+  },
+  {
+    "source_account": "GBOT3EW36XHOTFE4XFTT2KMGHITKXCMRIYMOZGSYUDXX3IFHRNMK6Q7Z",
+    "num_swaps": 812,
+    "total_volume_xlm": 81036.98484640001
+  },
+  {
+    "source_account": "GCJDY3HJDOZ5D6NIIMONPKUZG53SK5FEQJMWEEYZUBX56YOAJ6RQN544",
+    "num_swaps": 812,
+    "total_volume_xlm": 81200.0
+  },
+  {
+    "source_account": "GAR3Y33ZZYNIRZQSNGXXAGN5G5QJM6QTIKF5ZFRC3ZN7XKYBEZPPKW3I",
+    "num_swaps": 812,
+    "total_volume_xlm": 81200.0
+  },
+  {
+    "source_account": "GAWZCFVUKIVOYFHE4IFK6ELL6TMELLKVY4HT5B42VRAZARYRGXEZXAJW",
+    "num_swaps": 811,
+    "total_volume_xlm": 81100.0
+  },
+  {
+    "source_account": "GA2FMUXL4EPEXCAUFYV4EASJOUGHMKPLUSXBZAGJK7DUA2M4DKX74J75",
+    "num_swaps": 811,
+    "total_volume_xlm": 81100.0
+  },
+  {
+    "source_account": "GBIHFTVD5USADWFT6DNCLIUVYHKN5JDQBAQRWGL2FYPQ5CKNPI45BG3D",
+    "num_swaps": 811,
+    "total_volume_xlm": 81100.0
+  },
+  {
+    "source_account": "GCWUKPZHBTLSVXWZLZIH22FLUMC5X4ZMA7L7LKL335WYO74PFYVLH2N6",
+    "num_swaps": 811,
+    "total_volume_xlm": 81100.0
+  },
+  {
+    "source_account": "GDBCMBKJG2HSEQFWOQA7L636KTTBAGTPEHIT5WFBT4OY4PAFLJM45YUA",
+    "num_swaps": 809,
+    "total_volume_xlm": 80900.0
+  },
+  {
+    "source_account": "GAJOSMWFDLZD7CIYJY5BT5VTLIUTIZA7PDVKHVHIYXRNXEDDBWGQM76U",
+    "num_swaps": 809,
+    "total_volume_xlm": 80900.0
+  },
+  {
+    "source_account": "GCOK7BPURSJCVPRBEJAIN2DTK5VJLXXWIYLLG4O44ILL2FW4PZVDUQYH",
+    "num_swaps": 809,
+    "total_volume_xlm": 80900.0
+  },
+  {
+    "source_account": "GDRSHAHZRWXENWAUIKJKQKGXNVSF2CXVL64UZAYJZQA3I7TFVM2BQLD7",
+    "num_swaps": 808,
+    "total_volume_xlm": 80800.0
+  },
+  {
+    "source_account": "GCWV4NW4DGRZHYKZX3FAS4XQQEYCMO2NJ445RCNSWMHMK2CX5K4KLSUA",
+    "num_swaps": 808,
+    "total_volume_xlm": 80800.0
+  },
+  {
+    "source_account": "GBZZR6HLA7PJRBCHQ2VBQKDBMIZUAVMPPNATDQDPXJOQWAQRJ6YXJ2I2",
+    "num_swaps": 807,
+    "total_volume_xlm": 80700.0
+  },
+  {
+    "source_account": "GC7ZJU2AN5DNIY2YENPEYGBYRYK7BRSIFSXZ4TDYB33AFYCJFEC5F5K3",
+    "num_swaps": 807,
+    "total_volume_xlm": 80700.0
+  },
+  {
+    "source_account": "GA7K6UIHR2WH5BIF622JEXOBR5GZKVYY73VVXE6Y3IV54Z7X3YFZ52D6",
+    "num_swaps": 806,
+    "total_volume_xlm": 80600.0
+  },
+  {
+    "source_account": "GDHNBAV6XL4JFLBBWUJUUYMTHUMUJR74OEUKRUMMGOT6CKWZW26Y7DUK",
+    "num_swaps": 806,
+    "total_volume_xlm": 80600.0
+  },
+  {
+    "source_account": "GAVGVKQDEIAEQU3KRXQFNVPBGQFZ36LYYF5TDIQZXFV25ZPKUZQGQ5FU",
+    "num_swaps": 806,
+    "total_volume_xlm": 80600.0
+  },
+  {
+    "source_account": "GAGCMAGBCQHOR2GQXPZKBXDULYHIDDCNQUMNMIGONCGYFWRM4GTT3WHN",
+    "num_swaps": 806,
+    "total_volume_xlm": 80600.0
+  },
+  {
+    "source_account": "GBOUDBHSZAFV3ZWIQUL5S25CPZOHJWERPSDBM5A3P3ABHTMGAFPKN57K",
+    "num_swaps": 806,
+    "total_volume_xlm": 80600.0
+  },
+  {
+    "source_account": "GDO7VK5LLCTT6GINW2V2CCZ56UQJGB5IJWWM6XN4V33AKCWR3V3OOG3S",
+    "num_swaps": 806,
+    "total_volume_xlm": 80600.0
+  },
+  {
+    "source_account": "GBT5XZOB3GKOQGCRZIVKBVCSNFD6TNR5D7LTTWJAPSYFRAZPJFQL62RG",
+    "num_swaps": 806,
+    "total_volume_xlm": 80600.0
+  },
+  {
+    "source_account": "GDCP4B2QR53YTT3ZA43LMGGRE2WWAFRXHERIOIL4QXDTIUJJOLPZ3EXX",
+    "num_swaps": 805,
+    "total_volume_xlm": 80500.0
+  },
+  {
+    "source_account": "GDMT5MESIXF6VD66KXHOM7U5QFLLNMFDMTUVFIXDU3YFQ7PWIXJPRPV7",
+    "num_swaps": 805,
+    "total_volume_xlm": 80500.0
+  },
+  {
+    "source_account": "GAYFTN4TRJBFHSGYV4OUCWK4L6KPFNB7C6EXWMK7IBLLLQLP4PU7YFJI",
+    "num_swaps": 805,
+    "total_volume_xlm": 80500.0
+  },
+  {
+    "source_account": "GDPY3C5LUBFSDYJOJCMLUVHE2BWBWVQTAN3NGDWK5SBQLIFZ2XTXTGWO",
+    "num_swaps": 805,
+    "total_volume_xlm": 80500.0
+  },
+  {
+    "source_account": "GDOIQWQFFW25MZGAX7LRPAN55ZIFKTXSHLMIVSFJNRIGUQ2RTMHER3LU",
+    "num_swaps": 804,
+    "total_volume_xlm": 80400.0
+  },
+  {
+    "source_account": "GCQTMPCRJXZOYS4BRAWIC2QVCR37HVD6SJPJHNHEQIV7CMS3A5VQ6APQ",
+    "num_swaps": 804,
+    "total_volume_xlm": 80400.0
+  },
+  {
+    "source_account": "GAWI6KPWIUVLR2DJMXJ7GE5UI2LIK3EDQAZTOX6JNBE6YXTY63CQDJT4",
+    "num_swaps": 804,
+    "total_volume_xlm": 80400.0
+  },
+  {
+    "source_account": "GDBXIC7P24JQIZ2SNMUFD6HJQSLY46PBXL5MIKSA4BPJEYYR2DL4VTTL",
+    "num_swaps": 803,
+    "total_volume_xlm": 80300.0
+  },
+  {
+    "source_account": "GCAGFBH47CBUJM4RB5F3YQGFGAP2WOZKBXWGXYB7XZAHASFAY2YRT5B2",
+    "num_swaps": 803,
+    "total_volume_xlm": 80300.0
+  },
+  {
+    "source_account": "GBZYFDSRI33D4IA3WRVDCKVAD32KVCMGU2QX5WPAEOLMGJNSMRYMVAJP",
+    "num_swaps": 803,
+    "total_volume_xlm": 80300.0
+  },
+  {
+    "source_account": "GBUNYXI2R2X32K7CKFGRWJQ5GHNLICHC3WRYMUHDH2NS5UOXIFVTCPCU",
+    "num_swaps": 803,
+    "total_volume_xlm": 80300.0
+  },
+  {
+    "source_account": "GAGIYQSNAWXSKF5F6GGMQDZKC4L2FII7JXJNP3WPW47XVHLBM7TN3O5X",
+    "num_swaps": 803,
+    "total_volume_xlm": 80300.0
+  },
+  {
+    "source_account": "GBH35J6LHBRFQ362YIQBVPPYFKPM3ZHJQ6MQ7ADB4RLWI3NRIA6XWW5N",
+    "num_swaps": 803,
+    "total_volume_xlm": 80300.0
+  },
+  {
+    "source_account": "GC2QIJ3EG5XKMZJX6IKIIUB6NEAJU4EFYAGN6YBMF54MMOPNS6WZEBLX",
+    "num_swaps": 802,
+    "total_volume_xlm": 80200.0
+  },
+  {
+    "source_account": "GBFLDAQALCFNYKKDX7N26QSOL5HZE65RCZEJN5WX3JINNBVCXYWTRZZM",
+    "num_swaps": 802,
+    "total_volume_xlm": 80200.0
+  },
+  {
+    "source_account": "GDX7NNRYOXCEVSD73VZXMSTQ2PRFFMPHBRNAPW7EJUDAU5M7K2JXEUMJ",
+    "num_swaps": 802,
+    "total_volume_xlm": 80200.0
+  },
+  {
+    "source_account": "GDQZDWONASSMPGYBEIN6W3OCPJ4OS6LGNDDL6V5RTP5U4IONE6KNA7H4",
+    "num_swaps": 802,
+    "total_volume_xlm": 80200.0
+  },
+  {
+    "source_account": "GAI5JRE2H3VMLXNXNO27WWO6ZJLGNIQIUBFFB4X6RO57OCDFYGZZGS5W",
+    "num_swaps": 802,
+    "total_volume_xlm": 80200.0
+  },
+  {
+    "source_account": "GDOKBRZUGMCFIXLNX4PWLDLVX27WIVIMRCOVX5VHCCOLT55GGDH4BFZJ",
+    "num_swaps": 802,
+    "total_volume_xlm": 80200.0
+  },
+  {
+    "source_account": "GB4F7VCMKUCTWIJIQQPLC5D5WOP7EO3OHZOG7RDYNLVZSNMMC6XMRQQG",
+    "num_swaps": 802,
+    "total_volume_xlm": 80200.0
+  },
+  {
+    "source_account": "GBRH6PPBYP4WH46X75NP4C5SR5YCHMXC2ROML54KOMOFBRBKUPGYMFOH",
+    "num_swaps": 801,
+    "total_volume_xlm": 80100.0
+  },
+  {
+    "source_account": "GD7CJBSNOGJUJQU6IIMMU2HAJIYHLSJMO5DAPKKELAH6IIT5KDXU4MV6",
+    "num_swaps": 801,
+    "total_volume_xlm": 80100.0
+  },
+  {
+    "source_account": "GCPZEED6ONQL24IQY6JJL5KTPDON3XD7WSABV2MS74DUN6QG3UTMW6PE",
+    "num_swaps": 801,
+    "total_volume_xlm": 80100.0
+  },
+  {
+    "source_account": "GCJ4WXVR22RYNDLS6JOLVC5YOAZGSZ4TCPLWWEWRBSS4SN3RHG3Z5LC3",
+    "num_swaps": 801,
+    "total_volume_xlm": 80100.0
+  },
+  {
+    "source_account": "GDIIDQBAKHMVQJAFT4KHHSOORHMECPSNGXKNGFRA5SIVZ2ZKPAMMSJ4Y",
+    "num_swaps": 801,
+    "total_volume_xlm": 80100.0
+  },
+  {
+    "source_account": "GCTEN5ZZJVGSI5R6PTMK2HSG2IKFJJZSDPZRSUCFVRCJK6PG7BZXEG3S",
+    "num_swaps": 801,
+    "total_volume_xlm": 80100.0
+  },
+  {
+    "source_account": "GDUOAAO2QRIQ276FNSE3X4SB5HIQ3QCM5FMEVU5BBUS7YV3HYUEESWJZ",
+    "num_swaps": 800,
+    "total_volume_xlm": 80000.0
+  },
+  {
+    "source_account": "GCEFOCNR644MIPBWSPGDG6Q5DUB6GXJVURBPWD4RK5LYSRAOJZ5COBM6",
+    "num_swaps": 800,
+    "total_volume_xlm": 80000.0
+  },
+  {
+    "source_account": "GBPMCRSARJRIQ7QJKXDRWHSU2FNDACVPQSAFHASZXNUV6DFRWOC4PXLR",
+    "num_swaps": 800,
+    "total_volume_xlm": 80000.0
+  },
+  {
+    "source_account": "GCCYKBN4BO6KTR5IIKUURCJQDQH7R7GDSX6CZW7RKNAZWV6AW4X3JSHL",
+    "num_swaps": 800,
+    "total_volume_xlm": 80000.0
+  },
+  {
+    "source_account": "GBPB3SNS4M3H6GY3Z7S6IOVBR6I6M2X2SYUBFFTBL4CCRGBNEWVC4H6W",
+    "num_swaps": 800,
+    "total_volume_xlm": 80000.0
+  },
+  {
+    "source_account": "GBZ7NPUOSCSSDENCG3DO6POUUP4U26YWPXSPDYPF7T6I7GTQXQNWDAFO",
+    "num_swaps": 800,
+    "total_volume_xlm": 80000.0
+  },
+  {
+    "source_account": "GC655S4Z4MPWMQ4ZS6EVPYXQECKT2TGDKNYEWELMLVEO27ABUTD3HX2W",
+    "num_swaps": 800,
+    "total_volume_xlm": 80000.0
+  },
+  {
+    "source_account": "GDSNRIFUHUO5P64O5MKKP3YGY2B6PIP7YSIZMXUB2YCMR6KIQND2IQOA",
+    "num_swaps": 800,
+    "total_volume_xlm": 80000.0
+  },
+  {
+    "source_account": "GATF4EV2NAGXQ6E4EVXVJWXUVRMVYKMZPFGZIO7EPYRQUAX4P576JM63",
+    "num_swaps": 800,
+    "total_volume_xlm": 80000.0
+  },
+  {
+    "source_account": "GA43BG3YU2GOL4KJIUWWOCTYFBS263URULS26C7M6Y3KJPUMOV2XYM7Y",
+    "num_swaps": 799,
+    "total_volume_xlm": 79900.0
+  },
+  {
+    "source_account": "GCXBNMNDC4FY6MIFMY3CI2H3GLOOHXZ26UB6DYITPDGSZJVQD6AEOHWT",
+    "num_swaps": 799,
+    "total_volume_xlm": 79900.0
+  },
+  {
+    "source_account": "GBADFEASUYCTSMAWGOIWS7OEAGH36S7VSZ5MEGI6SJVHZW7QLC4CPSPN",
+    "num_swaps": 799,
+    "total_volume_xlm": 79900.0
+  },
+  {
+    "source_account": "GAZJX7ZBRUIVLE5NWTK6JCTA6BC3OZYCD6T3ZZAIQEZV77WG5B7SY2VC",
+    "num_swaps": 798,
+    "total_volume_xlm": 79800.0
+  },
+  {
+    "source_account": "GBFBCZPSBH4UA4XO3DX4JOFCUUEE7YKMHKVMHGLZSBJLOGQ2R5XZU6HI",
+    "num_swaps": 798,
+    "total_volume_xlm": 79800.0
+  },
+  {
+    "source_account": "GD2NEM5NGQVMTFLX2CQATPR4ZSVBHL7O7JERTOWGHWT4SUDLBMJSLAQL",
+    "num_swaps": 798,
+    "total_volume_xlm": 79800.0
+  },
+  {
+    "source_account": "GC3YC6DF3JBZIGY676N3AP4K4BC44KZ7SLHXV2Y2KRFE3PPTEGUKBNHX",
+    "num_swaps": 798,
+    "total_volume_xlm": 79800.0
+  },
+  {
+    "source_account": "GDAZDPWFYNU655DDBMF3HVRVG7XM2ZQZT7IAJXC2QVBE54FL2XJ5FTJW",
+    "num_swaps": 797,
+    "total_volume_xlm": 79700.0
+  },
+  {
+    "source_account": "GDNACJVYGRA2K7SZNURQQX44MGQLHC55LGMSIT4CHETMYICB3UQKXNGY",
+    "num_swaps": 797,
+    "total_volume_xlm": 79700.0
+  },
+  {
+    "source_account": "GCUOSFF5ZGIQI6LTJP2R6R43FGZBGZLF3FGLEIJGFLLYFNA2GPYZNOLI",
+    "num_swaps": 797,
+    "total_volume_xlm": 79700.0
+  },
+  {
+    "source_account": "GBLJHC2IS6YTIVJEHCPMX5HCEUCHQJBS4VNPER453KMN3SGMFO6WGFIM",
+    "num_swaps": 797,
+    "total_volume_xlm": 79700.0
+  },
+  {
+    "source_account": "GDBIVRJYRSOKWG6KWDY7WNRXWDEMNLJT7G5F35ORSWSRYWT74P64QSAV",
+    "num_swaps": 797,
+    "total_volume_xlm": 79700.0
+  },
+  {
+    "source_account": "GBWB3DCQZMCEB5OSERX7SN2FZ42P2X5ZZYNYEW2MCPNTIWNCXUYMVJ7I",
+    "num_swaps": 797,
+    "total_volume_xlm": 79700.0
+  },
+  {
+    "source_account": "GAE5CUMHGBXTGTLTOV7XSHWFHFTEP636QJXE3ALUQUCQAEGFPRXYBYIQ",
+    "num_swaps": 796,
+    "total_volume_xlm": 79600.0
+  },
+  {
+    "source_account": "GB6H3JOFQD75IFVL34MJVOAPKABJJCS7BICUNNLUGVWRASMK4Z3SMG5A",
+    "num_swaps": 796,
+    "total_volume_xlm": 79600.0
+  },
+  {
+    "source_account": "GDNQ6ECLNG6HEVWAPFU3SBZHXU3D3MLP5HWYBUFWXJGWMPFNH7KRXHME",
+    "num_swaps": 796,
+    "total_volume_xlm": 79600.0
+  },
+  {
+    "source_account": "GCRQFF4ATXWLTCFZZX3WVYPG3QRB2AI2PETRYNXXAODSGD7M42UOAIMG",
+    "num_swaps": 796,
+    "total_volume_xlm": 79600.0
+  },
+  {
+    "source_account": "GAA5YS747BQ2TXKMQODMKPSUZRNYGZTBKFYFZN2UBZ75BLXCZUVARMOR",
+    "num_swaps": 795,
+    "total_volume_xlm": 79500.0
+  },
+  {
+    "source_account": "GD37NDZJ7OKR7KW25B6WOAN2Q34AIC5MLIVPVBZQZ5FIBEVGA4ILLBU6",
+    "num_swaps": 795,
+    "total_volume_xlm": 79500.0
+  },
+  {
+    "source_account": "GAG4K4XRWF5K2RGATU3HVYMCYT73ZNSRBCCQKEVQGC2SJGZSFDVDPDM4",
+    "num_swaps": 795,
+    "total_volume_xlm": 79500.0
+  },
+  {
+    "source_account": "GDGDCXUMZOR7ARCFTU5DLTUDL7QSSJTQKXWXIXZEP2RJZSJZRTINUEUA",
+    "num_swaps": 794,
+    "total_volume_xlm": 79400.0
+  },
+  {
+    "source_account": "GCV6X3QZR2CMXDV437MSTLBHU5YOOL6SMAVVSWLPVF2TSYQDPCVSXUDX",
+    "num_swaps": 794,
+    "total_volume_xlm": 79400.0
+  },
+  {
+    "source_account": "GA4YJJOKFEEPSKDZGIITDT5VKD52SYUM4DXTAZL5GPKEKABOHP4N3U5Z",
+    "num_swaps": 793,
+    "total_volume_xlm": 79300.0
+  },
+  {
+    "source_account": "GCQVRS5PR46OXQTHQYTEI5DQDH5B7I5HJTZSYWLGDJF7B3LAA3OBT3QO",
+    "num_swaps": 793,
+    "total_volume_xlm": 79300.0
+  },
+  {
+    "source_account": "GCCSSJMTQCKORXCDIP3663C4OS6YKBFW57CYHI3AMESW2YZDRTUGSJTN",
+    "num_swaps": 793,
+    "total_volume_xlm": 79300.0
+  },
+  {
+    "source_account": "GBUR4ERDLFEMUWXI5GWD7BMW3JLHNCVUXAFVULUNRNVDAWMFOMYXAVLE",
+    "num_swaps": 793,
+    "total_volume_xlm": 79300.0
+  },
+  {
+    "source_account": "GBQMWXXT7ZWQHGSZFAR6YMLC6C6GOTENXGBXCZGS6DABHK3P6EE5AHJO",
+    "num_swaps": 793,
+    "total_volume_xlm": 79300.0
+  },
+  {
+    "source_account": "GBES75YTHRLDJMTBSKBP74BSYZ2DETASHGRFUHLJSKLLXD6J3S7S24SM",
+    "num_swaps": 792,
+    "total_volume_xlm": 79200.0
+  },
+  {
+    "source_account": "GDXGKHKKWIND6S2TQAC53ZDIL3HJ5DAVLIPRJU3PXT5L24A3AEVJ6PRO",
+    "num_swaps": 792,
+    "total_volume_xlm": 79200.0
+  },
+  {
+    "source_account": "GCTV7BTOIFBHIEADCASLXJZ2G73F4APYCUMHC3RSVIGQTKKWUYVHKZH5",
+    "num_swaps": 792,
+    "total_volume_xlm": 79200.0
+  },
+  {
+    "source_account": "GASZ2C3H2J4TPQHLFGRXOIDYUF6PBPFR3S7PB7FKSR7QKI5HMZTA63OB",
+    "num_swaps": 792,
+    "total_volume_xlm": 79200.0
+  },
+  {
+    "source_account": "GDUUHRK7SY746OUTOKSV4DYO5JWUWHA2Z7ZXCLTP4SP3UGYRLG66QKTX",
+    "num_swaps": 792,
+    "total_volume_xlm": 79200.0
+  },
+  {
+    "source_account": "GDRV64GXI6YPHUGG3JH6JXA4JOOJOHIBOTK7S6KZLCKQQY6AEFZJSANI",
+    "num_swaps": 791,
+    "total_volume_xlm": 79100.0
+  },
+  {
+    "source_account": "GD65NLCIJTABKU7CI32OQ7TOBFDBAV4PCIKZIAAT3EF4T5ZX2AZEPHU6",
+    "num_swaps": 791,
+    "total_volume_xlm": 79100.0
+  },
+  {
+    "source_account": "GBFU5G4BRIJZHDYDE3MJVLFXIBKJQ3DYB5KXWCZKG3GENUR6FINXLTBQ",
+    "num_swaps": 791,
+    "total_volume_xlm": 79100.0
+  },
+  {
+    "source_account": "GCNXNS2RI6C5G6TZHEDSKXB2T2B3CKTOTKY4PXYM6SPUDUCUYU4I3AOS",
+    "num_swaps": 790,
+    "total_volume_xlm": 79000.0
+  },
+  {
+    "source_account": "GBKCXB3UOMSWKUKX4KQTEKLFPREK63PB46ONBZ56POWMX75NUX6GREEN",
+    "num_swaps": 790,
+    "total_volume_xlm": 79000.0
+  },
+  {
+    "source_account": "GBODQUXYYCXL5KOSMFLHKPKJFCLSLHP2332FDY34DJET5NVXJCFHJJBX",
+    "num_swaps": 790,
+    "total_volume_xlm": 79000.0
+  },
+  {
+    "source_account": "GCKHI3PLM3ULQGFHQHQKWD7JJ4MOB2FLZEY6LEV3WXUDTCD72KOFUN3C",
+    "num_swaps": 790,
+    "total_volume_xlm": 79000.0
+  },
+  {
+    "source_account": "GB57WRAHARE2V4VNBUVP7QVDSXZT6JFGMRMUN7TO43B4ZID2P7GWQV62",
+    "num_swaps": 789,
+    "total_volume_xlm": 78900.0
+  },
+  {
+    "source_account": "GDAX5WUBRHH5MG35Q37K636ZERLKCFTS46DYJIVGYM3HNKKHVJY5NM57",
+    "num_swaps": 789,
+    "total_volume_xlm": 78900.0
+  },
+  {
+    "source_account": "GDKWRDPXF4M26BCFQ4D3OQBNEQDUK6B4JSP37APY43GXB6ZBZYPR5R7M",
+    "num_swaps": 789,
+    "total_volume_xlm": 78900.0
+  },
+  {
+    "source_account": "GBWL746475N663QSKKPV6LC34YFIKJW4SSCCHUOE6UF2W77TXI5JSJOA",
+    "num_swaps": 788,
+    "total_volume_xlm": 78800.0
+  },
+  {
+    "source_account": "GCSJWFFVHYVEQHVSEB237VRWYEKOEOABQJK64RZHXREEEZCYFWQGIT54",
+    "num_swaps": 788,
+    "total_volume_xlm": 78800.0
+  },
+  {
+    "source_account": "GBWDD46WNF5VA3KGXOAH27CXFCMA7QR4SMNSGBRHXMSIBSQEJOOUVD7K",
+    "num_swaps": 788,
+    "total_volume_xlm": 78800.0
+  },
+  {
+    "source_account": "GDZIQ3DABQBDTQDQB57XEHIZJVRQUHO25VYFTCH466BXTHPQV5JKL63L",
+    "num_swaps": 788,
+    "total_volume_xlm": 217.3994772
+  },
+  {
+    "source_account": "GCTNRPYLPXKYG47LF273NVCET3VTHE74FTO2YDIMO5HNZNM7BR7FDAO2",
+    "num_swaps": 787,
+    "total_volume_xlm": 78700.0
+  },
+  {
+    "source_account": "GDTIUWMBM373APM457NQURDUP2KPDWO6NILRTGNRRKQYNEFYILDZ22RO",
+    "num_swaps": 787,
+    "total_volume_xlm": 78700.0
+  },
+  {
+    "source_account": "GDHK6L3R55SFPJY7T7OKW3NOA7X25JFNI4WEI6EDK7FV7VD5JUILAZCY",
+    "num_swaps": 787,
+    "total_volume_xlm": 78700.0
+  },
+  {
+    "source_account": "GAMJWPZT7I4U7HAIS4UQ7QGWMKVPCSGXSZGK5Q5OGIGYZIDYKRXTQEMZ",
+    "num_swaps": 786,
+    "total_volume_xlm": 78600.0
+  },
+  {
+    "source_account": "GABJMAEL5IH4CM76NMVXU3O3I3T3DEQ65SQWA24ZEJD33A6LGXLHRTCA",
+    "num_swaps": 786,
+    "total_volume_xlm": 78600.0
+  },
+  {
+    "source_account": "GATD3M2UCK7WWEIEFUGQ5HAIRQTKRDZPSLPY6YRU27LDFC4ZLL3GXPY3",
+    "num_swaps": 785,
+    "total_volume_xlm": 78500.0
+  },
+  {
+    "source_account": "GAZHO4WTXFMOVCIAM467OPM4R35BB25KMHZPSYQ2AMKVKVDJWP4WDMPG",
+    "num_swaps": 784,
+    "total_volume_xlm": 78400.0
+  },
+  {
+    "source_account": "GD5ENHY3Q364NMFBGN4YQKXARRQ5MHJZBT645NJFXLGWFREFDFXNB2N6",
+    "num_swaps": 784,
+    "total_volume_xlm": 78400.0
+  },
+  {
+    "source_account": "GB27U57KIIMMEDDD5RKQHXSYEOPVUQSZWDT5YSLSR747CCVHKEDZDJGA",
+    "num_swaps": 784,
+    "total_volume_xlm": 78400.0
+  },
+  {
+    "source_account": "GDCYQXW2GJJLVHOBUESKRLK2K7MUE2MSQWNPJPC4OURU452KVF3OPLL2",
+    "num_swaps": 783,
+    "total_volume_xlm": 78300.0
+  },
+  {
+    "source_account": "GDJ3CRJJWS34KA4BHNJFHASFAQ33LTJW2LDOH6G4ORRJSZHSHVTSCEXH",
+    "num_swaps": 783,
+    "total_volume_xlm": 78300.0
+  },
+  {
+    "source_account": "GAKO3PDHVFWJFWISLFCVAI6TABWZM5MS7APR22MTRYXZI3X5YD5COO5I",
+    "num_swaps": 783,
+    "total_volume_xlm": 78300.0
+  },
+  {
+    "source_account": "GCTI652YORYXWCNJJBKKCJK4P2PAVTM6S76LZFZ2SWZ2ZLHTL5RHB7AK",
+    "num_swaps": 783,
+    "total_volume_xlm": 78300.0
+  },
+  {
+    "source_account": "GA5QSHGLGEJT5PRCQZPF4AYH63B6PS5ALPR5TSJY7GVLRBSO5GG6KITK",
+    "num_swaps": 782,
+    "total_volume_xlm": 78200.0
+  },
+  {
+    "source_account": "GCI6K2NBZH45CDMND5EDXVSK3XVUON6UI3RLJPYVFN55QS2DWBTAMSHC",
+    "num_swaps": 780,
+    "total_volume_xlm": 78000.0
+  },
+  {
+    "source_account": "GCVU2QPUOOFBT7NXXBBJ2BTQOS5IGLW452HZIMCSNMPPU2OFHOGKC3RY",
+    "num_swaps": 780,
+    "total_volume_xlm": 78000.0
+  },
+  {
+    "source_account": "GCZTDRACPIWF6KJNCNXVTLTY5JLHPOPEIWE6GG7PVFFE7JKWOTPLYZBG",
+    "num_swaps": 780,
+    "total_volume_xlm": 78000.0
+  },
+  {
+    "source_account": "GAGMG7ZLPCQRWGI3POON74K44R2AHIUYWTTZNMJYQDNYWJ735Y3Y6563",
+    "num_swaps": 779,
+    "total_volume_xlm": 77900.0
+  },
+  {
+    "source_account": "GDQ6GAGQFFLQGBTCRG2RDITGAQWAB4YRKLAYDSDFGZHRASP2AONSVLLN",
+    "num_swaps": 779,
+    "total_volume_xlm": 77900.0
+  },
+  {
+    "source_account": "GBBAPKR3KXVROLOYB7DXHUIQRJ5MSH53MLIWD6EE3USI4UZWOAJPSZK2",
+    "num_swaps": 778,
+    "total_volume_xlm": 77800.0
+  },
+  {
+    "source_account": "GBE4UE4OP6O7VOEWT4K3CUTCD5FH7AOJD4KWF2X4QJA4UQLRR4EQUOQC",
+    "num_swaps": 777,
+    "total_volume_xlm": 77700.0
+  },
+  {
+    "source_account": "GCDDG6K5FNAUITZTZ7X4Q7HWNPKUP7NSTJ6GFWQPGZEPSWRRRFCA7I2Y",
+    "num_swaps": 775,
+    "total_volume_xlm": 77500.0
+  },
+  {
+    "source_account": "GAEC25ZNEY6Z4A3FD5D3IY4HHNWUZUWXQ5MLNWKTPMABJFM3SLCDP4PT",
+    "num_swaps": 774,
+    "total_volume_xlm": 77400.0
+  },
+  {
+    "source_account": "GCJTM2OSIRE4363ZZLMCM2FCQQGYWVUUODKAPAARSK53EG4IIFZA7NAO",
+    "num_swaps": 773,
+    "total_volume_xlm": 77300.0
+  },
+  {
+    "source_account": "GDWTYJBFUGTWYPQYKZ36ZCU7NYMJB6GNYYLVI5UGBQDQ2DR6YI72QKII",
+    "num_swaps": 773,
+    "total_volume_xlm": 77300.0
+  },
+  {
+    "source_account": "GBX267P5U4FCUUKXPXBLW3VXGVYLCP7RAEK5PYNEYIQG46GTOWAMIYW3",
+    "num_swaps": 772,
+    "total_volume_xlm": 77200.0
+  },
+  {
+    "source_account": "GDDFXMH7AJFLPNIG2UNQZWQTFEKJA6DQV7QDCVA6UHBVCUFA6Q3MPOGN",
+    "num_swaps": 772,
+    "total_volume_xlm": 77200.0
+  },
+  {
+    "source_account": "GAWPT2TVHYOIOIBBUWLYDVIIKI2ZMVB5B7Y33B6HZ2KLMHB5HPACB674",
+    "num_swaps": 771,
+    "total_volume_xlm": 77100.0
+  },
+  {
+    "source_account": "GCTM7WYPFYHEQC4L43DLLGNN3KBZI3MRE3RVILVCOMRXDPGUBSS5LQZW",
+    "num_swaps": 770,
+    "total_volume_xlm": 77000.0
+  },
+  {
+    "source_account": "GBXFTBTSBMBSX62ORLOFLEVEFGJIHRRF6G5ZKLJW3TVC4YSKDUSYBOSE",
+    "num_swaps": 769,
+    "total_volume_xlm": 76900.0
+  },
+  {
+    "source_account": "GDP733WZPIKXNZAOYOP2624QBRQGYT36TGNIT5IBXLSFHSTNATVYMBLB",
+    "num_swaps": 769,
+    "total_volume_xlm": 76900.0
+  },
+  {
+    "source_account": "GC2O7H77H22YI4APS4SHJHAYBW3S75NWRSNB24DJYQSN7JFWDEESXIL6",
+    "num_swaps": 769,
+    "total_volume_xlm": 76900.0
+  },
+  {
+    "source_account": "GAL52AIS2FWJ23ONVXWQ6ZVUWSEIXUXY6IYOAM2RJX5QUJKGSOAR7H2G",
+    "num_swaps": 768,
+    "total_volume_xlm": 76800.0
+  },
+  {
+    "source_account": "GACAIUQRTIE3FPJV754GRVWD3XBWMT3QYYUKILRDADG4CV6QBGWEYMXP",
+    "num_swaps": 767,
+    "total_volume_xlm": 76700.0
+  },
+  {
+    "source_account": "GACOYTEJUKZCPYKAWYDROOOFAII4PI24SXEANEZLPOD4SFD7THL3MDEU",
+    "num_swaps": 766,
+    "total_volume_xlm": 76600.0
+  },
+  {
+    "source_account": "GD5MW5ORUWU5PZVZUW6XY5NLXLGWLSMLJSKUKCOECLZPJ445CXGDLUOF",
+    "num_swaps": 765,
+    "total_volume_xlm": 76500.0
+  },
+  {
+    "source_account": "GCO5U7F7M45ZSI747IIFVVNV5OIYA33UMQAAJN33P3R3TN3TZHDF5OUR",
+    "num_swaps": 765,
+    "total_volume_xlm": 76500.0
+  },
+  {
+    "source_account": "GAH7EJ5JY6YSK3EEDXPEUM4643XKIZ5TO2AUQY6SIWXS5ODBO2FYITQN",
+    "num_swaps": 765,
+    "total_volume_xlm": 76500.0
+  },
+  {
+    "source_account": "GD25FQKZWQZL4O6RHTWWMYHTI67S7M3LM2RH5MHPWGUBWXVMK7SNVAXH",
+    "num_swaps": 765,
+    "total_volume_xlm": 76500.0
+  },
+  {
+    "source_account": "GCA6PXEUCGK6T6WAIWYDEVP5MYC7TROO6KX5CAETVG2L3B6SWFOF3NNI",
+    "num_swaps": 764,
+    "total_volume_xlm": 76400.0
+  },
+  {
+    "source_account": "GAKW2J6GN3RRFU3RX7ABDQSZEDCYTG3M32BCYCRDEWILQMO4NWRMWAKR",
+    "num_swaps": 763,
+    "total_volume_xlm": 76300.0
+  },
+  {
+    "source_account": "GCC23JJCZMM6764J32S5LISKHDBRDAPUFDR4WWHY5GUOQ6XUEMRY3J73",
+    "num_swaps": 763,
+    "total_volume_xlm": 76300.0
+  },
+  {
+    "source_account": "GC3RIS2I7OIRI244I55HOWIM5O5M2NAENAY3ZJSRIARD2JYQREK6IJX7",
+    "num_swaps": 763,
+    "total_volume_xlm": 76300.0
+  },
+  {
+    "source_account": "GAKDHPBU3YUVAFZMS5PJORD6XJ7WRNOKWTJ2SPHP64WFH7KZSGVK65XV",
+    "num_swaps": 761,
+    "total_volume_xlm": 76100.0
+  },
+  {
+    "source_account": "GBVXMUSCCTEHR7L6S4LT3GTB6PA6MMG6J3ZXQZCYQOSKURPSJUZN7SNK",
+    "num_swaps": 760,
+    "total_volume_xlm": 76000.0
+  },
+  {
+    "source_account": "GBELGQZPIXORCPGGI7KIJKNIXTX7TAWIOWIZI4E3XL3EK7YSUETA6MCW",
+    "num_swaps": 759,
+    "total_volume_xlm": 75900.0
+  },
+  {
+    "source_account": "GD4HF4FS6BXHNBWVCXXZ5D2GRAROEFMXNCSXRSBFSXFYYSRLQFSNGRVI",
+    "num_swaps": 758,
+    "total_volume_xlm": 75800.0
+  },
+  {
+    "source_account": "GB3GUWP6ZZALJ357XI5MU7J2VJG4SECP5OPGNT35YZAR2W7IPBJNHTHJ",
+    "num_swaps": 758,
+    "total_volume_xlm": 75800.0
+  },
+  {
+    "source_account": "GCUS2UN7TBPTHQDGCNF5TTB53RG4LTCQEI627SNDPVOQ2ZXSHER2DP5M",
+    "num_swaps": 758,
+    "total_volume_xlm": 75800.0
+  },
+  {
+    "source_account": "GDTUB2NHDEPOMCULORXC7LRFYDFGCP4OYXSUIG333EHSYVDZCXKCCZOA",
+    "num_swaps": 757,
+    "total_volume_xlm": 75700.0
+  },
+  {
+    "source_account": "GDSS37YHODNK7DBHO24CM2DYNMDANVGUW4LCBORXFUOF6QDDECGJQD56",
+    "num_swaps": 757,
+    "total_volume_xlm": 75700.0
+  },
+  {
+    "source_account": "GBYK52RW7KEE3G3FVCZM63RXYX22UGTT7VG4XDSSMZUGA7DOFI7PKVWO",
+    "num_swaps": 756,
+    "total_volume_xlm": 75600.0
+  },
+  {
+    "source_account": "GCHDILNU4WMJ2MYBXNE5VXKULSEIFMXKJN2BKJURQJODLRXSMYD7EBJG",
+    "num_swaps": 756,
+    "total_volume_xlm": 75600.0
+  },
+  {
+    "source_account": "GD4TUO3FDXSTWLDD4XPAMFN5BJG7G4O5IOJF7D4YMVQCF5JHY62AJXTF",
+    "num_swaps": 756,
+    "total_volume_xlm": 75600.0
+  },
+  {
+    "source_account": "GC2ARX2BYKQQ3VRHQ4RTG6M3PKCT2UXTMC2CBAL6OCOMW5IJWCRN5ZJZ",
+    "num_swaps": 756,
+    "total_volume_xlm": 75600.0
+  },
+  {
+    "source_account": "GD6FKEAUVXX6JZFK753BBQ3ZSZ42ZTEADHJH43M3WQUEQO4YVDTYTVB6",
+    "num_swaps": 756,
+    "total_volume_xlm": 75600.0
+  },
+  {
+    "source_account": "GBOJNUPUYW6SDUQOP76VEHBGEWEGR7RJAIA4A3AH6F4W4V3VLMHTKMQ4",
+    "num_swaps": 755,
+    "total_volume_xlm": 75500.0
+  },
+  {
+    "source_account": "GC6OSS6VRN5XIBQWLTK5JTR5D7JX4FRZ7TDPPSYPMBL3DVAIBLTO6GCQ",
+    "num_swaps": 754,
+    "total_volume_xlm": 75400.0
+  },
+  {
+    "source_account": "GCYBWJJKYXCWNFZIIFTBW6MBF3JBAV7BEUWSCAEDROWZPM4ELOV5MLB2",
+    "num_swaps": 754,
+    "total_volume_xlm": 75400.0
+  },
+  {
+    "source_account": "GD5VSVQWSNN4YIVUNLZNQLZRLECGUF7TOS67334L46T5AT3O44I65DTO",
+    "num_swaps": 754,
+    "total_volume_xlm": 75400.0
+  },
+  {
+    "source_account": "GCS6HHGREHYWZT2P22NBCJZQBMWJQY4NR2NUV2YS3KO6BFPPM5SVHCIZ",
+    "num_swaps": 753,
+    "total_volume_xlm": 75300.0
+  },
+  {
+    "source_account": "GBOCNPU2SLPMJFHMPEB5QETI2FS6IQZLFMNGVLJ2NDTY52NPH5BRVBU5",
+    "num_swaps": 753,
+    "total_volume_xlm": 75300.0
+  },
+  {
+    "source_account": "GB4FTS5ZENXPMUBU7R6BI5HXCQWHHFIHENQBX5DYD3IZM2RPTGJZ4C2D",
+    "num_swaps": 752,
+    "total_volume_xlm": 75200.0
+  },
+  {
+    "source_account": "GCWAFUXS2HWKZCZNYO6EWQLB72YI7L3JLEBUAYMMB5JF3U24UB5QNRCG",
+    "num_swaps": 752,
+    "total_volume_xlm": 75200.0
+  },
+  {
+    "source_account": "GDN5YR6FYLH6HXGXG2YWFPICZUDBF7HEI7W5EXJDJAG4CFERR5AEV2AB",
+    "num_swaps": 752,
+    "total_volume_xlm": 75200.0
+  },
+  {
+    "source_account": "GAIKS7KP5EDV64PVECWT54CPZ3UM5ON3VLOWBNY5M427MDDKK4IT2RVI",
+    "num_swaps": 751,
+    "total_volume_xlm": 75100.0
+  },
+  {
+    "source_account": "GAB36PD3KOUSEK7MI4J4D2B6AXLHNR5NUEYVS32VCZGXQYYUXUQQBG7U",
+    "num_swaps": 750,
+    "total_volume_xlm": 75000.0
+  },
+  {
+    "source_account": "GAJLPYAL2D35JEGPPCEERUNDRTKF767E7XZBW5NLAXZFS2GJFQF7YQJE",
+    "num_swaps": 749,
+    "total_volume_xlm": 74900.0
+  },
+  {
+    "source_account": "GATRKNTY6USGLKBMFDFQYF3TG73O5C4WLNTPOPCQLAEWCN33HAPVRL5X",
+    "num_swaps": 749,
+    "total_volume_xlm": 74900.0
+  },
+  {
+    "source_account": "GA2OJBXPGILDPDYE3DJCJUKKTV67AMBJ424CMY3R6OTWU5OAREPYZS5W",
+    "num_swaps": 749,
+    "total_volume_xlm": 74900.0
+  },
+  {
+    "source_account": "GBSZPLTIOI6UXOYHULEW6KHBWF2OS36WPRNI3LA7PMUCGVGWHQZJK3G3",
+    "num_swaps": 748,
+    "total_volume_xlm": 74800.0
+  },
+  {
+    "source_account": "GACTBJV43FGB2DM2F2RYHZ2JLTVOORHD57T2FAFCBVSDKNCHRABFLEB2",
+    "num_swaps": 748,
+    "total_volume_xlm": 74800.0
+  },
+  {
+    "source_account": "GDNBVDTEEAQQNJN7LF7VHHKDRKBLLEVTAJRADBCR2WREDWLXIOIQAVH2",
+    "num_swaps": 747,
+    "total_volume_xlm": 74700.0
+  },
+  {
+    "source_account": "GCRVX3NHBWYVYDLEPQ3FL5NRMHMQ4EGLP5YTLO5RXKK3CNXEYSPB4HQV",
+    "num_swaps": 747,
+    "total_volume_xlm": 74700.0
+  },
+  {
+    "source_account": "GAYCYAJDRCHMFH3ITAQIHXHR3XO45CBRIM6N3UJYNHH4JE36V6TOP7G7",
+    "num_swaps": 746,
+    "total_volume_xlm": 74600.0
+  },
+  {
+    "source_account": "GAEJVAXSFV7IYZAPZKZOAVUN6EUPHXGAFYCAQZQBQ733LFD2AW64GMKR",
+    "num_swaps": 746,
+    "total_volume_xlm": 74600.0
+  },
+  {
+    "source_account": "GCIXHASPHGNXSJRKZ73C52SLHXQWHQGR5GTQDRQWZ4N3SSYQJYBARPSS",
+    "num_swaps": 745,
+    "total_volume_xlm": 74500.0
+  },
+  {
+    "source_account": "GAYBPG3NVVQMSOYR5B3DALV7HUNMU5O25Y3PGE6HUP2TDXP2WNVDM34B",
+    "num_swaps": 745,
+    "total_volume_xlm": 74500.0
+  },
+  {
+    "source_account": "GBOJ6N7FUADQ4FXBBKO44AFBCMIMLMKDZ3VC6WWOAVRRQSYO4H6ERDJC",
+    "num_swaps": 745,
+    "total_volume_xlm": 74500.0
+  },
+  {
+    "source_account": "GBCE7KNEW4A3WDAPPE5ZBQYGT7EPEZYHDPRPO6GVZGCZKY4CHHZU5AZK",
+    "num_swaps": 744,
+    "total_volume_xlm": 74400.0
+  },
+  {
+    "source_account": "GA4TWF3OWHQWM7BODHKV5ZXF2HGBCVS7ZLCHCGAG2OTXJSOERY5TNECD",
+    "num_swaps": 744,
+    "total_volume_xlm": 74400.0
+  },
+  {
+    "source_account": "GCQYRZMJEKZGODXX43PUVLA6UCNYUAE6RLVS6CC5V6SZWZ5L54U4JDCS",
+    "num_swaps": 744,
+    "total_volume_xlm": 74400.0
+  },
+  {
+    "source_account": "GA33K3JLWX53XT6H2FQD5MYJNBPZVOLXIPHW5BNC656FTCQVRL764SER",
+    "num_swaps": 742,
+    "total_volume_xlm": 74200.0
+  },
+  {
+    "source_account": "GAJZG2LEXIL2ZVCS7CDQSDSKWDA7CIABFE45BI55RPO7KMCKFRWQ3O7C",
+    "num_swaps": 742,
+    "total_volume_xlm": 74200.0
+  },
+  {
+    "source_account": "GDTXD24YBKZTG44F67M22LZQ4S4GIFSPVPGU5BCAIBUETIZR4K7TVHH5",
+    "num_swaps": 742,
+    "total_volume_xlm": 74200.0
+  },
+  {
+    "source_account": "GD7U3GO7XCPTP4GDKQNOKAQA7SIMY7QR6T2SWQBMWWAR7ZUIDN25RPXA",
+    "num_swaps": 742,
+    "total_volume_xlm": 74200.0
+  },
+  {
+    "source_account": "GCJWH343LWU5TCKU23NSGIK5UGH4QECQTKAH4NRDP44SJHYK62OA3I37",
+    "num_swaps": 741,
+    "total_volume_xlm": 74000.94283469999
+  },
+  {
+    "source_account": "GDXUCM6VXEDFXLWAR3EMDSV7GV3H7EJJ7QD24CME53B6YQOCAK52GTDK",
+    "num_swaps": 741,
+    "total_volume_xlm": 74100.0
+  },
+  {
+    "source_account": "GBBZII5WFVBL4CM6I5K4FSOOWYHWALTB64AQWQ2SBTQVPWJ32I36PADO",
+    "num_swaps": 740,
+    "total_volume_xlm": 74000.0
+  },
+  {
+    "source_account": "GBJZDGQYRXNXEH5GFNBOFKP2MMY676GN3CLSFRQHM7EFZWYGCZRJLAV6",
+    "num_swaps": 740,
+    "total_volume_xlm": 74000.0
+  },
+  {
+    "source_account": "GC2YO3RGAKXUASTWKBLSGT7SXRXGWA43O6PEX2SDFMJ5B4DCNNPNML3I",
+    "num_swaps": 740,
+    "total_volume_xlm": 74000.0
+  },
+  {
+    "source_account": "GDMKOCUHPPNHLBBLRSNAO3UAPU7ZL2IBMFF33SRHQZ2FFQKF3E3FVVPL",
+    "num_swaps": 739,
+    "total_volume_xlm": 73800.9379951
+  },
+  {
+    "source_account": "GCZGABJW62KR26RQEHM5C3ABHKAUN6R4CNYT6ZE5JOK6EQMNVLJMYTLH",
+    "num_swaps": 738,
+    "total_volume_xlm": 73800.0
+  },
+  {
+    "source_account": "GCOCNO5JRK7PCPPVHSRTPJFHY527IZKMIMHQEK733YVFQS42CO7LFE3W",
+    "num_swaps": 738,
+    "total_volume_xlm": 73700.9402366
+  },
+  {
+    "source_account": "GAIZI6O3PUDONXCN23UW7KQ6BV5ENYCGNJ72ZRJP24THDRBN3MG3TFUS",
+    "num_swaps": 738,
+    "total_volume_xlm": 73800.0
+  },
+  {
+    "source_account": "GALAIU5I7IZHHZ6W3Q4O7DTVLWBEBAXWLQ6XULS43A6YRGIKFTL5UJ7R",
+    "num_swaps": 737,
+    "total_volume_xlm": 73700.0
+  },
+  {
+    "source_account": "GAHT7BYAMFUDPANHEIEQGY7YHFNIRGDKAINQCYL43OCW4QBM5W4FS4AB",
+    "num_swaps": 736,
+    "total_volume_xlm": 73600.0
+  },
+  {
+    "source_account": "GATUKMTDJK7UHSTNNT2POZ3HK2FJRJZK557ONKX5GRVKDKGEBOP67H4F",
+    "num_swaps": 736,
+    "total_volume_xlm": 206.1177341
+  },
+  {
+    "source_account": "GCZMFPME2JESANRAXBKVBISXGC7G6WB3K22S2IS4UR7VEXQGOVBUGAKP",
+    "num_swaps": 735,
+    "total_volume_xlm": 73500.0
+  },
+  {
+    "source_account": "GCPNL2YPNTPESCA57MCORC2RMMCESRK37EIPCC57ZDYUDEGO3U46QNRT",
+    "num_swaps": 735,
+    "total_volume_xlm": 73500.0
+  },
+  {
+    "source_account": "GCHLVJITMIYRPPMXC4BWXMWGG3ET4QVK7AMEREP32WVVSPUA7BDE26AY",
+    "num_swaps": 735,
+    "total_volume_xlm": 73400.9480009
+  },
+  {
+    "source_account": "GDOTKD6TSATOOR3S7K27RANR26UOIK2FCDGSVROQI4CDAUKPWLMLVGHA",
+    "num_swaps": 735,
+    "total_volume_xlm": 73500.0
+  },
+  {
+    "source_account": "GCT7R6OYLPDCKNXCLV777LXRCNUECGB7E35NPQKD6X2PDLYTZVRWEHJQ",
+    "num_swaps": 735,
+    "total_volume_xlm": 73500.0
+  },
+  {
+    "source_account": "GDSUI5N3GK4NJNJQHAULTBOTWPUWX5OTGL66UFIDITBXMCUGT3JOVL27",
+    "num_swaps": 735,
+    "total_volume_xlm": 73500.0
+  },
+  {
+    "source_account": "GC6FMBJGVJCQA4CI7LNOMMI3BVF4ULFW54LXG3BY34B77P64JQ6FXWKD",
+    "num_swaps": 735,
+    "total_volume_xlm": 73500.0
+  },
+  {
+    "source_account": "GBAILJXL3F7HAJYUSZWYDX34GCASF7QK2SFOYQKBOHO4BXYK7E5WMKCL",
+    "num_swaps": 734,
+    "total_volume_xlm": 73400.0
+  },
+  {
+    "source_account": "GDI4LESIKKDR2P7NJO47YWLVYNJ4GRYXJ5M6IU6TQSIT5X26SNJBLEAF",
+    "num_swaps": 734,
+    "total_volume_xlm": 73400.0
+  },
+  {
+    "source_account": "GBFA7XLNODV2TCJ5JUPMYQZA4VAE43PYDGDDAHXGPHX4Y7PB6JZM7R4H",
+    "num_swaps": 734,
+    "total_volume_xlm": 73400.0
+  },
+  {
+    "source_account": "GBSDCZVE7R64BXKXHAZT2ZSBSDORCO43VMXJ25CP2KG52K7EQKCG223Z",
+    "num_swaps": 734,
+    "total_volume_xlm": 73400.0
+  },
+  {
+    "source_account": "GACERKKDN5RFSTDX2HHYPVYA3DAJMYUOUCZPN3CGIDUQPONDNL7EQGVL",
+    "num_swaps": 733,
+    "total_volume_xlm": 73300.0
+  },
+  {
+    "source_account": "GDJ77PHG2BF5DLUEFGXADLGFUFGGQHQM2A6AVFV3VY4QYV7W4MAFZ53K",
+    "num_swaps": 733,
+    "total_volume_xlm": 73300.0
+  },
+  {
+    "source_account": "GDWUZW5M4ZA7NUQIN7RX6S6VWLXLUFDBL33G5OOBGFTFPCF2YFXCKWI3",
+    "num_swaps": 733,
+    "total_volume_xlm": 73300.0
+  },
+  {
+    "source_account": "GBK6D4TVT5SOU3P5WXXKEJVKYT3DHXONK5GY25QHK4XTYKS53KW4NC33",
+    "num_swaps": 733,
+    "total_volume_xlm": 73300.0
+  },
+  {
+    "source_account": "GBAGJE5U2T22LJRTKBJEBRD6UP6TUNVSSCBCMPYPDADHU4J3EFHDPHZ7",
+    "num_swaps": 732,
+    "total_volume_xlm": 73200.0
+  },
+  {
+    "source_account": "GAQCTGQGXFCGEM36DVSRT2WGQE46PIWSOYD7W4VHD7DGDTQ5B7XPWXZX",
+    "num_swaps": 732,
+    "total_volume_xlm": 73200.0
+  },
+  {
+    "source_account": "GD7AQITH2NAWR5QA7J2OE4UXJXEHDNU3GNTENWUBPAVC7GCJIHNC6OZ4",
+    "num_swaps": 731,
+    "total_volume_xlm": 73100.0
+  },
+  {
+    "source_account": "GB4GMBF7RNVHCDZLX6CTOE6BFOB4F4CWADF3CLBBSCSO46KDDG5UQZ3M",
+    "num_swaps": 731,
+    "total_volume_xlm": 73100.0
+  },
+  {
+    "source_account": "GD4REFCG2H2GOQ7KS7B6SWYKE7JPW5YQ2ZUTSNFCUWJWS23CW44WL35S",
+    "num_swaps": 731,
+    "total_volume_xlm": 73100.0
+  },
+  {
+    "source_account": "GCN6HQNYXUSKSZQPOWGUFZDTD4J4BL5K2EARWBSEOUT3FN3GO32ZS2LP",
+    "num_swaps": 731,
+    "total_volume_xlm": 73100.0
+  },
+  {
+    "source_account": "GAKI47NT6KV3WHXQELJCJ4ZXQCIZYDIECWYTXSFDB6VBFJHLO7DEPG3H",
+    "num_swaps": 730,
+    "total_volume_xlm": 73000.0
+  },
+  {
+    "source_account": "GDSZDPYJED4WAW4S2PTM4NEZCFV3QSJCCTHQQSZTVMGQXSSA3U4GBOGF",
+    "num_swaps": 730,
+    "total_volume_xlm": 73000.0
+  },
+  {
+    "source_account": "GDZ7MFRYEEYAHNA74YWDIUR2QZEWRDZSYE23SZNJ5DDSY6HSQE6JURYE",
+    "num_swaps": 729,
+    "total_volume_xlm": 72800.7457321
+  },
+  {
+    "source_account": "GAOJ6Y42FKKN4YTAWTWDXOVAI7SXDO5LVECLQKDOKNT35PMUARLRYIYQ",
+    "num_swaps": 729,
+    "total_volume_xlm": 72900.0
+  },
+  {
+    "source_account": "GAKXWKB4U6GH3TU7INEKQ3M3HBSUWBT3OWBCCSQSGZ62VCYRDC6D53VQ",
+    "num_swaps": 728,
+    "total_volume_xlm": 72800.0
+  },
+  {
+    "source_account": "GCMJCE7XF6JYZD3QSSAN6V3QP2JVLI4OODCFRBDRNRWV26O742CDWXKY",
+    "num_swaps": 728,
+    "total_volume_xlm": 72800.0
+  },
+  {
+    "source_account": "GD22Y6WXIUQ6HYKE63DMMKGXP7QWEAW4BBSKJKJUQFSQVGIGPW3BNSBB",
+    "num_swaps": 727,
+    "total_volume_xlm": 72700.0
+  },
+  {
+    "source_account": "GDVO2P5LVO2WTZFZDDEFXBMEDGDN6AQH66AGFIQEYUF44ZKHWP3CTJEY",
+    "num_swaps": 727,
+    "total_volume_xlm": 72700.0
+  },
+  {
+    "source_account": "GBW7ONRQBBPZQIOVNFQPMZTNGB4T6UGGUS3OK7PQIN3SFJAFX7EQY52P",
+    "num_swaps": 727,
+    "total_volume_xlm": 72700.0
+  },
+  {
+    "source_account": "GD6FWQDR5HAVMOF2CCHLC7V5XH66ZGABQQSGSFAB5QFG5VYBHGPMRYRT",
+    "num_swaps": 727,
+    "total_volume_xlm": 72601.8015265
+  },
+  {
+    "source_account": "GDX74YHJG6JXOMBB6WQJ4OHUFOXJWKEWK2W3U3442U4M3F5CKB4OEXTL",
+    "num_swaps": 727,
+    "total_volume_xlm": 72700.0
+  },
+  {
+    "source_account": "GCI2DBMWNF3DCIARSRG3OPOGBDE6JEZ2ZL4LAR3RNJ6YSAEVXC2CTRD5",
+    "num_swaps": 726,
+    "total_volume_xlm": 72500.9366612
+  },
+  {
+    "source_account": "GBVGK5NKU7WOCU77TJPYNW2VSTY2QOQ7JIBWRJKH7S7VFF3E25LMUTOK",
+    "num_swaps": 726,
+    "total_volume_xlm": 72600.0
+  },
+  {
+    "source_account": "GD3DSBYWYAUDIDUA5QDWGERQKVYLYYCKHIWJHFU3KZ4AZBM3ZUC7Z4V5",
+    "num_swaps": 726,
+    "total_volume_xlm": 72600.0
+  },
+  {
+    "source_account": "GBIJSXM7NKZYGKVDVPHH5K5WO7YCT5THKBLCXTBPOKT33KSFXJ3I5MGA",
+    "num_swaps": 726,
+    "total_volume_xlm": 72600.0
+  },
+  {
+    "source_account": "GBXNR5R4IMJ6FHUMXUJABQDV2FAEZYGQQFGHS6DWKXXMSY7EDV6UAQHJ",
+    "num_swaps": 726,
+    "total_volume_xlm": 72600.0
+  },
+  {
+    "source_account": "GCZGWDMFGNS7WPHGN34RLBLJMJ3ZU4FNEB7U7CG5QRKMHABWCGNZNVVR",
+    "num_swaps": 725,
+    "total_volume_xlm": 72500.0
+  },
+  {
+    "source_account": "GAR2PJU2GNJAXNKL4DUD7L75BLLAH5W2MLQ4DAULQM4TGRAKVD2PJJSM",
+    "num_swaps": 725,
+    "total_volume_xlm": 72500.0
+  },
+  {
+    "source_account": "GBACUBINMQBI2YEDMV5GCP6IDW3HIPTBTBJDG3OS7J3TLMG64SXYMKM2",
+    "num_swaps": 724,
+    "total_volume_xlm": 72400.0
+  },
+  {
+    "source_account": "GAZFISD4UB2LVZT2KFLSRBJ2P4TCMONIN2J3TDQTGTYI3D4DX26XIKX4",
+    "num_swaps": 724,
+    "total_volume_xlm": 72400.0
+  },
+  {
+    "source_account": "GCOFUHHBPH5HNJGXME244ZITJ2HYC4EEVQ6MFILWAHF2TYM23TC5IXML",
+    "num_swaps": 724,
+    "total_volume_xlm": 72400.0
+  },
+  {
+    "source_account": "GACLZNCLESYZBWMV26APBH2E7POU42ZDKSOARWFEGY6CUCBCU22U3QOA",
+    "num_swaps": 723,
+    "total_volume_xlm": 72300.0
+  },
+  {
+    "source_account": "GCNOEPD4MIH57MBTDT2ILFHPGX4NTJ7PHSAI6KX3A3VQZ4NVAE3PFQ4A",
+    "num_swaps": 723,
+    "total_volume_xlm": 72200.8870743
+  },
+  {
+    "source_account": "GALP57GJVHWSCN3N6AF4Y6CQNCS65DPQ33TQYSZSNAXV3T2Q6YMWK3OP",
+    "num_swaps": 723,
+    "total_volume_xlm": 72300.0
+  },
+  {
+    "source_account": "GAA3DQ2M3563SJOZFMGSDC4QZFKFV25TWBSO3WYKJCBWJKE4PV3LBZTH",
+    "num_swaps": 721,
+    "total_volume_xlm": 72100.0
+  },
+  {
+    "source_account": "GAXRNGUTPB7FAHL67SBD3H5IBQSSPLLYQIZXDEOY426P3NQMFFZUI6XN",
+    "num_swaps": 721,
+    "total_volume_xlm": 72100.0
+  },
+  {
+    "source_account": "GCBRYOTAM64WIEAJFVFWXWOQDQHUMHXXVZ4PUI2EA2JS4FXOJAOALBCQ",
+    "num_swaps": 721,
+    "total_volume_xlm": 72100.0
+  },
+  {
+    "source_account": "GAZ4IUZ6YKSZTNO55CCMUVLJ3ZRFU6PVS2FZGOLSIHZF5XTBU7FRJN4Y",
+    "num_swaps": 720,
+    "total_volume_xlm": 72000.0
+  },
+  {
+    "source_account": "GC77MGVXFJ2J26UPSEBNZMR346CW7ZSPL3YU7WGGTQNCIWLDM3MZGW45",
+    "num_swaps": 720,
+    "total_volume_xlm": 72000.0
+  },
+  {
+    "source_account": "GAFYVCONAMPR4ESFQH2BKFKEGIY5FQLGQUHQ7KWGBQRWOFY7O5FA2TBX",
+    "num_swaps": 720,
+    "total_volume_xlm": 72000.0
+  },
+  {
+    "source_account": "GDKXAKCXH6AXP4Y26R5GOJWOKW7BQHAP5KV6HIFVC2JUO7XSZ5L4YYBX",
+    "num_swaps": 720,
+    "total_volume_xlm": 72000.0
+  },
+  {
+    "source_account": "GCCMKJDIYXVNRYXMTASPOQSVVQLJU4ESRPQDX6BNAQPFWWZJREHBW4GJ",
+    "num_swaps": 719,
+    "total_volume_xlm": 71900.0
+  },
+  {
+    "source_account": "GDDWYS3DLBLYXZWJ2HE6EZIISJAERFL66AYGL2P2YULBP2WF7Y6CR42Y",
+    "num_swaps": 719,
+    "total_volume_xlm": 71900.0
+  },
+  {
+    "source_account": "GDLBJR7U4ZFWNYZOP7DAPTVCFJZGV4IEKV4JHW2EFTR35OZPSUM47KP2",
+    "num_swaps": 719,
+    "total_volume_xlm": 71900.0
+  },
+  {
+    "source_account": "GDCMTUXKAHLFUGQGKL37ZM7SMLA5RW5NJ5PGYWDYSWGXZZZ2J6IFDZC7",
+    "num_swaps": 719,
+    "total_volume_xlm": 71900.0
+  },
+  {
+    "source_account": "GDLYSTLUTZRE5F6TLRNX2PGI6PDYFOHXT73NCX7MGBYRYW4AN5KYFU6J",
+    "num_swaps": 719,
+    "total_volume_xlm": 71900.0
+  },
+  {
+    "source_account": "GCBM3YP2LEWRSWF2VL55Q6M3FQZCNUF53IF44WX4NXSACBXYX5LRGEXE",
+    "num_swaps": 719,
+    "total_volume_xlm": 71900.0
+  },
+  {
+    "source_account": "GD6REAI4Q2A255TX2X6EWGL7CEJZW7AKOBH4YKZ47VIA44IYLKAT2IKT",
+    "num_swaps": 719,
+    "total_volume_xlm": 71900.0
+  },
+  {
+    "source_account": "GAW7XU4P4TEOKDG353VVUJ6EAXUUULHB4FD5L4EGGH4PF33B4GDX277M",
+    "num_swaps": 719,
+    "total_volume_xlm": 71900.0
+  },
+  {
+    "source_account": "GDCURMNLZ74IMS3PFMCRH2FQ6N4BJCJV2QITIUH5XEQDMY2Y7AJR625W",
+    "num_swaps": 719,
+    "total_volume_xlm": 71900.0
+  },
+  {
+    "source_account": "GDRF7CF6FYTJF4HW6BMXXLQFXDW3QN4NGI3BEHWLPPVKZEX6PUXJD4VZ",
+    "num_swaps": 718,
+    "total_volume_xlm": 71800.0
+  },
+  {
+    "source_account": "GDHV4TDIKBZSBHYV22DQPQOAZILQ2X3RUOROF47K2EVVHTGPIC3DMBSI",
+    "num_swaps": 718,
+    "total_volume_xlm": 71700.8923792
+  },
+  {
+    "source_account": "GCEMNYGJYHXNG45ANNAVHTGAKOKIPVMZJ73ZZQG33RYHZYCU3OD52RI4",
+    "num_swaps": 718,
+    "total_volume_xlm": 71800.0
+  },
+  {
+    "source_account": "GC6ZAAWXO2TWK376DU2ZNBR5FZVVBI5GMQKWHJGY5OVO2CIWYHT5EDYG",
+    "num_swaps": 718,
+    "total_volume_xlm": 71800.0
+  },
+  {
+    "source_account": "GDGUTBROO4VFAI42EQUDT7JNFL4LRGZ7ETUUUVG6UJSXW7MKSH345G53",
+    "num_swaps": 717,
+    "total_volume_xlm": 71600.9272167
+  },
+  {
+    "source_account": "GDHEHJSAI337ABKFVRKEWTQ6TIG4KYPBGJGM7IWQUELYOZWGMBN4YPEU",
+    "num_swaps": 717,
+    "total_volume_xlm": 71700.0
+  },
+  {
+    "source_account": "GBGJ7J3GNS7M7LGOVO6J2PFT42ZQDEG3VLFH7HPA4B6OR47P7NPJZ3FN",
+    "num_swaps": 717,
+    "total_volume_xlm": 71600.92508
+  },
+  {
+    "source_account": "GAZ23ICQUAL6W2VA47E6F53WCUN3K7Y5LMFXOHNPSUTLHABCVYHSDGT5",
+    "num_swaps": 717,
+    "total_volume_xlm": 71700.0
+  },
+  {
+    "source_account": "GDH4MDP4DFB2SPBNAJ5DO4SXRFW6W5WRI4XTGQMUFRFMHVHL3EM4WWTI",
+    "num_swaps": 717,
+    "total_volume_xlm": 71700.0
+  },
+  {
+    "source_account": "GDZ2UXDVDY2LPJDFJDT4UGJQZLM3XJHXLQEPGLH7CHSLHIFO3JNMEP2Y",
+    "num_swaps": 717,
+    "total_volume_xlm": 71700.0
+  },
+  {
+    "source_account": "GBVD57KVYULUVT4OI2KMNPICCEQGQ3SYVTQMB2CKLNSDDELKGYUXYSFS",
+    "num_swaps": 717,
+    "total_volume_xlm": 71700.0
+  },
+  {
+    "source_account": "GD3VG4EXQJT3MK55YNHMNZRPKE3MZ4FH7KQLSIGFOC4IWOIG3L24MAB6",
+    "num_swaps": 716,
+    "total_volume_xlm": 71600.0
+  },
+  {
+    "source_account": "GB2MFAI5ZYOUD4UFDCTT57OWXFXHE5L6SNQAY3KV27R4BJZJYONT2GK4",
+    "num_swaps": 716,
+    "total_volume_xlm": 71600.0
+  },
+  {
+    "source_account": "GCADUUHUVDJEVNWPZAKJNKVWRXDK3HWUDCTPTPWKSHBV52XZZGOCI7HA",
+    "num_swaps": 716,
+    "total_volume_xlm": 71600.0
+  },
+  {
+    "source_account": "GCMFSNQPHF7AYXS2GNZ6DBYWCMSO7YR5BD26OLRGG5XPZFPH62IUWUKU",
+    "num_swaps": 716,
+    "total_volume_xlm": 71600.0
+  },
+  {
+    "source_account": "GA7KEMNSWFMYOVSOOJNRYZUD3AFM2Y5HKICNRI52NUC3P7G2Y6EXC5V6",
+    "num_swaps": 715,
+    "total_volume_xlm": 71500.0
+  },
+  {
+    "source_account": "GCJBHKQFKJNMNKJSC6R2NIWEZZWGCMHITSD63KHX3GEL3L4NAQ557ZY5",
+    "num_swaps": 715,
+    "total_volume_xlm": 71500.0
+  },
+  {
+    "source_account": "GBUOOGNDLQBG2UADZJSS5BQMMT3SZULG2QPOYXFRVUY4QPM2KIDKOPS7",
+    "num_swaps": 715,
+    "total_volume_xlm": 71500.0
+  },
+  {
+    "source_account": "GDLNZQWFALTQZN2E5WCEOVAP3MVFCP7UDDX6QC5ADC4Z2UJ2QF644AZB",
+    "num_swaps": 714,
+    "total_volume_xlm": 71400.0
+  },
+  {
+    "source_account": "GBQHTQ7NTSKHVTSVM6EHUO3TU4P4BK2TAAII25V2TT2Q6OWXUJWEKALE",
+    "num_swaps": 714,
+    "total_volume_xlm": 71400.0
+  },
+  {
+    "source_account": "GCVTP35MUO63KSHICS7K2BSBVMUMXN6G3IXIJFEW3EBBAOY3SEQM3FRL",
+    "num_swaps": 713,
+    "total_volume_xlm": 71300.0
+  },
+  {
+    "source_account": "GCLJJ5RHPBXUUU7IYR645MESSVXAM7YDAYEO3DTAFKMODJ73UQ6QYV6P",
+    "num_swaps": 713,
+    "total_volume_xlm": 71300.0
+  },
+  {
+    "source_account": "GAIKP25IP22L7TJ27CWPN5DDB6PJR3OBY552TCO7V4FTCCIRGCAOC3YR",
+    "num_swaps": 713,
+    "total_volume_xlm": 71300.0
+  },
+  {
+    "source_account": "GCCFNQNB4LT6G6RFIAHZCAMZUZAWGBVCH5BWBJ5DIIC3WYCMH2TYPFVP",
+    "num_swaps": 713,
+    "total_volume_xlm": 71300.0
+  },
+  {
+    "source_account": "GAQ5TIRU3JMNBNOVB4FJHT7YADQBUJOVEM4B3TNNQ2JHUFKSDMDVGVOL",
+    "num_swaps": 712,
+    "total_volume_xlm": 71200.0
+  },
+  {
+    "source_account": "GB6OZJXHGWKG22TMSIL4J6EH7A3HUN6HJ2OZ63GUS3EGKDCQ4II3N6AO",
+    "num_swaps": 712,
+    "total_volume_xlm": 71200.0
+  },
+  {
+    "source_account": "GDAVXTG6TZPVPB3EFU7GCDHON7I6HEG6POLHQTCAHQIHRKJ2YHPI2XFG",
+    "num_swaps": 712,
+    "total_volume_xlm": 71200.0
+  },
+  {
+    "source_account": "GAIX46PKFIRJT25QIUOTCVZEQMLCFIHTUSLTW3CQRCFAE7AO7TIPYSXH",
+    "num_swaps": 712,
+    "total_volume_xlm": 71200.0
+  },
+  {
+    "source_account": "GDBOBCQVT5YRA6QFLWEYJSHIGCEKFYGEUYX7AKWIEYKAOQHGXA6S2L7U",
+    "num_swaps": 712,
+    "total_volume_xlm": 71200.0
+  },
+  {
+    "source_account": "GBUUFFG5EGOOKUGVPKULCT4ZWIRMMHMIYLIRMOQKFRFWIKQMYRJPWLGV",
+    "num_swaps": 712,
+    "total_volume_xlm": 71200.0
+  },
+  {
+    "source_account": "GBLQXC7YJAGJU2LPBPRBMPANSVBF44WHPRHO3XRHNLJOVD3QWBYYGVJB",
+    "num_swaps": 711,
+    "total_volume_xlm": 71000.7386075
+  },
+  {
+    "source_account": "GCLHERUNBA4WUG4F473Y2YTPW6GLLQDTMLLKEBRIAWDUWFABCM2PM7HY",
+    "num_swaps": 711,
+    "total_volume_xlm": 71100.0
+  },
+  {
+    "source_account": "GCZIR5MCD73ELZWYYKLKDHMGOSRNM552UWJRYUQJZGJJZMSXBFJERIKT",
+    "num_swaps": 710,
+    "total_volume_xlm": 71000.0
+  },
+  {
+    "source_account": "GDR6A2OMZGKZUS2Q5V36V6YYX3VWAZVWUGKBYQ22R3O43OUZJ2QNPAPD",
+    "num_swaps": 710,
+    "total_volume_xlm": 71000.0
+  },
+  {
+    "source_account": "GAJ4UABU7LYCR4QIZ2NYQUIEC3H5L26JA7UBLB4YCUQQIU76O7TXF4MM",
+    "num_swaps": 710,
+    "total_volume_xlm": 71000.0
+  },
+  {
+    "source_account": "GCVKEQHSKB7DVWW4VKLPDW2Y2WC2M63IVXLVEMCD7TLTRN6FMLUXGLSK",
+    "num_swaps": 710,
+    "total_volume_xlm": 71000.0
+  },
+  {
+    "source_account": "GAH623GP4XD2BGOI2IX3MDLOLFYK7UGCI7LYJ3HCDVPMVB7IU3WIADKK",
+    "num_swaps": 710,
+    "total_volume_xlm": 71000.0
+  },
+  {
+    "source_account": "GBVCE3G3DIAJGLUVMJCMBXWF3QGQS4KQKU7VNKWVPWAZRSC6N4KBWDSJ",
+    "num_swaps": 709,
+    "total_volume_xlm": 70800.792567
+  },
+  {
+    "source_account": "GAEXVRFLFRYAUM6OOOQUERHGYVWKMRCF3VHRWMJK6OKGO3YS6H34H5OV",
+    "num_swaps": 709,
+    "total_volume_xlm": 70900.0
+  },
+  {
+    "source_account": "GDGVBDSGQ3X6Y6Q65JR6XD7XVK324KLPIWKQ264FDFCVFQ5P2QWZSSIR",
+    "num_swaps": 709,
+    "total_volume_xlm": 70900.0
+  },
+  {
+    "source_account": "GBFQN2LX7M2253VX4MN7J4HVUXI22SUOZWG5YXUXPNF3LZVKYCD2NDM3",
+    "num_swaps": 708,
+    "total_volume_xlm": 70800.0
+  },
+  {
+    "source_account": "GDWXU764EWFNJNGS3RCQTVGCV2NXJ2LYRAPEN7HVHNS44KX6IWUUL6J4",
+    "num_swaps": 708,
+    "total_volume_xlm": 70800.0
+  },
+  {
+    "source_account": "GDCXPDLSY3GZ655ZPVN3DJGYNFHU47NWZ6GDODLWKSYTF5R32HQ4R3TP",
+    "num_swaps": 707,
+    "total_volume_xlm": 70700.0
+  },
+  {
+    "source_account": "GCL6NZ46M55EL2ERGJJHBZSUTNUKEGCHZ4TRZXSMOHAZWM6TS5YJ5BPN",
+    "num_swaps": 707,
+    "total_volume_xlm": 70700.0
+  },
+  {
+    "source_account": "GCCQAC3KF5EJ52XGCO5S2W7UJPFDIFTYJYNWWHAJWA3YB6NTUV6WDOHE",
+    "num_swaps": 706,
+    "total_volume_xlm": 70600.0
+  },
+  {
+    "source_account": "GDSTCS3R3SIPXAQ3NFSX4PBJHUTXHFYWNKVK2B2DEXGQ3ZOOPMVUBZUY",
+    "num_swaps": 705,
+    "total_volume_xlm": 70500.0
+  },
+  {
+    "source_account": "GBUYEVD56PW2GLJUOGNTFHSKRPHHDCE3CNA67EEACWJ7BPF5PRZFT4MX",
+    "num_swaps": 705,
+    "total_volume_xlm": 70500.0
+  },
+  {
+    "source_account": "GDYNOBBEJ4DNRZDZUOFGN7GTXBZIU3WBRW5XGWJTMYGUOPJNXDXVF7XZ",
+    "num_swaps": 705,
+    "total_volume_xlm": 70500.0
+  },
+  {
+    "source_account": "GCCMUT4KPM5PGWQUFJVDFMQX6N6YBSMJFITIAGVSP6ND76U33TXVELJ3",
+    "num_swaps": 704,
+    "total_volume_xlm": 70400.0
+  },
+  {
+    "source_account": "GDIXZCMLZYVN7EIHILCITOUVTDXRQTQPFB445O2IUZKFXFHI6POY55YD",
+    "num_swaps": 704,
+    "total_volume_xlm": 70400.0
+  },
+  {
+    "source_account": "GCEL5UV5JAO3U4TBHAPIB6SSSIW6MKUCUNMBD6GHXWT65N4VWUVZIULL",
+    "num_swaps": 703,
+    "total_volume_xlm": 70300.0
+  },
+  {
+    "source_account": "GCGGPGEYHE2EJLPGSVDN24SVKJ6WXJWUT3IBKGISGCTPAJ5CJIDRT7CC",
+    "num_swaps": 703,
+    "total_volume_xlm": 70300.0
+  },
+  {
+    "source_account": "GCHVLPNUJYTNQ3Y3SB5ZJQALAVBDKHKDTVZZVPKJX7KRATFW7H6NF6PG",
+    "num_swaps": 703,
+    "total_volume_xlm": 70300.0
+  },
+  {
+    "source_account": "GBXQUJBEDX5TYLJ6D5BGJZFLYF5GZVGXLWA2ZORS5OIA7H6B5O3MHMTP",
+    "num_swaps": 702,
+    "total_volume_xlm": 112524.81418510001
+  },
+  {
+    "source_account": "GAWZ56QI7FAUOUTPPANNSMOTDNMGJTUB6KIGG4CP7QQCFISYWE72MBL3",
+    "num_swaps": 701,
+    "total_volume_xlm": 70100.0
+  },
+  {
+    "source_account": "GBDNZSPJXCZHSZHT3YJV63JYJEIX2J23CJ4FBDYXDD5JYRFRNZVIFOUR",
+    "num_swaps": 700,
+    "total_volume_xlm": 70000.0
+  },
+  {
+    "source_account": "GDF25WVVPWEAOTJLDG46HJPLTBD4GZN6Q24S44JTFDIHISDZNSY264U6",
+    "num_swaps": 700,
+    "total_volume_xlm": 69900.867218
+  },
+  {
+    "source_account": "GCMWF3XNGZDF5UKATREDD52ASAUNIEJ3BUAOXGCCRDPBGRXU44G44IVT",
+    "num_swaps": 700,
+    "total_volume_xlm": 69900.9006179
+  },
+  {
+    "source_account": "GBI7SNAW6P3LS2PDYIJPVBVAOYM45JCCCQMCNECZDCYTJCB7U2XCI32C",
+    "num_swaps": 700,
+    "total_volume_xlm": 70000.0
+  },
+  {
+    "source_account": "GCGYN2VNIWG7FIFCYCKKIXUA2WUXPXJVNBE7UYOHYV6L7B3OWVICYV4F",
+    "num_swaps": 699,
+    "total_volume_xlm": 69900.0
+  },
+  {
+    "source_account": "GDAVCEIOBYAFWD3AXKDQ6PXTMQIBRLOZYENN6LIR6M3BEPDAI7OPSSOM",
+    "num_swaps": 699,
+    "total_volume_xlm": 69900.0
+  },
+  {
+    "source_account": "GCQORVYFPER6LNKVJ2UFB6UJ4IQBP22S2YBGEWRFTREX4NL55Z6AFAPK",
+    "num_swaps": 697,
+    "total_volume_xlm": 69700.0
+  },
+  {
+    "source_account": "GDWR47RQHLZI44MLHQUUGAVUM6FHMMUM7AEGLTZR3XBEN7JSARZW6X2L",
+    "num_swaps": 696,
+    "total_volume_xlm": 69600.0
+  },
+  {
+    "source_account": "GD6ZSZAZU3YIDZFL5HYYLQUPGKQX4IDAMDYS4U3FJAYGWUI7IMPMUVBO",
+    "num_swaps": 696,
+    "total_volume_xlm": 69600.0
+  },
+  {
+    "source_account": "GB6CN5635DR7X4ZWJ4MZJUNJZD2QDK6APQ76GCIKSNV5LEAG7VIA6UQQ",
+    "num_swaps": 696,
+    "total_volume_xlm": 69600.0
+  },
+  {
+    "source_account": "GC65N4FZK26JBFJJQCLRJVFUOUPYKIA7DP7OTYZGNH3M5ABT6Q7OLYEU",
+    "num_swaps": 696,
+    "total_volume_xlm": 69600.0
+  },
+  {
+    "source_account": "GC25M73RMAASFJQYR6IV74FOANIWNLX2MYNVZRLMDECNOA54MNEWQKGS",
+    "num_swaps": 695,
+    "total_volume_xlm": 69500.0
+  },
+  {
+    "source_account": "GARAI54MAEXANYAXU5ZVA6KICZCU3X7NQ65ZTR3PYTV22RAWGEZSXQCY",
+    "num_swaps": 695,
+    "total_volume_xlm": 69500.0
+  },
+  {
+    "source_account": "GD3P5BS7RVAIUDYD5K4GB2P4NJ5LTGLUIAMCJYFKCLTQ3GPFCYO7H2ER",
+    "num_swaps": 694,
+    "total_volume_xlm": 69400.0
+  },
+  {
+    "source_account": "GABGT6WI3AI53HVHU7WTAEWVOLU5YFFWNBUQIWUPX2SENUWRSITEWNAV",
+    "num_swaps": 694,
+    "total_volume_xlm": 69400.0
+  },
+  {
+    "source_account": "GAALCP4FHGB2U5O3UW2ZSXA3IPSBFWFH66SPHNVWTZFKJP3HY7BH5TMW",
+    "num_swaps": 694,
+    "total_volume_xlm": 69400.0
+  },
+  {
+    "source_account": "GBDG5RV7F6GVAIDBHSK7VMKYQ7SCOVYY2OG25D2TPHMDF5CNJY6HFUCK",
+    "num_swaps": 693,
+    "total_volume_xlm": 60511.325801200015
+  },
+  {
+    "source_account": "GCCGOJVWIUKMIL6G7ZZ3MB5LCTIXTUVHUTISOSH7Y5ZTTD275YXB4U3N",
+    "num_swaps": 693,
+    "total_volume_xlm": 69300.0
+  },
+  {
+    "source_account": "GC6S33B4YGEE5HQYUAKQVS5J5ON37FYVQ7LQTJPVYPYU3QUGR45ICTM6",
+    "num_swaps": 692,
+    "total_volume_xlm": 69200.0
+  },
+  {
+    "source_account": "GAOYSY52D2FMHSJQDJRVSPN4C2NLBXGS2WPD73ONNBJZX2HYNQCWQKOO",
+    "num_swaps": 692,
+    "total_volume_xlm": 69200.0
+  },
+  {
+    "source_account": "GC5ZDW5LAX736AZV7BDRUED6DFUSP3OEOXGMLJHMGB2H4OGN3QDJSN67",
+    "num_swaps": 692,
+    "total_volume_xlm": 69200.0
+  },
+  {
+    "source_account": "GC64GD3AR44VM6ULQ46HWB76QW62HK6PIMMY7NGSIKKLMPIEIZ64HM7F",
+    "num_swaps": 692,
+    "total_volume_xlm": 69200.0
+  },
+  {
+    "source_account": "GD7YG5BJISWB66BSZFDLTNBQ3ALMMCPTIRML4EYKS3F6DUQDCQEMLULQ",
+    "num_swaps": 692,
+    "total_volume_xlm": 69200.0
+  },
+  {
+    "source_account": "GA4KXYDSR3TDWZLRZBB2JONLG5DUCTU7LUL6LG2UWFOPOHQM4JRUZZB5",
+    "num_swaps": 691,
+    "total_volume_xlm": 69100.0
+  },
+  {
+    "source_account": "GBCTBQS2AIMLVTDNNMH75WMARCA6KXH7NKJBNQLMQYJVQULUNCLDJ556",
+    "num_swaps": 691,
+    "total_volume_xlm": 69100.0
+  },
+  {
+    "source_account": "GADRRKZA453LU5Q6BLUIXEFSYHJQ4KHYIBLGRSFK3UOC7AAPHOQR55OS",
+    "num_swaps": 690,
+    "total_volume_xlm": 69000.0
+  },
+  {
+    "source_account": "GCBRFUJT4N3SXXFZECERB7EPJQSGIU2LI2DA3ZFQMYVBOEHTRX5LK4LE",
+    "num_swaps": 690,
+    "total_volume_xlm": 69000.0
+  },
+  {
+    "source_account": "GCQ4ANVW6W6HK3N44NSKV3RZ63ONFR7GS3O6GKG2ZBQBNFZS6WCBY7OG",
+    "num_swaps": 689,
+    "total_volume_xlm": 68900.0
+  },
+  {
+    "source_account": "GCOJ6AV2NCISKMVRCRCJDN5SHMMLUHSKCF2WSDAXINZW6IJWFQXDPOOP",
+    "num_swaps": 688,
+    "total_volume_xlm": 68800.0
+  },
+  {
+    "source_account": "GCKQII4HJM4Z576XG6AZG34I2XRWOABMD2RNGKWK7TNTBASCPJWC4YWL",
+    "num_swaps": 688,
+    "total_volume_xlm": 68800.0
+  },
+  {
+    "source_account": "GCJCS6EIUMFGABZBW2CAL3HMC66IEDOCEOC77E2YWYGSQGXEO6NXCXKP",
+    "num_swaps": 687,
+    "total_volume_xlm": 68700.0
+  },
+  {
+    "source_account": "GAI4UAJGGCXXLBHSN47PIBLMZVN7S3SRZWASI7APZTSZVQNAUQDKP5BS",
+    "num_swaps": 687,
+    "total_volume_xlm": 68700.0
+  },
+  {
+    "source_account": "GDLW34SBCX45XERHFOINDWIMGOM72CJKN35KHHSJLAFI3MCCNXRHBNVE",
+    "num_swaps": 687,
+    "total_volume_xlm": 68700.0
+  },
+  {
+    "source_account": "GD74JCIAQ6GSVZSJX25OAL55UQWA6OK3BEHHRMFZ7VML5HKVGXWAKYTQ",
+    "num_swaps": 686,
+    "total_volume_xlm": 68600.0
+  },
+  {
+    "source_account": "GAI2XUHA3WS3AW3J4GKSWOEDCHBNIDW23HJZ2N4ZKFGWOCAMVEZ5CLQI",
+    "num_swaps": 686,
+    "total_volume_xlm": 68600.0
+  },
+  {
+    "source_account": "GB67X4WPBQRIWZX3YALXT6YQV6HALD6RLBDJZIHK3MIQRJFPXL3QIFKL",
+    "num_swaps": 685,
+    "total_volume_xlm": 68400.9039571
+  },
+  {
+    "source_account": "GCCKXHBECUAUJ3SWGOOPUKAHJSXSEI4ON7XL5WMSRRGYWGIRJ2PDKNGU",
+    "num_swaps": 685,
+    "total_volume_xlm": 68500.0
+  },
+  {
+    "source_account": "GC7H6SKBHWRQC2X4XS7KODTCF6IVWKSSFQQWJJ72NELPGN6N3FHZGC6K",
+    "num_swaps": 685,
+    "total_volume_xlm": 68500.0
+  },
+  {
+    "source_account": "GA5JBF5WAM7RU2G3ZDKXQADW64JONI2BWM3LVULCKPA2B2S7RXXYHOR5",
+    "num_swaps": 684,
+    "total_volume_xlm": 68400.0
+  },
+  {
+    "source_account": "GDXTUVAGTKBX2HFPBCOLJJQPUXCQR5F6ZID4PNHSPGUUS35YIZUP2EOH",
+    "num_swaps": 683,
+    "total_volume_xlm": 68300.0
+  },
+  {
+    "source_account": "GCSUWQDEMSYAHSWLKYLO5JE6LC3TRBHSUIKBKL3W372ABEUIC24XQTML",
+    "num_swaps": 683,
+    "total_volume_xlm": 68300.0
+  },
+  {
+    "source_account": "GDQGMAUDX6MH5B4LCTLJUKWNZABC5QIVLY4YYXYI6JHM56FL5BFCBFYA",
+    "num_swaps": 683,
+    "total_volume_xlm": 68300.0
+  },
+  {
+    "source_account": "GBGOMAUML5Y4BQ4ORL7HFMLAYRJ6T2L3SZSU2CO2WK5QACMWXZ7KLJ6N",
+    "num_swaps": 682,
+    "total_volume_xlm": 68200.0
+  },
+  {
+    "source_account": "GDFAC4EAWFMO5KKFGFB2M46H66RZ5BRDRF4REPRFXNUVC2DST7U7JUPP",
+    "num_swaps": 682,
+    "total_volume_xlm": 68200.0
+  },
+  {
+    "source_account": "GB7DEX24WLU3JSJ3EFIU2A2GXIC5CBWHP5Q3ADDUGJSB6CYDNWMDYAET",
+    "num_swaps": 681,
+    "total_volume_xlm": 68100.0
+  },
+  {
+    "source_account": "GAPLKQT6AXPRIUWUGJE5FBTJJZIEHHQNT4PH6FWTMPHCVSYX55XPHX2C",
+    "num_swaps": 680,
+    "total_volume_xlm": 68000.0
+  },
+  {
+    "source_account": "GAW4BH5XSX5SRXPOFIQTAM3S74PTW7W7QQPZYTZXUNIULLLYL3AJH5TS",
+    "num_swaps": 680,
+    "total_volume_xlm": 68000.0
+  },
+  {
+    "source_account": "GBOH5VEJC7UHNIESTX63RO4SZOGSK4CPZGUNNXLFNEAT6J52IGRDPZQL",
+    "num_swaps": 680,
+    "total_volume_xlm": 67900.8744994
+  },
+  {
+    "source_account": "GAPF4GPJVYQWUR4NMSOQNONLRV5HKWY2P23ABHI64KV7HIVUJAVAKTSK",
+    "num_swaps": 679,
+    "total_volume_xlm": 67800.8991272
+  },
+  {
+    "source_account": "GBRQK7U63Z7BSZLGEAATBWP4EW2THBZ5D2SAH77WXENOVCR5KPLMN723",
+    "num_swaps": 678,
+    "total_volume_xlm": 67800.0
+  },
+  {
+    "source_account": "GAAFRG2QZTPRTLLJAIAGXACCYQXO72M6RIHYIEU7G3D2WPCDDK4LIQUR",
+    "num_swaps": 678,
+    "total_volume_xlm": 67800.0
+  },
+  {
+    "source_account": "GAIO6V4BAY7T7XK6BZ3FIQWIKISX76UOOPHRB7PK6MNDALSXZ4ANTIZ2",
+    "num_swaps": 677,
+    "total_volume_xlm": 67700.0
+  },
+  {
+    "source_account": "GAIEFGGZ76VGNJOV7TC6VL5DD5EI6SF3DG3ZZXWX2LCNXMMJTAKPPE47",
+    "num_swaps": 677,
+    "total_volume_xlm": 67700.0
+  },
+  {
+    "source_account": "GCGISJTWHSOK3L2YPPN7NKXQ2ZKDJAARFSML67JETKZ5BNXN5KGBYN2B",
+    "num_swaps": 676,
+    "total_volume_xlm": 67600.0
+  },
+  {
+    "source_account": "GBEMFAUKUWL3PS2H54ZXOP5GIST5P5ORZXLGJ5SDJYFBOWNEQPW4B4XY",
+    "num_swaps": 676,
+    "total_volume_xlm": 67600.0
+  },
+  {
+    "source_account": "GCMI5NPQ64IV3OO4URA2M6SWBW7ECLMQSAPHXMCOWINQO7UFXB56A2WO",
+    "num_swaps": 676,
+    "total_volume_xlm": 67600.0
+  },
+  {
+    "source_account": "GAHWHXBAMRHJJG55ADP24ELRRQWNDMEELQOONMSPPUICXQ2KRS36E5KX",
+    "num_swaps": 675,
+    "total_volume_xlm": 67500.0
+  },
+  {
+    "source_account": "GD3GENKSPTIIEOXESQQPF6OZSWE3DANMPBKWEK3PVG6GVILRQ5RCWLKD",
+    "num_swaps": 675,
+    "total_volume_xlm": 67500.0
+  },
+  {
+    "source_account": "GDPPRYCZPTCLNPTILFSRHPJWLTVXC2DXN7NPHJKMDROD6OQCOXISDK3G",
+    "num_swaps": 675,
+    "total_volume_xlm": 67500.0
+  },
+  {
+    "source_account": "GAGEMCGJL5WSY44TVTJ7I7NTODORCC7GDLK3FPU5EIQ3VEF3HS4UQPHO",
+    "num_swaps": 675,
+    "total_volume_xlm": 67400.81139260001
+  },
+  {
+    "source_account": "GBPAKH5GAJH5FOWEPNLPHXMCNSQQMDI4BDDNHAWSAQKVNDW3A3Q2NLAI",
+    "num_swaps": 674,
+    "total_volume_xlm": 67400.0
+  },
+  {
+    "source_account": "GDBPPTBYY55DSHTFFS6CHQCTPZWL4SNDWBO34W6XEZGR4QRPBRCSOO6J",
+    "num_swaps": 674,
+    "total_volume_xlm": 67400.0
+  },
+  {
+    "source_account": "GB4NVV6HFRBAEDPW3CQTNJBYIBYJAXZLPQPNFM7TZT37VO6VQXMW2WG5",
+    "num_swaps": 673,
+    "total_volume_xlm": 67300.0
+  },
+  {
+    "source_account": "GDB5DJ43CJY7RXZNDWOLPPPCPP3NWDHHD256KPRTCXS3H4WG2UF57JTE",
+    "num_swaps": 673,
+    "total_volume_xlm": 67300.0
+  },
+  {
+    "source_account": "GA2UIPHWROH23QAD5MSGPRULX65RYJ2GJ3ZP4QED7Y35RDUQY3WCPKIQ",
+    "num_swaps": 673,
+    "total_volume_xlm": 67201.7401384
+  },
+  {
+    "source_account": "GCKCN5FFTIQEXT63N2T3TXHWY2D4XYCMKDOAY4IMHR7335JNOPPOUP5O",
+    "num_swaps": 672,
+    "total_volume_xlm": 67200.0
+  },
+  {
+    "source_account": "GCFBFX4PPARZQV6BMQO3EWUW6QKIDFCVJCT7B24MFHQMOSGH6KGRNHS3",
+    "num_swaps": 672,
+    "total_volume_xlm": 67200.0
+  },
+  {
+    "source_account": "GBDHKWIXJWMJCFTVR5KXRN5JUCKJNN73YSDTNAFJL5AFJ3GAMPDIQ42D",
+    "num_swaps": 672,
+    "total_volume_xlm": 67200.0
+  },
+  {
+    "source_account": "GCUYAB6O66X2AADXDAO5RRRGVY6SAYMQDZV5QWULJYU32HGDHC5VJJ3V",
+    "num_swaps": 672,
+    "total_volume_xlm": 67200.0
+  },
+  {
+    "source_account": "GAB67QCR366ROONSOVLOIGCWT5HDWI65M74LHY2LYEHUG4M3T7WBHCVP",
+    "num_swaps": 672,
+    "total_volume_xlm": 67100.9149807
+  },
+  {
+    "source_account": "GBQUEPU3P6IQMS4PM7FWHCYHTWFYXN5NY2GQ2XKYQVHNN5SMPOL3XJS7",
+    "num_swaps": 671,
+    "total_volume_xlm": 67100.0
+  },
+  {
+    "source_account": "GB7VUOOXONJGMRLQDY6FJZZBSSXR6HQNUBAVVMIMZNEEOS3X3IKFQNUV",
+    "num_swaps": 671,
+    "total_volume_xlm": 67100.0
+  },
+  {
+    "source_account": "GDILP42TEPE4A7KTVZB2HS2YVPPRATNEEG4RERHKH7HIB3OSN6GKNTPI",
+    "num_swaps": 671,
+    "total_volume_xlm": 67100.0
+  },
+  {
+    "source_account": "GCXTISO65RN7BMFMQHLLGELIPU7U7H7TYERVZ5EU5MQMDANSKVVRFCHL",
+    "num_swaps": 670,
+    "total_volume_xlm": 67000.0
+  },
+  {
+    "source_account": "GCGDFCOVH4VICPK7QLWXUGS6YWNZ4G4TEOE4T4SPOXXIC34AR3WKA55S",
+    "num_swaps": 670,
+    "total_volume_xlm": 67000.0
+  },
+  {
+    "source_account": "GDD25EG6Y2WGJR5RRIS4SKQ4IUWHPRKDBOFNZ7SCTSOLGWD25WAGTVYO",
+    "num_swaps": 670,
+    "total_volume_xlm": 67000.0
+  },
+  {
+    "source_account": "GA7T6NGVFCHCVCD5XIRKUPS3GTY5DCVTCO7CEHPLRGQOKKEQ2IU7TB2Q",
+    "num_swaps": 669,
+    "total_volume_xlm": 66900.0
+  },
+  {
+    "source_account": "GAX2F5OK2NFB2UOPBYZVX6KUMTVOQN3EALXALRH6N7U54ZCFLH4JXKZS",
+    "num_swaps": 669,
+    "total_volume_xlm": 66900.0
+  },
+  {
+    "source_account": "GDH3VKMG24FHT6YM6Q43ATW5ASWSZBEN4NHZT7BIVLYEGYQZ2C2C5H4R",
+    "num_swaps": 669,
+    "total_volume_xlm": 66800.7455339
+  },
+  {
+    "source_account": "GDOPSZIBUGZSII2O2FUJNI33X6OQNEY3JB25IZD2OWNEW4SXDNLTDK47",
+    "num_swaps": 669,
+    "total_volume_xlm": 66800.7648486
+  },
+  {
+    "source_account": "GDK52ZIUM76VEVRNOOIJ67WYACBGR6SOI2K3WPWELH62DXEUL5VFM3IP",
+    "num_swaps": 668,
+    "total_volume_xlm": 66800.0
+  },
+  {
+    "source_account": "GADQBQKYSSGEDEM6TLNFBQQ3YVNS2LLTQEKOISDS4CPC3GLQE5VT4PLV",
+    "num_swaps": 668,
+    "total_volume_xlm": 66800.0
+  },
+  {
+    "source_account": "GBPYNLW3FHJSZFQMSGGOYP4ITTUKQAYV76FEYPDN4ZVUZBK3PHYAO7HU",
+    "num_swaps": 668,
+    "total_volume_xlm": 66701.8310397
+  },
+  {
+    "source_account": "GCY745EZLDGRWSMIBU3OA3SYGEQ66ALLDCZWNVTXJ5NOJ2CS2S5S3U3I",
+    "num_swaps": 668,
+    "total_volume_xlm": 66800.0
+  },
+  {
+    "source_account": "GAPU4WSJMFW6Q4G5CLADCNWFIAOGTCC5XXY3DVUA23W7ZPUIYSSGXLIQ",
+    "num_swaps": 667,
+    "total_volume_xlm": 66700.0
+  },
+  {
+    "source_account": "GDWOQCTMVN35MPNOYHORZ27WGOKJBDEDC363UDRST5XNMYNY34I3SUIB",
+    "num_swaps": 667,
+    "total_volume_xlm": 66700.0
+  },
+  {
+    "source_account": "GAMVQ67ITGXGCOTAXX23XXPHYJG2L4WYEJQCRAGUIHS2Y3XNIBX7G2TS",
+    "num_swaps": 666,
+    "total_volume_xlm": 66600.0
+  },
+  {
+    "source_account": "GB6JZT45K2A4G6ES755UCOGAJ4LLOOACYTPABOSJTU6J3MYS6SUQU6RV",
+    "num_swaps": 666,
+    "total_volume_xlm": 66600.0
+  },
+  {
+    "source_account": "GDNGNBA7PHRXG3AE47EMG6PGDKKKCEFXKXDBSP7Z5Z67NR3TUPI26MPD",
+    "num_swaps": 666,
+    "total_volume_xlm": 66600.0
+  },
+  {
+    "source_account": "GAVI3QVEPPQF43276NNUUUPZJWOUQEYPZWLPFSEDAKBMBDYIU3FG3VSP",
+    "num_swaps": 666,
+    "total_volume_xlm": 66600.0
+  },
+  {
+    "source_account": "GDIQKIMC34H7CAV3WDO6EROMQIVZQATYLZ6MBNRNVIZSEA7ZY7FKJ5ES",
+    "num_swaps": 666,
+    "total_volume_xlm": 66500.7975599
+  },
+  {
+    "source_account": "GBCQSYQLJDB56PUIXRA6YGPVNEPI4LLQ7P55FZ6NDGG6JLJHZPQ4QTTX",
+    "num_swaps": 665,
+    "total_volume_xlm": 66500.0
+  },
+  {
+    "source_account": "GB3E2M465UHSIOVXOEYI47HEDZGJTTZ4GOLJEWJS3GF5JBUVNCK2ORUF",
+    "num_swaps": 665,
+    "total_volume_xlm": 66500.0
+  },
+  {
+    "source_account": "GBXFXEOQRAIYLTQWVAUQRYI4XDJDTLWCNYFECNZETTYRM3562O5JQSM5",
+    "num_swaps": 665,
+    "total_volume_xlm": 66500.0
+  },
+  {
+    "source_account": "GBOTNISPV6GWGL5323JXZNB36HFRYYO7K52UZEYPBWYPYDTG6DH3KALE",
+    "num_swaps": 665,
+    "total_volume_xlm": 66500.0
+  },
+  {
+    "source_account": "GAQAYUQLAIV4ALEQX7A2HNY7ZOWEW2OHOZAPCOG6KCQTK322LNOO6V5D",
+    "num_swaps": 665,
+    "total_volume_xlm": 66500.0
+  },
+  {
+    "source_account": "GAEHMBXPID3LCUZRFMK6A7W4LPAZDROZQALTF4STBONSKORACQYN5F7V",
+    "num_swaps": 664,
+    "total_volume_xlm": 66400.0
+  },
+  {
+    "source_account": "GCC73OSRIYADANC34SNR2DSDDOS4X33CANH6EW3W4OBIRWSP3AALAF5A",
+    "num_swaps": 664,
+    "total_volume_xlm": 66400.0
+  },
+  {
+    "source_account": "GD6SIBVC2WJQZ2MYVQR5LV6T42YUEFIYLPPZDIRH772PCMWGQUKJBGVM",
+    "num_swaps": 664,
+    "total_volume_xlm": 66400.0
+  },
+  {
+    "source_account": "GCKKCPBJDRZXDADWCHKMIT5GVRJ7G6CGHJA4HZ46XPAMZ777J4XWCSAJ",
+    "num_swaps": 664,
+    "total_volume_xlm": 66400.0
+  },
+  {
+    "source_account": "GBT5LKMDY7OV366APWHLOQI6PRRFYSBP3CPZ3QL2UOKCU4MLXU7U2ASF",
+    "num_swaps": 663,
+    "total_volume_xlm": 66200.9448313
+  },
+  {
+    "source_account": "GCLYW333FHGNQ5IYQZBZOUTJWS2ZELBM3USXLXAO2WE5BG36NQCF2BOT",
+    "num_swaps": 663,
+    "total_volume_xlm": 66300.0
+  },
+  {
+    "source_account": "GALZJYTB2P4UAUTDN2MQSKTOSVMXBROE7EIKKLVF4WXWDWUZV5H6SH6H",
+    "num_swaps": 663,
+    "total_volume_xlm": 66300.0
+  },
+  {
+    "source_account": "GBMJHYZ5XYQYI5ECLHHA5TKM36IDG5OUUXB4FHN3MYLY2RYTV63PICMW",
+    "num_swaps": 663,
+    "total_volume_xlm": 66300.0
+  },
+  {
+    "source_account": "GCRG36HNIKQ35I22XKICAGCODK6W6ZOTIWRG5PB3QAFK4WOHVY4LO3E7",
+    "num_swaps": 662,
+    "total_volume_xlm": 66200.0
+  },
+  {
+    "source_account": "GDJIJRXBDE67KBITZIJMBENTMIQ2YIYABCZJB546SOMI3YVVTCTHIMKB",
+    "num_swaps": 662,
+    "total_volume_xlm": 66200.0
+  },
+  {
+    "source_account": "GC3ILJ7XFRYCBOXGZ64IPPCJT5WYBZEETUKO7H36ESDWLCUKIDD2XANR",
+    "num_swaps": 662,
+    "total_volume_xlm": 66200.0
+  },
+  {
+    "source_account": "GABFD6VI7LSUGF5O5XAWPVPRUSTLTFNADSHXYI56VG4BQPGHNYTWWJSB",
+    "num_swaps": 662,
+    "total_volume_xlm": 66200.0
+  },
+  {
+    "source_account": "GDXRFBUDHBTEDMBH7NN2TLAT2ZJ7EABUOP73QVXRGIXLN6MSGQ742PE4",
+    "num_swaps": 661,
+    "total_volume_xlm": 66100.0
+  },
+  {
+    "source_account": "GBADOODUYGBNT35XV3S6AWGUYUAH3OU4ICGXK55YBWK2JTPEQ5EHMV2C",
+    "num_swaps": 661,
+    "total_volume_xlm": 66100.0
+  },
+  {
+    "source_account": "GADLSGSUWDTHMQCIOKPK3TUBWGYBV3R4NQMV22X7MS2M4S7K3BUFKT5V",
+    "num_swaps": 661,
+    "total_volume_xlm": 66001.0166782
+  },
+  {
+    "source_account": "GCR7H5JG62HVZTU6A3ZX5CDJ4C6J2UIAXS6NNSFD3VXGIGPHXUNX5VH5",
+    "num_swaps": 661,
+    "total_volume_xlm": 66000.9606925
+  },
+  {
+    "source_account": "GDNVPM4I7SQTPIABFFHCRMV23FTPTFFOTDI744TM357WMSZKIWHBDS54",
+    "num_swaps": 661,
+    "total_volume_xlm": 66100.0
+  },
+  {
+    "source_account": "GAUXUTS4FWJHXC2ZICOVG3GOZGW43KIII3MXXKNGOCYNIMXMBEV7LMVZ",
+    "num_swaps": 661,
+    "total_volume_xlm": 66001.0178623
+  },
+  {
+    "source_account": "GCJWSTHSX5IFL6O2AXCWW2OSYTPNQPR7J3BYOBTO47MGC47KBD66NWXD",
+    "num_swaps": 660,
+    "total_volume_xlm": 65901.7743224
+  },
+  {
+    "source_account": "GB3EPDRTZ2JM7D7XH4ZCISRB363VDMVFGCNRXNBE32RQQAUFTP2MY5RN",
+    "num_swaps": 660,
+    "total_volume_xlm": 65900.9482044
+  },
+  {
+    "source_account": "GBVNSKYSMZJUT7H66Y4W7KWB6YMHE4BVEKZ57KQ5H3MMOVS54OGVTFMG",
+    "num_swaps": 660,
+    "total_volume_xlm": 65900.9915745
+  },
+  {
+    "source_account": "GAHKAJHJEZRF6PBIA6WGPA73INEI6HNIWBGILLCZKPYXP5UF7BNCJ5FP",
+    "num_swaps": 660,
+    "total_volume_xlm": 66000.0
+  },
+  {
+    "source_account": "GCZYGW3GSCI2JTHWUOUOVTV24KRX7344TAOCYO2FMLRDNYLF3S6X44WG",
+    "num_swaps": 660,
+    "total_volume_xlm": 65900.9274456
+  },
+  {
+    "source_account": "GDOHYIJGAIYGBIGNXOG5F5RDCO77A3EUGDIF4BYO4SS46YG4QXKGCCHX",
+    "num_swaps": 660,
+    "total_volume_xlm": 66000.0
+  },
+  {
+    "source_account": "GCIZNZWWNRNZOC3NIQZOB2P3ONX5JPQUMGMWHLYXYQKGXFGYPFWUGHVE",
+    "num_swaps": 659,
+    "total_volume_xlm": 65900.0
+  },
+  {
+    "source_account": "GBDAZM3LPTHP3IFPDAUQGLSANPW5S5K5WFKBFVHQ3SMT3JDRQICMTSNZ",
+    "num_swaps": 659,
+    "total_volume_xlm": 65602.66288650001
+  },
+  {
+    "source_account": "GBAIJXAVS57BCQQXWRLQJSJ4J73Q44PJQN5PIF42LUYEN3PXSNZ73AFN",
+    "num_swaps": 659,
+    "total_volume_xlm": 65900.0
+  },
+  {
+    "source_account": "GCQROIH3BQ4I74BQOLDOLQZQMVI2CQL4TQFVOORJBFXCMV6DLSU4TNUN",
+    "num_swaps": 659,
+    "total_volume_xlm": 65900.0
+  },
+  {
+    "source_account": "GBTXW2AOMCS4XHB62PNXKOZ3SG677IZWA5B5OL7RUQWJQWOBUWJ64KSX",
+    "num_swaps": 659,
+    "total_volume_xlm": 65900.0
+  },
+  {
+    "source_account": "GAP65MISUAZ7TRZMJZPSBGCXTWS4YFAKI34I43SKXIIODIGEX2IZ2MEE",
+    "num_swaps": 658,
+    "total_volume_xlm": 65800.0
+  },
+  {
+    "source_account": "GCPVBQWSOKVFMMGSESC6XFFLZMSKLCA6QDW563BM4KA257SZFG3R6K5D",
+    "num_swaps": 658,
+    "total_volume_xlm": 65800.0
+  },
+  {
+    "source_account": "GB5AF5FNYTQ3SO7DOJBBLYST4Q76IKIKHEDENETYQCMDBA6EJAOXROZH",
+    "num_swaps": 658,
+    "total_volume_xlm": 65700.99441690001
+  },
+  {
+    "source_account": "GCSD7VBHPUN2PMHZPNPSSXFUW745TL7LKJQSG3NUA6INGKDGU2L75USG",
+    "num_swaps": 658,
+    "total_volume_xlm": 65800.0
+  },
+  {
+    "source_account": "GAOZ3ZY2UT3XWYUKYGCMALWFEAUP5AYDKAY6G45LK6EYQEFHZKCU76DI",
+    "num_swaps": 657,
+    "total_volume_xlm": 65600.93611529999
+  },
+  {
+    "source_account": "GA7MP3PMOSPBSBPBWNDOYMMU6FTJYYVA4IWTBJZO5SFQZGXEA2C2KELO",
+    "num_swaps": 657,
+    "total_volume_xlm": 65700.0
+  },
+  {
+    "source_account": "GAVWDX3EB63DWHFV4WX6MFTV4NV3U537ENFQJFOMSRRNANVCLMEDA5HJ",
+    "num_swaps": 657,
+    "total_volume_xlm": 65700.0
+  },
+  {
+    "source_account": "GBGVKNUURW3LBJ6F742ZTQ6BKECL2X7TVXZAIYN4EQEOC5H6LLD5EZMA",
+    "num_swaps": 657,
+    "total_volume_xlm": 65700.0
+  },
+  {
+    "source_account": "GAE7VXYSI2NGFP7FLY53GYWT35RRFARXT7ZGDCYSOU7DT4T7PMQ72ZNW",
+    "num_swaps": 656,
+    "total_volume_xlm": 65600.0
+  },
+  {
+    "source_account": "GDK7WNCAQJRLVZMUFGY2JU2SUU4MWSLVCNWHA2LULLEVJGG4EB7MY6KA",
+    "num_swaps": 656,
+    "total_volume_xlm": 65600.0
+  },
+  {
+    "source_account": "GCXPX4BEQ7474GAIVKZEIAQ44ECFKSQETCXF4YOSN6BHQXISCUFRS65T",
+    "num_swaps": 656,
+    "total_volume_xlm": 65500.8384651
+  },
+  {
+    "source_account": "GDQCHCZSTTJ5W5MNJ32VZPXZIYMAQDTTIOC3QZGC5PTGCFCAQQCZOT5X",
+    "num_swaps": 656,
+    "total_volume_xlm": 65600.0
+  },
+  {
+    "source_account": "GDUXDBAMCI4KXORV5DYL72MICAUCVI7GCFVLMQWI7IGSZIRYPRGSJSLK",
+    "num_swaps": 656,
+    "total_volume_xlm": 65600.0
+  },
+  {
+    "source_account": "GAV5F4D3JO4TDUPQR3REAETRIBXV5UH6PKSVFP4YQQKGMC7EAORHJJVV",
+    "num_swaps": 656,
+    "total_volume_xlm": 65600.0
+  },
+  {
+    "source_account": "GDCTZL2SFFMN3BG3ODQ7Q3NQ4YQQSKJ2V76PXBO4JX5NVUG76IMP36Z4",
+    "num_swaps": 656,
+    "total_volume_xlm": 65500.9958812
+  },
+  {
+    "source_account": "GADGH4HN2R4LGONLULFFES53OFI2QRYW7ZXV4Q4XOZSVURDHY2JSKI5B",
+    "num_swaps": 655,
+    "total_volume_xlm": 65500.0
+  },
+  {
+    "source_account": "GA6EMFO3SULMTONVIFOBZOOZCAAPTIWWFNWI5WNR23AVQSVQFRDEZOX6",
+    "num_swaps": 655,
+    "total_volume_xlm": 65401.0140685
+  },
+  {
+    "source_account": "GANCKZCCU3TYVA244R5ZLGPRUPNZRPQFYHMLKU6CBF6FDZSKVBQ7RHJC",
+    "num_swaps": 654,
+    "total_volume_xlm": 65300.7417197
+  },
+  {
+    "source_account": "GDZXRJVKYZICUFD4IPZE6IRKHF67YKA3OI3DGFYBNLL2BDCGD3A45RKJ",
+    "num_swaps": 654,
+    "total_volume_xlm": 65400.0
+  },
+  {
+    "source_account": "GB5R6STZGZOXFEIUAOGEJ5CCO75XAQZGXU7T5GKKWGXQIJXWH2UFZGZ2",
+    "num_swaps": 654,
+    "total_volume_xlm": 65300.7800746
+  },
+  {
+    "source_account": "GBMQSOC5OK72CNDYZ5GBDS4WDJVQFCNL66MEB5AFNLYZYBRZMNNLQUDV",
+    "num_swaps": 654,
+    "total_volume_xlm": 65300.9049798
+  },
+  {
+    "source_account": "GCBPUN2QFYN5TSC3WCZA72J5A2M4U6JQ26OON74GJSEJW2PQ5HP452FI",
+    "num_swaps": 654,
+    "total_volume_xlm": 65400.0
+  },
+  {
+    "source_account": "GBLNB5JDDVT3AF4KGCN36NYS235V4YNB6INORZMMLDLES2VHPOOKLFNZ",
+    "num_swaps": 654,
+    "total_volume_xlm": 65400.0
+  },
+  {
+    "source_account": "GAWN5QSFWJ5K3K5HYRKOBNWSYD7UPNDXDBDFFZD5Z4VHTAFGSSAHU4II",
+    "num_swaps": 654,
+    "total_volume_xlm": 65400.0
+  },
+  {
+    "source_account": "GDZSY4ZNPTSRCQAAYOUJ2CV42XIGISY7AN4NIHWAI2SD3BXJFGBRI33H",
+    "num_swaps": 654,
+    "total_volume_xlm": 65300.9085393
+  },
+  {
+    "source_account": "GDX4OGE5U6XWILWUOBS3LSRLNBCXGZJXYQ7OINP55VYUHG3HB3O2H27W",
+    "num_swaps": 653,
+    "total_volume_xlm": 65200.9499287
+  },
+  {
+    "source_account": "GCTFN2J4DCDVRO7S7WJSOBTMSZPG7CXSZOYY5KXSHZDHEMPBP7LZMLHV",
+    "num_swaps": 653,
+    "total_volume_xlm": 65300.0
+  },
+  {
+    "source_account": "GAMB7IUQXFNF3WGZAIRFH7DVRVCYTVWI7NNSYD6DB3YLTPVA7LFW3CZL",
+    "num_swaps": 653,
+    "total_volume_xlm": 65201.0515728
+  },
+  {
+    "source_account": "GCJXVURULF6J3QIVQHF67YIK35LRCMN36HWUPK5ZAE76RETFWE5WKLUR",
+    "num_swaps": 653,
+    "total_volume_xlm": 65300.0
+  },
+  {
+    "source_account": "GC52MEOXTSK3VHEH3S3LFACJHO4QS2JPKCC3DQC3IXXYTTQRM7KOILLQ",
+    "num_swaps": 652,
+    "total_volume_xlm": 65200.0
+  },
+  {
+    "source_account": "GBYZCRCQNQ7TQZNISI2RKI5HUP3I5DZRHKNQJH3DS6EOC55XJL6Q4JP7",
+    "num_swaps": 652,
+    "total_volume_xlm": 65200.0
+  },
+  {
+    "source_account": "GCHYF7FMA5XPKMULNY24PXI2KTNZSL4FDIOP432IPTNWPA2W62OUCOR6",
+    "num_swaps": 652,
+    "total_volume_xlm": 65101.0071968
+  },
+  {
+    "source_account": "GDYPUU3BNJF7Z6VQFUB3ZTGTQVNI5UYCERCDJPHLTN75O7PDD55TRNM5",
+    "num_swaps": 652,
+    "total_volume_xlm": 65100.8359336
+  },
+  {
+    "source_account": "GA5WBNS7ZRQLY2UMZUNXHPQIRWVC6JU5JUCEXKOZC3IOSX5S6UQ3QRQR",
+    "num_swaps": 652,
+    "total_volume_xlm": 65100.9015184
+  },
+  {
+    "source_account": "GAMZSOFRRASZ7IBCXBZGLKTR5LQMTUBXRWTPHNLWPKHHUQWOCL76LXAM",
+    "num_swaps": 651,
+    "total_volume_xlm": 65100.0
+  },
+  {
+    "source_account": "GDOBWUMNIZADJBE2VSFOHNPUY5Z5OR3DPT4C3YLFSZYUK5BDVXNHPTY4",
+    "num_swaps": 651,
+    "total_volume_xlm": 65100.0
+  },
+  {
+    "source_account": "GBNEE62CZIL4AJSNUBLLSS3GQ5YIIPL7I7WHQDBADWWOZUZT6SRCZ222",
+    "num_swaps": 651,
+    "total_volume_xlm": 65000.921122
+  },
+  {
+    "source_account": "GD7GI5SNTAMPMGHC36EBAKYAJWGKLDST7D44GTHVVWEX6I7O2Q3HDU65",
+    "num_swaps": 651,
+    "total_volume_xlm": 65100.0
+  },
+  {
+    "source_account": "GCPOCJGKC2POU6F3WQOLKI7BNGGPNUQU4OQRIBR3S2CODHY6A7PHRA45",
+    "num_swaps": 651,
+    "total_volume_xlm": 65100.0
+  },
+  {
+    "source_account": "GCO2WSXUDSHXKTNVTZ647APIL4UCUMY4M2WAKVRYEIDDYTB2SXJ5A4BE",
+    "num_swaps": 651,
+    "total_volume_xlm": 65100.0
+  },
+  {
+    "source_account": "GDAB4TVYJGZ4HYG3OR67EAP2YDQXCOPOLBCJ3NGGNROEA5KFVIJABURN",
+    "num_swaps": 651,
+    "total_volume_xlm": 65100.0
+  },
+  {
+    "source_account": "GCHX5TRGJRLJX5IKSBTYE6LBIHUSSO64ERKQOUJFASRWL7LPI2J3VXNN",
+    "num_swaps": 651,
+    "total_volume_xlm": 65001.0496083
+  },
+  {
+    "source_account": "GBGP2QJ746R5EGCAX43M6FGOFFDANKC562YV6YWJDUKXBBDWDEBN7WN7",
+    "num_swaps": 650,
+    "total_volume_xlm": 65000.0
+  },
+  {
+    "source_account": "GCVZLCT3K7MSLU7Z2NS5L6XUY4WPS6WWVU3INMXHQRZH5JGP4GB6RQD7",
+    "num_swaps": 650,
+    "total_volume_xlm": 65000.0
+  },
+  {
+    "source_account": "GBR6ZWK5SZM7DQYRJONG3NOWTCPGWAVNONRIFVMUAX2XDAAE5LZUIEFD",
+    "num_swaps": 650,
+    "total_volume_xlm": 65000.0
+  },
+  {
+    "source_account": "GB4LT4ISGH64INHJ7UKVROZA7DM56MURHY7ZQWXZZQBRJAJHHVSGIO2O",
+    "num_swaps": 650,
+    "total_volume_xlm": 65000.0
+  },
+  {
+    "source_account": "GCHSHQGBHA6F5LT7U4DNVORZBAKPRQJDU6PJULR5B7DG4BEZLMOONEXF",
+    "num_swaps": 650,
+    "total_volume_xlm": 65000.0
+  },
+  {
+    "source_account": "GAH3K2UKKEDIC5M5TPATP3ZBHQZB6EDLKMH7HBVFTCPGGDWDHQ2DAWFW",
+    "num_swaps": 650,
+    "total_volume_xlm": 65000.0
+  },
+  {
+    "source_account": "GCL4B24MKL7YHRSR4Y7NVCLVSIZ6P6F5HGUWHNVNN72233OMFUJROHOP",
+    "num_swaps": 649,
+    "total_volume_xlm": 64800.981361800004
+  },
+  {
+    "source_account": "GBQZL47A4VVZOODCDBW6WB6DE7TW6H4ZFVGIP4BIG2WQ36Z3J4BQMT5N",
+    "num_swaps": 649,
+    "total_volume_xlm": 64800.811964399996
+  },
+  {
+    "source_account": "GDMMATVJFSTPQ6TVTNLN7J5X4WPFMA2ZE5CZQ6QQUWPYEKP5AFJ6DPH6",
+    "num_swaps": 649,
+    "total_volume_xlm": 64900.0
+  },
+  {
+    "source_account": "GDVE2FZ5FMI74T5LIFTUPR3PV2C2EGBNYVZ4EXQ7AUDDCDCRAN67D6WI",
+    "num_swaps": 649,
+    "total_volume_xlm": 64900.0
+  },
+  {
+    "source_account": "GD4NNW7SSFGGN3GV3F2MX5DQ7BATY4GKVAXZE5EY4NUUS5OZCANBDD3M",
+    "num_swaps": 649,
+    "total_volume_xlm": 64900.0
+  },
+  {
+    "source_account": "GD6RJ6XBF4WZIQ3CWEJBVJREGLXO7LRA3AYYYZAQPZECVJV4OWHK2NEY",
+    "num_swaps": 649,
+    "total_volume_xlm": 64900.0
+  },
+  {
+    "source_account": "GDZMXRMDHVNL3BRJIEH4HCN2YWY7R5HI7H6LTDLD452TBOHCWB2RYTR3",
+    "num_swaps": 648,
+    "total_volume_xlm": 64800.0
+  },
+  {
+    "source_account": "GAK73KAXFWGJPCRT4J72IBQZLVQBNYO3LVWIJPKQSL6ECIQ7E43OFOO4",
+    "num_swaps": 648,
+    "total_volume_xlm": 64700.8997872
+  },
+  {
+    "source_account": "GAVNNEJ6ZALHVNR5II5GX5WLCK343ASIVPZGWL3IVQB3RWUBJU5JEY7U",
+    "num_swaps": 648,
+    "total_volume_xlm": 64800.0
+  },
+  {
+    "source_account": "GDBROGW3SKXML7EDDAXT6SDSGUPBYJEK6GVVAXMBGBOKVDBHJT2CB2MF",
+    "num_swaps": 648,
+    "total_volume_xlm": 64800.0
+  },
+  {
+    "source_account": "GCCZVG2PPRVIVFO3KQNAVRBECKSJBGIXFXDAYEIZDPUR43I25YJEGOS4",
+    "num_swaps": 648,
+    "total_volume_xlm": 64800.0
+  },
+  {
+    "source_account": "GC4NSZCCGOPVVP6UOSCSG6TJMGUYBFVUWZW6FMUFYYHS7I6WKXM4JEGW",
+    "num_swaps": 648,
+    "total_volume_xlm": 64800.0
+  },
+  {
+    "source_account": "GBDWSATTPGGJOO4GAS6TYP2RGKAEWEQQDPSCT4NX4ZKTCIZBCRNCF5WN",
+    "num_swaps": 647,
+    "total_volume_xlm": 64700.0
+  },
+  {
+    "source_account": "GBDDTAYE74Z45DUXHDIFKNWBILAUWUGKZFYPOU5Z24X2WZBEDFYZKOX4",
+    "num_swaps": 647,
+    "total_volume_xlm": 64700.0
+  },
+  {
+    "source_account": "GBS2PBGMSVKMDD6FOYJ3QF2T25AUWUVYPIY24XJDST6WI726Q2KQ6MFU",
+    "num_swaps": 647,
+    "total_volume_xlm": 64700.0
+  },
+  {
+    "source_account": "GB5C3MKIR63O6KPGO2R2UEOZAX6OT5LHTCXR257XUJZ7WKHAYFJWXFBM",
+    "num_swaps": 647,
+    "total_volume_xlm": 64600.8923242
+  },
+  {
+    "source_account": "GDP5QVVEWQDNZNXMG6BERL4YI35NNXHXAHI3DCBP6TJPS6PCGCLC7YEX",
+    "num_swaps": 647,
+    "total_volume_xlm": 64600.8738873
+  },
+  {
+    "source_account": "GDBASAANNOGYOEYSHFZNMXDURU35QKK52VT6VXBITXRRUW27ATPYUP6H",
+    "num_swaps": 647,
+    "total_volume_xlm": 64700.0
+  },
+  {
+    "source_account": "GAI3NEHQFTQ57M4PM5NWUVW32OAZ4CFLH3UULEOZ2EIYUPAKRELKJSOR",
+    "num_swaps": 647,
+    "total_volume_xlm": 64700.0
+  },
+  {
+    "source_account": "GCKCBZPYBBXLDVQLXEY5TSE6JVEYSLEVD4VIM7B66YVIYKE4YSEC24XL",
+    "num_swaps": 647,
+    "total_volume_xlm": 64700.0
+  },
+  {
+    "source_account": "GBDBL5HNT4GPTG4BLI2RSCXHGLYMZDKLJFUHWJBVVOX75IR5EVYLQEOP",
+    "num_swaps": 646,
+    "total_volume_xlm": 64600.0
+  },
+  {
+    "source_account": "GB77ZRUE5UK33UEOQEFMRWO43LCUF4W7E3YL364UQOC7H5NUJMJLZVVD",
+    "num_swaps": 646,
+    "total_volume_xlm": 64500.9339715
+  },
+  {
+    "source_account": "GAC62OXHKMQEALCHQN5B5L67OMDFNNE6RY6X5BWDBPBOOPMI5NKCSSSB",
+    "num_swaps": 646,
+    "total_volume_xlm": 64600.0
+  },
+  {
+    "source_account": "GAQI6OROP55XGPDHK62YTGJ2BOYKV5LNRZJRPJHBUMWDCX2SLMZK6K5V",
+    "num_swaps": 646,
+    "total_volume_xlm": 64500.8976243
+  },
+  {
+    "source_account": "GBJGFHV5L2UKQZFHRC7Z4FBWM7JO2EHLNBNKAV3CNPL3SRRDGJNNB3TZ",
+    "num_swaps": 645,
+    "total_volume_xlm": 64400.8159564
+  },
+  {
+    "source_account": "GB4ZFJWSAPXXW6PVZIPMXLPUHSY4JS427IL4P2YM64KIQCYUCEPBKKQ3",
+    "num_swaps": 645,
+    "total_volume_xlm": 64500.0
+  },
+  {
+    "source_account": "GBSGRMWKGZTF2HLJAMDMVV2QNY7FFGD6IH5VTJ5VCM25XUXC4L2SZVV7",
+    "num_swaps": 645,
+    "total_volume_xlm": 64500.0
+  },
+  {
+    "source_account": "GABU3VZEVTCGKGE2YJAF7FLFARUQVAPILK7GAJG5NGTFLH66CTOPSNBI",
+    "num_swaps": 645,
+    "total_volume_xlm": 64500.0
+  },
+  {
+    "source_account": "GBKFYEZFWWFW7IA5OV3BC74WSDPWLU6KIPODFTM3LNZYFSGHW7RA6F4C",
+    "num_swaps": 645,
+    "total_volume_xlm": 64400.9125613
+  },
+  {
+    "source_account": "GCC2XUUWLWY2D4SH3PHZ4Y6CAKJ57CDD32QAHLGZJ4WHUMHPR24S3D5P",
+    "num_swaps": 645,
+    "total_volume_xlm": 64500.0
+  },
+  {
+    "source_account": "GAG2IN6WWXUENJLLR7NF7WWH7VZB6N4IWBEEEH6ZFEI3BI3342IL5NGD",
+    "num_swaps": 645,
+    "total_volume_xlm": 64500.0
+  },
+  {
+    "source_account": "GDNGTAJQLEFTJ6CVRAK2RPC6NGR2DQTM6LYDCB3V4B6BIQYVU3FB66VR",
+    "num_swaps": 645,
+    "total_volume_xlm": 64500.0
+  },
+  {
+    "source_account": "GA2LRT25QAT5RYAWCCYERIHK276UMGQ3AQ4HY4YZP2JCZT2FQLFO2I65",
+    "num_swaps": 644,
+    "total_volume_xlm": 64300.892546
+  },
+  {
+    "source_account": "GBWMV7FZTGYKEVNV3EQZAXGI43JUKGKXUCLT4OJLSXZMQZXGSQ3AQUFU",
+    "num_swaps": 644,
+    "total_volume_xlm": 64400.0
+  },
+  {
+    "source_account": "GDYEKUYPVXRIJLWNPV2S5EJJVXEF4RCR5NI5DYUQGVPSP6V3ZPVLQBID",
+    "num_swaps": 644,
+    "total_volume_xlm": 64400.0
+  },
+  {
+    "source_account": "GBTM3IN6AAK22GKR3YPQQHLYRUIXE4F5274SFXLFJDVEKCVPAQPSO2Z7",
+    "num_swaps": 644,
+    "total_volume_xlm": 64400.0
+  },
+  {
+    "source_account": "GBKUVMNLGA2EWGV3FVGKB7XHLBXBSQOYR6OV6HJ6XQZWDEEASVP76BOT",
+    "num_swaps": 644,
+    "total_volume_xlm": 64400.0
+  },
+  {
+    "source_account": "GCNJ5BRA2ADRWOKEXIF6IEVAAJI37EU6NJSPJSM2MKHMHHNHM4OHAK4H",
+    "num_swaps": 643,
+    "total_volume_xlm": 64300.0
+  },
+  {
+    "source_account": "GCZFB7P7SWNKG5OQA2CNJPBFMXSJQMMQNMTECQ6XL5KIC3BK6TT4QU22",
+    "num_swaps": 643,
+    "total_volume_xlm": 64200.8568794
+  },
+  {
+    "source_account": "GB3EEDJAYPJ2GBP44IJH4HU7H4REHUGFGTSZVBKBUI77LVG523QQWBFH",
+    "num_swaps": 643,
+    "total_volume_xlm": 64300.0
+  },
+  {
+    "source_account": "GDBIMNCHD6P4B7WQQRTUM4V57ALI7KICY6XAOFPBEHKGOMNEGGYFYTIW",
+    "num_swaps": 643,
+    "total_volume_xlm": 64300.0
+  },
+  {
+    "source_account": "GBLDYLPJZESXRUZMTN2LZRUGIKVIKIJWUX6PB4SAJ27NAN7BZUP4H5WS",
+    "num_swaps": 643,
+    "total_volume_xlm": 64300.0
+  },
+  {
+    "source_account": "GAWGT3JGFWVVZSC2LE6XEUZA3XAKCGSJLJCJPZ5ZKRADEFKKXOKOGVU4",
+    "num_swaps": 643,
+    "total_volume_xlm": 64300.0
+  },
+  {
+    "source_account": "GASE5SUYNOGNANNYVOSU33PZ7VSIO47NSGMOL4C4WOB2B3EU3QA5PQZK",
+    "num_swaps": 643,
+    "total_volume_xlm": 64300.0
+  },
+  {
+    "source_account": "GDW5ZEBDH4USJR64SNODU4KI6ISDJGGT7N34B4BOPDD42FYNLYVCNYF4",
+    "num_swaps": 643,
+    "total_volume_xlm": 64300.0
+  },
+  {
+    "source_account": "GDOT2JM22YNRKLGJ75TJQPRJENPZYGDA3IP7ZLUTO53GIFUNRDEHTBHF",
+    "num_swaps": 642,
+    "total_volume_xlm": 64200.0
+  },
+  {
+    "source_account": "GCS76XRGJSLAAPTPKL6LFJAKD4QQ2UEY2H2XI5BLS2WBDDMNXUIXSNMW",
+    "num_swaps": 642,
+    "total_volume_xlm": 64101.694160700004
+  },
+  {
+    "source_account": "GCCFWI77ZK6NA4NS6L6QHWBOX6SILA5575TZ4ROHD2VXGEMOFJRBSVYF",
+    "num_swaps": 642,
+    "total_volume_xlm": 64200.0
+  },
+  {
+    "source_account": "GDPIR4EU6WACTML3OMVRZDRWALUT7W3YKIUB25DBRX7RRDDP6N2PJASP",
+    "num_swaps": 642,
+    "total_volume_xlm": 64200.0
+  },
+  {
+    "source_account": "GC45D2UWNTH3FK5UMV2NBXLRKPUEFR3HYX2YFRU4ZE62PIKYTKKGD7RP",
+    "num_swaps": 642,
+    "total_volume_xlm": 64100.715201
+  },
+  {
+    "source_account": "GCF2IJCBRDEGTP6WRQ5DZCSWD7YSDJJABYZNAK4I3FZWPJ6FSB2VMVHT",
+    "num_swaps": 642,
+    "total_volume_xlm": 64200.0
+  },
+  {
+    "source_account": "GA4Y3E2U3RE3NBUQUXUCBDBQ7WWPMNIMYPTCZ4KMMQ6U6N6QVK32OPLO",
+    "num_swaps": 641,
+    "total_volume_xlm": 64000.7146129
+  },
+  {
+    "source_account": "GDGA7DEUKFUALYYFM4Y7CVP3LKRKY7GOYQXS252KLDYUYNGJHIR75EL6",
+    "num_swaps": 641,
+    "total_volume_xlm": 64100.0
+  },
+  {
+    "source_account": "GA74MKPJRESUHGOTB6IGIVOSRADBXYM33L2R4ES4J3CXX5QQXG6GIR6B",
+    "num_swaps": 641,
+    "total_volume_xlm": 64100.0
+  },
+  {
+    "source_account": "GALWRXADOLN4GEBJ7FLIO7YRENKKTVO3G6WVHN2FWJYUIAJS4QDC7KRC",
+    "num_swaps": 641,
+    "total_volume_xlm": 64000.7796198
+  },
+  {
+    "source_account": "GAX2GWKAFM6AUL5HLOLYFYMO2FWLTAX2S2QV6R3PM5MAKNNZKABD6KFS",
+    "num_swaps": 641,
+    "total_volume_xlm": 64100.0
+  },
+  {
+    "source_account": "GAACBYOMO57QQD6WSRWAHWPV4DRLCGC6KXMDQCRTWIPY5USVOOQIBVLN",
+    "num_swaps": 641,
+    "total_volume_xlm": 64100.0
+  },
+  {
+    "source_account": "GA4O7FASXEBWKBBMVJOG2NNFZBC4VDZSSSRFZ6X3FOGFMTDLF4SF7ZKK",
+    "num_swaps": 640,
+    "total_volume_xlm": 63900.8971197
+  },
+  {
+    "source_account": "GCGA63Z37O4AOT2KBX46SVKCZUEUP6TBXIHMEDZKV7SBCNLZ23JNE67H",
+    "num_swaps": 640,
+    "total_volume_xlm": 64000.0
+  },
+  {
+    "source_account": "GAIKDSGLJPQTKUKTEVCRGK2VZS4M7UAI7QXKNAMJKJJGIFRIBGADC3S7",
+    "num_swaps": 640,
+    "total_volume_xlm": 64000.0
+  },
+  {
+    "source_account": "GBDKBCYR55SHEAICRLPGNPNZZYSUABFR5FZQL5IBDWE57SMCVW4O2SCU",
+    "num_swaps": 639,
+    "total_volume_xlm": 63900.0
+  },
+  {
+    "source_account": "GBQFVFQMLIUKYV52HVJU5BS32LDJ5O7LWURG4CEIB3LJL2ONGW3AQTON",
+    "num_swaps": 639,
+    "total_volume_xlm": 63800.8734606
+  },
+  {
+    "source_account": "GASCBHARKYYTJKEY7FM4UFKHJICZZYQZMBOOJS2K73TKHMQ7Y7GHZJIW",
+    "num_swaps": 639,
+    "total_volume_xlm": 63800.9480995
+  },
+  {
+    "source_account": "GDIASW7JOBRJ342S42BBFZYU5DPJXREW3B3OLDPSP6QRPZIUCDA4XDLI",
+    "num_swaps": 639,
+    "total_volume_xlm": 63801.0045587
+  },
+  {
+    "source_account": "GDWWM6JWNWZ5RFVAZYU5X6Q3ULXZOTIFL32WWCRARFY6PQ6H4KNOP5HO",
+    "num_swaps": 639,
+    "total_volume_xlm": 63801.0039067
+  },
+  {
+    "source_account": "GAELOW6CQZRM5XN7KLRO4MTK6FJPK7IODR7TEU4OXLIXSPNRZABLQJ2C",
+    "num_swaps": 638,
+    "total_volume_xlm": 63800.0
+  },
+  {
+    "source_account": "GB4EOOJYDMFFHQGRTQ46BRPAVEFG7W7SBUP5RUTLWU4KCO2H2S7RE2SW",
+    "num_swaps": 638,
+    "total_volume_xlm": 63800.0
+  },
+  {
+    "source_account": "GCDKCJ5BF5HOGGOWKJYAYUHZZQUCABLUPSAY6KYWU7YKB3QZHYA74YCI",
+    "num_swaps": 638,
+    "total_volume_xlm": 63800.0
+  },
+  {
+    "source_account": "GDLN3IF26GYBV5XUB5NURFIUX5JGKPZTMBFGHVW4SPWBLPHTCG2PTXXM",
+    "num_swaps": 638,
+    "total_volume_xlm": 63800.0
+  },
+  {
+    "source_account": "GBHCHQAQLKCFHHORFUXNWMFZDUVEKOGHAF3NPYVFE32RGUTZVUWPSMGG",
+    "num_swaps": 638,
+    "total_volume_xlm": 63800.0
+  },
+  {
+    "source_account": "GC5CUXDFTX6OTPBGL32DNUITE7BAPFBBPUXJEJABXCYMEICQ2UP2NQWK",
+    "num_swaps": 638,
+    "total_volume_xlm": 63800.0
+  },
+  {
+    "source_account": "GAEKNA7JVHAR4MWHIK2QTGAZSPNEXDVJDZBFLIAQAZ6HS5MRUZMX4BOT",
+    "num_swaps": 637,
+    "total_volume_xlm": 63700.0
+  },
+  {
+    "source_account": "GC7HTM7AQII7CN6AP2JUIF5RQPPAP7UOU7YKYCN7BR4PEB5EPZHSC7FT",
+    "num_swaps": 637,
+    "total_volume_xlm": 63601.007490899996
+  },
+  {
+    "source_account": "GCCEMIJHTDUML3AZKFBYPNQIPGKG2CSBBNO7EWWZJDLYUPLOEBM3YNPL",
+    "num_swaps": 637,
+    "total_volume_xlm": 63700.0
+  },
+  {
+    "source_account": "GC7ZGFE3COK6ESVKCPCE4SH2QL7Y6IDH7GGBZ3PDC4RTXLTGFT6WSLDU",
+    "num_swaps": 637,
+    "total_volume_xlm": 63601.0003679
+  },
+  {
+    "source_account": "GDKTW3I6OETA3CBGCM3WWZ3N44TB4H2PPN7R5DQA5HYF7D67ZV72WN6U",
+    "num_swaps": 637,
+    "total_volume_xlm": 63700.0
+  },
+  {
+    "source_account": "GCQC3EOS7YD44QTINFBQCC7IQDU6PVL5BSTRPWSCHQZRVMNTAD6SD7Y3",
+    "num_swaps": 637,
+    "total_volume_xlm": 63700.0
+  },
+  {
+    "source_account": "GDXJ2Z723MW4IM3GU4KDPCGLZFSYP7F66VNJULSHMDJXEGX63L7XDWRP",
+    "num_swaps": 636,
+    "total_volume_xlm": 63600.0
+  },
+  {
+    "source_account": "GBT4WC4IAHJ2WHXPDJS5ZP5HDI7WGO7MT27UVC2TK2HGIMDGN2AQYWOH",
+    "num_swaps": 636,
+    "total_volume_xlm": 63600.0
+  },
+  {
+    "source_account": "GBRLU7HVVKUXSEVW47ADT4L55PKYILXGTU5AXCDBUIWM4KAOA6V27TFQ",
+    "num_swaps": 636,
+    "total_volume_xlm": 63501.5397913
+  },
+  {
+    "source_account": "GAEPMI247GINEE3C3Y7M6KWOHT5N7PZNL2L7NL5O43XAAT3LCVFE5ABE",
+    "num_swaps": 636,
+    "total_volume_xlm": 63600.0
+  },
+  {
+    "source_account": "GDMVMW7BTGVZGC5C2OK7EPXM3PXYJ6BD6EYUL76BOMHGKY4HX2HKN2BB",
+    "num_swaps": 636,
+    "total_volume_xlm": 63600.0
+  },
+  {
+    "source_account": "GCCKJVQHTJ3XMGMDYXXDZLNHEICVW7TAODDQMG3VMQ5E3DOZSPQYHVSI",
+    "num_swaps": 636,
+    "total_volume_xlm": 63600.0
+  },
+  {
+    "source_account": "GDKN53RT6KEISWWALNQNY6X2IIQAUWZSJU5APV4E2RDHLP3F7NQ3YBLT",
+    "num_swaps": 636,
+    "total_volume_xlm": 63600.0
+  },
+  {
+    "source_account": "GAVTLMOPQ773V57TNYAICL5Q7FQIDOFWWR6XD3HUCSPVEH4B2SFRH42A",
+    "num_swaps": 636,
+    "total_volume_xlm": 63600.0
+  },
+  {
+    "source_account": "GDXAVWITE2VJBCPDVO4EKJGRPMJCPGE3GEQZUPD3QRZ77JDXCQYM7RXN",
+    "num_swaps": 636,
+    "total_volume_xlm": 63600.0
+  },
+  {
+    "source_account": "GATPMWE4SYJ7EYRWSP7GJU52EDCTZ7YCNZLMXE5IVFMSA6YBKXTTXGGD",
+    "num_swaps": 636,
+    "total_volume_xlm": 63600.0
+  },
+  {
+    "source_account": "GD3MJ7GASM6LYA72WVE4PG7TUXQUGTHZ4IAI6YV2EQYKCCXTXVBPUPUP",
+    "num_swaps": 636,
+    "total_volume_xlm": 63600.0
+  },
+  {
+    "source_account": "GDS5F3VDED3TUDGRHJMNGPK7WDNZXP3SQYUBBKK3YOGD7ENX74OLO7K6",
+    "num_swaps": 636,
+    "total_volume_xlm": 63600.0
+  },
+  {
+    "source_account": "GD3B6RWVRVS3IUEQM6QZ4Z5VJ6W2DTIQI3VJUNZUGLBWEID7KI34DZR5",
+    "num_swaps": 635,
+    "total_volume_xlm": 63500.0
+  },
+  {
+    "source_account": "GCUOYKJ3ATU62RTQV6UGVSQFIXJ57PWXMFVWEXCX5UN4KZHZGDKJLBFL",
+    "num_swaps": 635,
+    "total_volume_xlm": 63500.0
+  },
+  {
+    "source_account": "GDN4JDU7THB57PA7KRX3BVL5NSXHDW37BDKCJHEGF7COXI6HQR26PBUW",
+    "num_swaps": 635,
+    "total_volume_xlm": 63500.0
+  },
+  {
+    "source_account": "GD7HBPKH43POBIOC726N2734LYWJCCRNLMSPBKPW4K6NXYROASF2AEDC",
+    "num_swaps": 635,
+    "total_volume_xlm": 63500.0
+  },
+  {
+    "source_account": "GBKLNE46YMLO47KUIQOECKGWMA5XZAUOUVMY5ATQGJCGQ3HGTDDDYU5R",
+    "num_swaps": 635,
+    "total_volume_xlm": 63500.0
+  },
+  {
+    "source_account": "GBWXT7E7NJNQQFODKGZ72JPNRLIWNWTM4COPOGJL6PHERRYLZO3TNC3K",
+    "num_swaps": 635,
+    "total_volume_xlm": 63500.0
+  },
+  {
+    "source_account": "GAODGVJCOO6TMGPDZUG6UHD64XAAECMPK6DOPNDE2L5WHPQO567T644M",
+    "num_swaps": 634,
+    "total_volume_xlm": 63400.0
+  },
+  {
+    "source_account": "GBIQTRGKDXJLSWDYWZGVKHVTM36C5QOMWPNKREMGMK5OSMWDKQH5XF66",
+    "num_swaps": 634,
+    "total_volume_xlm": 63400.0
+  },
+  {
+    "source_account": "GBUJS6AQFVBSI57JY4ZEDB2SX43YRQ5XA5AIKBTQMUQSEG5MX32AF56R",
+    "num_swaps": 634,
+    "total_volume_xlm": 63400.0
+  },
+  {
+    "source_account": "GD67SB7TL22URB7KNBM2JEACUHOJIVIMPGO5IJQBBYNKOTXYJVBR2EK2",
+    "num_swaps": 634,
+    "total_volume_xlm": 63400.0
+  },
+  {
+    "source_account": "GBXSIIIRYIPD7PCZDEK6A4S75ERCW3B5KYCSDN2QF7LG32F6434IFK5V",
+    "num_swaps": 633,
+    "total_volume_xlm": 63300.0
+  },
+  {
+    "source_account": "GANBO3TH5XAZ5277IAPTQQPNGLZGJCW36AYUGC6HL4VRQE7R5ZLJQ7WH",
+    "num_swaps": 633,
+    "total_volume_xlm": 63300.0
+  },
+  {
+    "source_account": "GB3SY34MXL3IA4VH2KB47H7BBPFGWBI5VRONXPS6NNR2B6HMXXLV7SWK",
+    "num_swaps": 633,
+    "total_volume_xlm": 63300.0
+  },
+  {
+    "source_account": "GAIZHJEIWSIBPOLMAVTJCXACNMQCLK7PWXXSZUYVVJEYTUC6CJVN5R5O",
+    "num_swaps": 633,
+    "total_volume_xlm": 63300.0
+  },
+  {
+    "source_account": "GD3K4FKF6RO73JUEE3EENVVACNT37ONB7W7TRQGJ5WSPFBYLRV4AE7BX",
+    "num_swaps": 632,
+    "total_volume_xlm": 63200.0
+  },
+  {
+    "source_account": "GC3USV4BCHFED5FKLLOSLFM6AFAO7LV32SLV5PHANKPVVSW35QXUWVVV",
+    "num_swaps": 632,
+    "total_volume_xlm": 63200.0
+  },
+  {
+    "source_account": "GAOIRO3NYLOCINWCZP5GQ6ZHFQSEWLAYUQQMU2VQEGPX7WYJK7JYTYRW",
+    "num_swaps": 632,
+    "total_volume_xlm": 63200.0
+  },
+  {
+    "source_account": "GC42TXOOOFLE5JHUJYWUBDK7KKSC72URJE4RV32FNZBOE75SACWEUFOR",
+    "num_swaps": 632,
+    "total_volume_xlm": 63200.0
+  },
+  {
+    "source_account": "GBN47FGBEHS2SQWZNA6FE5VP2O5E3KAST3MTMZL7CUXG4O7I5PH7ZM5J",
+    "num_swaps": 632,
+    "total_volume_xlm": 63100.7825494
+  },
+  {
+    "source_account": "GCTOHH2ZKNVQLXEYNOACLUXGASZTLYN3IEGBVR7DFAJESRXV3HE4PFZH",
+    "num_swaps": 632,
+    "total_volume_xlm": 63200.0
+  },
+  {
+    "source_account": "GAS64YVGE2IS445ILCFKAEYGO2GHEH35MNTRTD5HYNQIPDKAWLGRBYKJ",
+    "num_swaps": 632,
+    "total_volume_xlm": 63100.8689859
+  },
+  {
+    "source_account": "GAQCJBPH6GTDBKE5YTWTA4FTFBJSAEQYIK7OVSNSIM2WD73JBFMQ5TOY",
+    "num_swaps": 632,
+    "total_volume_xlm": 63200.0
+  },
+  {
+    "source_account": "GD3T5RLZD3YCCW5Z6BPHNG4CHGVIPEDBZHQSOD4R3JPICWONHO6NTO7O",
+    "num_swaps": 631,
+    "total_volume_xlm": 63000.9054939
+  },
+  {
+    "source_account": "GBGN4ACDHKISRAB5R46EFDMYPFYVHBMGZJMEAL5BQP5QOBQAX6VJ6YHB",
+    "num_swaps": 631,
+    "total_volume_xlm": 63100.0
+  },
+  {
+    "source_account": "GAXILP7IVOL6OPGYTNVYF7ASRDERD2MK2BJWXRS5Q24SSYPQXHERZABI",
+    "num_swaps": 631,
+    "total_volume_xlm": 63100.0
+  },
+  {
+    "source_account": "GCAUAX7JXPJ7KK4CBHVQP3OQ72ZHZWE5SFKIOISCPQQOTGRVGC3OULJ5",
+    "num_swaps": 631,
+    "total_volume_xlm": 63100.0
+  },
+  {
+    "source_account": "GDVKVFMXSYVKHRLLKMOBZHJZUWKXIXIVZC3PQ3EUIPJ3Q6JRLTTAKTNS",
+    "num_swaps": 631,
+    "total_volume_xlm": 63000.9105376
+  },
+  {
+    "source_account": "GCDXDQKWUIENYUJ3WXSHP7ZMUXZGH5LH6PWIMVY5YN3OF4QGSQWMVAN4",
+    "num_swaps": 631,
+    "total_volume_xlm": 63100.0
+  },
+  {
+    "source_account": "GBIGCE3P4DKENVJRCRAM3J6NRR5A2257PHPFXFHW4MHOP5S3YADTUSXP",
+    "num_swaps": 630,
+    "total_volume_xlm": 63000.0
+  },
+  {
+    "source_account": "GCCVOEDVHH7SB3W3XHXJUROSPAEWL6UCEPEU7LGOGVHRHLHQJE6YBPNW",
+    "num_swaps": 630,
+    "total_volume_xlm": 63000.0
+  },
+  {
+    "source_account": "GDFYPJS27GCY3EPHZZX5BGLEAW2UZ5EEAA3AZEPVD6VSFLWTJ4FHOPDV",
+    "num_swaps": 630,
+    "total_volume_xlm": 63000.0
+  },
+  {
+    "source_account": "GAGEFRXT5L6PGLRSBN2QA5S4MIONQIVJR6I57EZXVNC5FDJ6I6LZ3AZJ",
+    "num_swaps": 630,
+    "total_volume_xlm": 63000.0
+  },
+  {
+    "source_account": "GCAANOTZYLZXRZPAJUKSXOIHMQ3JD6KUEA7Z4K3VK2BQWS26T2HRQQQA",
+    "num_swaps": 629,
+    "total_volume_xlm": 62900.0
+  },
+  {
+    "source_account": "GBXBKEBI5KNN7BJNRG2R2KHZAR6VWS3LGQGMUEIJR6O4EVG2NSFEQ574",
+    "num_swaps": 629,
+    "total_volume_xlm": 62900.0
+  },
+  {
+    "source_account": "GA33VWUTVXU2IKEZ5YHQAWA6UI3ZXGXT5ZXZRDG2ZVKQ6Z5MMFF7GTA2",
+    "num_swaps": 629,
+    "total_volume_xlm": 62900.0
+  },
+  {
+    "source_account": "GADYBBS47QUR6LRM7QEMPL6JGNVZDGWEJ63JLIDYGZQS2ZGMTOTOCRMM",
+    "num_swaps": 629,
+    "total_volume_xlm": 62900.0
+  },
+  {
+    "source_account": "GDRQCTIZGOER3Q6KCGWJIEFEJZCHYFDZ5JSWBDKZSNSSDXTYKFFRWVZV",
+    "num_swaps": 629,
+    "total_volume_xlm": 62900.0
+  },
+  {
+    "source_account": "GDAWSODQN2BZBXHDQ57SC2G7T3YJ76AQVJEPNNF4TQRVA5BACWK2I2HD",
+    "num_swaps": 629,
+    "total_volume_xlm": 62900.0
+  },
+  {
+    "source_account": "GBXMBAGXVXDI775AUACU6HIPUAYPRTRYA4Y7WM5MA7RDZBHXWXYX7PFT",
+    "num_swaps": 629,
+    "total_volume_xlm": 62800.9540971
+  },
+  {
+    "source_account": "GABPCR7AN456QYAF6CQNWJUAV7B3TDVESL776CIVNHNOUCTNFGWSQIPS",
+    "num_swaps": 629,
+    "total_volume_xlm": 62800.6647214
+  },
+  {
+    "source_account": "GCGN32TAABP5DXRTPR3X2T3PWZMHT4OJEWKUDHTS54A36CYXJL5HFUFK",
+    "num_swaps": 628,
+    "total_volume_xlm": 62800.0
+  },
+  {
+    "source_account": "GBAH3T3JII7PRTF2PUPFL3ATPV5NNDLDUMPDSRXY2X4CWM6P3VY27K7R",
+    "num_swaps": 628,
+    "total_volume_xlm": 62800.0
+  },
+  {
+    "source_account": "GCZWB6EPPHGL432BPAOOQNBDV4A7ACI2HHQDA3AI4D5UZSM4I3ZXHPVS",
+    "num_swaps": 628,
+    "total_volume_xlm": 62800.0
+  },
+  {
+    "source_account": "GAKUYUVTLGM7MEYZ6OSCE4HXEE53QEV2EFM7C6TQKZZBMQPGJDJ24IND",
+    "num_swaps": 628,
+    "total_volume_xlm": 62800.0
+  },
+  {
+    "source_account": "GCB6BGB3NGEHQX7NAQRH34SG4IRAPC4REPEGF3OZ5WKA7YXDPIZNCN2Z",
+    "num_swaps": 628,
+    "total_volume_xlm": 62701.7864122
+  },
+  {
+    "source_account": "GDNXZ6SNBVAJVCANYNYY6I3PQ5Z2TGHI2W3TTPV7JABH5ESKNDIV7BM6",
+    "num_swaps": 628,
+    "total_volume_xlm": 62800.0
+  },
+  {
+    "source_account": "GCX2XT7GJNH22TMSGJK33ZXDYNJCFDBTWGZFSTPATS4QE4D6QCOLDGEN",
+    "num_swaps": 627,
+    "total_volume_xlm": 62700.0
+  },
+  {
+    "source_account": "GBNXIHYSA4ZMZ3DADZQ7L7RGRCDDZET3NBMX35A3BUNME5YNE76JS7XE",
+    "num_swaps": 626,
+    "total_volume_xlm": 62600.0
+  },
+  {
+    "source_account": "GBC7TIM245S65QXQFYYSQK2BOW4K3J3NSQBCUIA4B4AHEZ2FQ52V7BOT",
+    "num_swaps": 626,
+    "total_volume_xlm": 62600.0
+  },
+  {
+    "source_account": "GC5ZD3BIBARISO7D2GF253RIY4ZE2MLNOSDUOOYQPKTXCUGOOW5JMKOV",
+    "num_swaps": 626,
+    "total_volume_xlm": 62600.0
+  },
+  {
+    "source_account": "GCHBYC5GJVPYOJ5XL4ULHUB3S34MKFVGOIHZND2PCKE5OTGKS6HQ6W77",
+    "num_swaps": 626,
+    "total_volume_xlm": 62600.0
+  },
+  {
+    "source_account": "GAZU7YZZABUVKKLNFPRF3JFEAKKDHFIXTMUVHVGQNZDLMH6VBSPMZDUW",
+    "num_swaps": 626,
+    "total_volume_xlm": 62500.9707819
+  },
+  {
+    "source_account": "GC223CVMLNIMZNJ7D35QGMINJIR6FB7N5AHL3KXMM75C2YL6SKCMWYHV",
+    "num_swaps": 626,
+    "total_volume_xlm": 62500.8917773
+  },
+  {
+    "source_account": "GCXS2R7M3IS7UG2FI4U63IF4UYCOAQF2QZF7D6A6UE5ZF6XMXASIF3IW",
+    "num_swaps": 626,
+    "total_volume_xlm": 62600.0
+  },
+  {
+    "source_account": "GAMASAF6HETEAWD3WASH6YIS4VKFUF3HDUE73XYJASPX5SDCAT73WOM3",
+    "num_swaps": 625,
+    "total_volume_xlm": 62400.7396411
+  },
+  {
+    "source_account": "GAJVEPO2KZUQP5VHKHZR3E5MY3LJBDALO4EGNW2LSCWNWI6OYPPEUYAD",
+    "num_swaps": 625,
+    "total_volume_xlm": 62400.8727266
+  },
+  {
+    "source_account": "GCXVNNEMBY4KN2KO5IBNB6UPKHCU5CVS7FTIKR6OR3NCSFROAUWMSPSY",
+    "num_swaps": 624,
+    "total_volume_xlm": 62400.0
+  },
+  {
+    "source_account": "GBCFMVFAWNRGLPYR3OPS3MMGJKPKROXCGCQ74VTZD4W22A3ON35UAYKF",
+    "num_swaps": 624,
+    "total_volume_xlm": 62300.9960268
+  },
+  {
+    "source_account": "GCSFWSZDRZ2SZXERO3JON4D4M34M2LZ4YUSPTLIIOWKA67DU53EADG75",
+    "num_swaps": 624,
+    "total_volume_xlm": 62400.0
+  },
+  {
+    "source_account": "GCOOOVWHXLHUWP7NMPMD6NC2RPPJOBS4ACPL7LX5IS2B3PKC3PWQAEAV",
+    "num_swaps": 624,
+    "total_volume_xlm": 62400.0
+  },
+  {
+    "source_account": "GD4H3GU62346Y5WUDEK7FIDXW5VD3JUUQVXSU4HWQA6TSHKRVDIOBQWJ",
+    "num_swaps": 624,
+    "total_volume_xlm": 62400.0
+  },
+  {
+    "source_account": "GCBJFJ4HCIS5SC7J57VH4YKO2LD7UYOZHA6RIBMV2OM322ETW6U3BK7V",
+    "num_swaps": 623,
+    "total_volume_xlm": 62300.0
+  },
+  {
+    "source_account": "GC5663YSYTKTEZOOER377DZALIRKURZJJBQVIOBV2KWZK6AZKRTLUN3F",
+    "num_swaps": 623,
+    "total_volume_xlm": 62300.0
+  },
+  {
+    "source_account": "GAKNZ3TDALB3WP6ISAREOALZHGIKZ3KCA72CJLTI2HGM4FW3UPOYJBMW",
+    "num_swaps": 623,
+    "total_volume_xlm": 62300.0
+  },
+  {
+    "source_account": "GDEENU7DZSMYLH5Z5VUV5I5QH4N3UEOZ6KUFSCTZH466Q4B6FFYND67Y",
+    "num_swaps": 623,
+    "total_volume_xlm": 62300.0
+  },
+  {
+    "source_account": "GBCD2GVKA57PAESIJENGMT6O22VPQUH3MMSX24T5DR6BL7V7BQPVKMXH",
+    "num_swaps": 622,
+    "total_volume_xlm": 62200.0
+  },
+  {
+    "source_account": "GCECWKHCYRY6VGZBYQWBNBMANOWUCYL4BWDXJZL5WQCVJVSDKLANT47S",
+    "num_swaps": 622,
+    "total_volume_xlm": 62200.0
+  },
+  {
+    "source_account": "GDRSKYMQ2WKPO3I4YX4GZNPVH5VXAGLNGDWSSQQWH5AX7UNFZ6DNGIY6",
+    "num_swaps": 622,
+    "total_volume_xlm": 62200.0
+  },
+  {
+    "source_account": "GA3UMF4RDN3RRTHHSBUTL5S3X5ALL4ZSYW2OQDNTHU6XA3HDJJJHFWGY",
+    "num_swaps": 622,
+    "total_volume_xlm": 62200.0
+  },
+  {
+    "source_account": "GAUA6XY6W5ETSDRIJN4HCMYTA56SPCPX2LTU2JMBJ3AU2HDSFUTOBFRK",
+    "num_swaps": 622,
+    "total_volume_xlm": 62100.7325431
+  },
+  {
+    "source_account": "GDRB2C6LAANXFHYGQKNBYHHHGLIJCKBM3NYDYTT27T34CDGEFFQAFAKJ",
+    "num_swaps": 622,
+    "total_volume_xlm": 62200.0
+  },
+  {
+    "source_account": "GB26WF4CJNS35NR6NFAFIDPZDELYD2CWIQ6LUIS5KAGZ3Z4MTPNKFNWK",
+    "num_swaps": 621,
+    "total_volume_xlm": 62100.0
+  },
+  {
+    "source_account": "GA6HFFZKY3GGI6RJUVQWDGZWXVGF4MORGIXPWYT3BIQDE65Y7OSUM6SD",
+    "num_swaps": 621,
+    "total_volume_xlm": 62100.0
+  },
+  {
+    "source_account": "GAHLZZMYJ6ONHOTT55KHCOWE4XJCDCFH7GMCVRRTULQG6BZ756F5OXUQ",
+    "num_swaps": 621,
+    "total_volume_xlm": 62100.0
+  },
+  {
+    "source_account": "GBURC7QLSYEU3KVE4CF6P6IXTZ6JXW7Q3225BC2GOIDSTVT2ZQNFSTMN",
+    "num_swaps": 621,
+    "total_volume_xlm": 62100.0
+  },
+  {
+    "source_account": "GCGILNB7LSXAMVTJQTDSDG46KD6UVI7LK37XG7MVDXODKPEAMXPQ3SC4",
+    "num_swaps": 621,
+    "total_volume_xlm": 62000.9149809
+  },
+  {
+    "source_account": "GC6OBRU4HX6IMJK7RMN6XI5U5YRJWI4Y2QAYVFBM7PXNCIURW45NHKAG",
+    "num_swaps": 620,
+    "total_volume_xlm": 61900.8718244
+  },
+  {
+    "source_account": "GACMBU6A56SVBFP5GUPUXYFW7CUAF6OZ56WODTTVFLZA5RY2GQ7HNKU2",
+    "num_swaps": 620,
+    "total_volume_xlm": 62000.0
+  },
+  {
+    "source_account": "GDUHB4FYEFCBZQ4GZSYOBZ57G7FVJRJHRYANAQLPFUMQSTFZ4VNELLUN",
+    "num_swaps": 619,
+    "total_volume_xlm": 61900.0
+  },
+  {
+    "source_account": "GALC5PF23J2OFU25OPIWME3LG46EZIUQI5ITQV2YUVI3WMO6SQT6AVVX",
+    "num_swaps": 619,
+    "total_volume_xlm": 61900.0
+  },
+  {
+    "source_account": "GATQ4EYS7MZPMHINF36KKYVE4FYLSE4XDJNDD62FQI32WAVAJF4KUG7U",
+    "num_swaps": 619,
+    "total_volume_xlm": 61900.0
+  },
+  {
+    "source_account": "GATH6YSZLY75SOWQQYYFDWVMHSXXW3KJORSMODGFPWGPG6KKPDSIRQP6",
+    "num_swaps": 619,
+    "total_volume_xlm": 61900.0
+  },
+  {
+    "source_account": "GD7UY7KHYWKDZQMRAXV3K5BXO3OMN3EWA2WFU5MBWMTBRKWQFQOKTBZS",
+    "num_swaps": 619,
+    "total_volume_xlm": 61800.8549651
+  },
+  {
+    "source_account": "GBBAE2QNUEUG63ELWAGK64VEWU55FC6A77TUL3TM6GCEWR5I2FZPVJLX",
+    "num_swaps": 618,
+    "total_volume_xlm": 61800.0
+  },
+  {
+    "source_account": "GDP74YF47TN7KXNLOAJZT6BDEPN5Z652JTR6JS6ULXE4P5EQQLXODXV2",
+    "num_swaps": 618,
+    "total_volume_xlm": 61800.0
+  },
+  {
+    "source_account": "GD4EVEMPQBTSU5P57C6XIUBKB5TK5OSB5PMICZONZGCP4DZ7PURJP4ON",
+    "num_swaps": 618,
+    "total_volume_xlm": 61800.0
+  },
+  {
+    "source_account": "GDXZ347OPCDSY4EPUAAZMJFUC3YYQDQKJYG6D62LK5IY4MOU2BVCEDWG",
+    "num_swaps": 618,
+    "total_volume_xlm": 61700.8415702
+  },
+  {
+    "source_account": "GAPYHO547AMCJLMCD65FOPE3CF7AEZDI2ZGXYUHPWOSVAX4VBZTBPQUI",
+    "num_swaps": 616,
+    "total_volume_xlm": 61600.0
+  },
+  {
+    "source_account": "GCWFELPWWMGWXFTYXV2Y3QWXJA63RAAQELT575B3PJ6KI6POY4EU6CA4",
+    "num_swaps": 616,
+    "total_volume_xlm": 61500.7971738
+  },
+  {
+    "source_account": "GBASYT7Y7RKB2WNHU3BQOEFW4F6Y5E5PMQ2VTDFZG5PKAKA2IVPMXRIN",
+    "num_swaps": 616,
+    "total_volume_xlm": 61600.0
+  },
+  {
+    "source_account": "GB4XHWWG4E66YAWRU4KPMNOMM5NFTILVICN3VB4HSF7IU3QOWC5HYZNM",
+    "num_swaps": 616,
+    "total_volume_xlm": 61600.0
+  },
+  {
+    "source_account": "GCJWACFC2PL3ZIPKRDGNMR7LERSBZIRTNDCBXHSNGYCNLGYXRAQCZT44",
+    "num_swaps": 616,
+    "total_volume_xlm": 218.59194829999998
+  },
+  {
+    "source_account": "GDBPU4LJPFNRWOGWCFC7VIYQONMOKRZROWHW6MWVNOI3XA7DV7CNDV7O",
+    "num_swaps": 616,
+    "total_volume_xlm": 61500.8348522
+  },
+  {
+    "source_account": "GCSEWCXLXYZMBAAZOC2MFS2ZEP3RS6BEUUJMUXQW6OVZPTSS6VOBSBZ7",
+    "num_swaps": 616,
+    "total_volume_xlm": 61600.0
+  },
+  {
+    "source_account": "GAGVMVJEDI2OYIHHTOJ6LV45ULM4DBKBXL7BLUORF34HBGHU4B33MXDW",
+    "num_swaps": 616,
+    "total_volume_xlm": 61600.0
+  },
+  {
+    "source_account": "GAPHYM7FSRBLCG3JY2BKQ3OMSJST7PUC5ZBQ4PIQGFEQ3UKGJ37SBP4I",
+    "num_swaps": 615,
+    "total_volume_xlm": 61500.0
+  },
+  {
+    "source_account": "GAMEHYEJ4AH25LAKBRY7322A4G7367CKT7MVRGU4PNWVA5EAKTMWXIUK",
+    "num_swaps": 615,
+    "total_volume_xlm": 61500.0
+  },
+  {
+    "source_account": "GBV5JYHNLPM2JYATH6Y4H76ZCXO6AVKS7I5M6L26D26HF2HGMFVXJPOH",
+    "num_swaps": 615,
+    "total_volume_xlm": 61500.0
+  },
+  {
+    "source_account": "GAYHXLNMONNVX5O5CESDMMIH3JQPGXPDVXTGN2TDXHUPJ65CIMYXG5KO",
+    "num_swaps": 615,
+    "total_volume_xlm": 61500.0
+  },
+  {
+    "source_account": "GCHDCT6UMIIUEEBNHOQS7GF43SBVSEZDB4YAEYWDHHNGZFTZHMBV55JR",
+    "num_swaps": 615,
+    "total_volume_xlm": 61400.8217318
+  },
+  {
+    "source_account": "GAVRM65IDBEAP533SP3OHFX5I5TSHOW6ZB7LGUWH7LKBJWFSP74UHLVX",
+    "num_swaps": 615,
+    "total_volume_xlm": 61400.8516456
+  },
+  {
+    "source_account": "GDYK56PFYX2BHJONIJ3BQPBLXOTHONXMBQVW35UYO4VGS5KUR6YVSMCG",
+    "num_swaps": 615,
+    "total_volume_xlm": 61500.0
+  },
+  {
+    "source_account": "GDSDULIOQUOZYKKLA7EEGJ2GPA5F7IF4K4VQWCLF2Y2F6FJM5I7AQKD7",
+    "num_swaps": 615,
+    "total_volume_xlm": 61500.0
+  },
+  {
+    "source_account": "GBB5SCHK5KURKOFESVPWWFPVTFFWG4KJUY5Z7LGBX2OR6RBUBE23J632",
+    "num_swaps": 614,
+    "total_volume_xlm": 61300.876186199996
+  },
+  {
+    "source_account": "GADOWKCS4SYJCNZPYTIORDQ4C5GQB3DIFGXX2DOBERQK6USTAQCH4AJS",
+    "num_swaps": 614,
+    "total_volume_xlm": 61300.9293046
+  },
+  {
+    "source_account": "GCPS755SWVNXE77NCFWEFJXCPY6Q4IEYAT2PWPUJXXNOAR6JBL23VE43",
+    "num_swaps": 614,
+    "total_volume_xlm": 61400.0
+  },
+  {
+    "source_account": "GBNOGM45GZJ4H2R2GGN4NBVXAMRFTYGE6EFFMOKRK3T5DDOUJTKTCF7G",
+    "num_swaps": 613,
+    "total_volume_xlm": 61300.0
+  },
+  {
+    "source_account": "GBYRNLPYA443LBQKZMOXDRW6U2VARUVXUCMYSF3GM4JBIURNP3ZLVENX",
+    "num_swaps": 613,
+    "total_volume_xlm": 61300.0
+  },
+  {
+    "source_account": "GCH3J545SFFA2XTTTXOMUPVIRZXHGTAGM52V3ARO4G57OMBL64Q6BTKZ",
+    "num_swaps": 612,
+    "total_volume_xlm": 61100.8286356
+  },
+  {
+    "source_account": "GBRCAMKRGNTV74HPIKMWI5FGMEC6JBQMRFHASA7YA3CCFTA467UGL4KF",
+    "num_swaps": 612,
+    "total_volume_xlm": 61100.903601
+  },
+  {
+    "source_account": "GB4UOCL7R5UZQ3C7HM4VNFHB6GGTFDQZ2WEQUTXTDXLXY3UUXKXYV2X6",
+    "num_swaps": 612,
+    "total_volume_xlm": 61200.0
+  },
+  {
+    "source_account": "GBWGV7GZLC6JOXTIWOS33Z5BEMSLIM2CT2QX7E6J62UVRPHYQKRMHU7G",
+    "num_swaps": 612,
+    "total_volume_xlm": 61200.0
+  },
+  {
+    "source_account": "GD22UT3EKU6ZANX4GHSA2Q5IZXEZEIHZFLQESXDNDHWQJBHS6TPRZFFQ",
+    "num_swaps": 611,
+    "total_volume_xlm": 61000.7983935
+  },
+  {
+    "source_account": "GDXKBM5PECQWIMPL3M5RRKEGON5CR4I7Z3BDDWNM4D4TXWEBNMM52J6D",
+    "num_swaps": 611,
+    "total_volume_xlm": 61100.0
+  },
+  {
+    "source_account": "GDUENYLNAPG7ZUHOTF6TIPBOBY4A6DAKY3P7NBS7QFP63BGKYRZPLBTZ",
+    "num_swaps": 611,
+    "total_volume_xlm": 61000.835381
+  },
+  {
+    "source_account": "GAULOLQFOYT6O3JVJBQONISBOPW6TTBUHJIIRBB7KWBMW5QPZXOHOT35",
+    "num_swaps": 611,
+    "total_volume_xlm": 61000.7980142
+  },
+  {
+    "source_account": "GAH3UMB6P6GABYEJS6HRRHKGFQ4EU6I35PGMDQSN2AUYK7HS6YTXSBDQ",
+    "num_swaps": 611,
+    "total_volume_xlm": 61000.8528842
+  },
+  {
+    "source_account": "GA2LZA6BL67UPTLPTSUG4RCTMU7DUNBEGABCOC5TQ54I5MS43ANPKZ5C",
+    "num_swaps": 611,
+    "total_volume_xlm": 61100.0
+  },
+  {
+    "source_account": "GD6O7BS2WVUPE45MFPSGU4FOVB6FICBC3PJNJTIWYDP5RFGI32TWJIZY",
+    "num_swaps": 610,
+    "total_volume_xlm": 61000.0
+  },
+  {
+    "source_account": "GCS37ESQ53TTVZWIGOL2EKQTC5AQMKKOA3ORG7T7XME7C7YIDZEE7ATQ",
+    "num_swaps": 610,
+    "total_volume_xlm": 61000.0
+  },
+  {
+    "source_account": "GCTXT73J63WSBSEDSLJDTA4DZAA2ULZ2HCBGGU4LYGMDD6UPFOMJHRYD",
+    "num_swaps": 610,
+    "total_volume_xlm": 61000.0
+  },
+  {
+    "source_account": "GASL7RGNKB5RNVFQC5463WEH7HOKTDXZYP4ZBE43CYTUIJJW2ECDHFHE",
+    "num_swaps": 610,
+    "total_volume_xlm": 61000.0
+  },
+  {
+    "source_account": "GAEFBLU5DBKFG26RDTQ5BYW2GEBJ7KDDC6IHN3FSPJXPOQWO3XYAECQF",
+    "num_swaps": 609,
+    "total_volume_xlm": 60800.9748307
+  },
+  {
+    "source_account": "GCB2RQMC3GT7XUMRB2NDFDIAIYPJTCBDMJFDCL3MG7QGIGZQ5SVSDELZ",
+    "num_swaps": 609,
+    "total_volume_xlm": 60800.7598575
+  },
+  {
+    "source_account": "GC2T26E32U3FWXDEK66HORSIU3QBYUFQI2PTV4OSPG3AC3NMNCPXUJEC",
+    "num_swaps": 609,
+    "total_volume_xlm": 60800.755422300004
+  },
+  {
+    "source_account": "GDX35LRHAENRH5Y2PZRAREDXTAOGKTQJDW5ER43QSJJTOI56G35HBUQG",
+    "num_swaps": 608,
+    "total_volume_xlm": 60700.8945032
+  },
+  {
+    "source_account": "GBGY4SSBIVUUNPVZLYQOACIZVXBUU7WCEFEOUPICWDK4C33MNPDY7LOI",
+    "num_swaps": 608,
+    "total_volume_xlm": 60800.0
+  },
+  {
+    "source_account": "GBNSLD2RZO4PEKVHQOLBA7AMDF5CEAIZUZYRZ64NZHLM4S3AFJKUF2KR",
+    "num_swaps": 607,
+    "total_volume_xlm": 60700.0
+  },
+  {
+    "source_account": "GALYYDMXS5DZWTO5NK7DPEXACOPD5KPLCTI4XIGL76ZNNEAUIZYPCOXD",
+    "num_swaps": 607,
+    "total_volume_xlm": 60700.0
+  },
+  {
+    "source_account": "GAUZUCADWYSW53FZXGWKAT335TV3QVWNZHXRDCNDLO6JS7HABJHAPADZ",
+    "num_swaps": 607,
+    "total_volume_xlm": 60600.7376456
+  },
+  {
+    "source_account": "GDVJCKXPNNWSGXCBETHE5AK5RBRPGYKXKGMKT5CR4EGN2CG5UKLYTT35",
+    "num_swaps": 606,
+    "total_volume_xlm": 60600.0
+  },
+  {
+    "source_account": "GCL43YFQJ3NCVKUHS65CHWKCMU5NCJWNZO5BPZZFSNGBL64XGOTKXWP3",
+    "num_swaps": 606,
+    "total_volume_xlm": 60500.8562841
+  },
+  {
+    "source_account": "GAV3KFOOFVI2LYWTVRZZFEALZRCT5JWYNPXOXLHXW43GNV2GYQEEP36X",
+    "num_swaps": 606,
+    "total_volume_xlm": 60600.0
+  },
+  {
+    "source_account": "GD5MULZIRXRMKOIDKZ4WDJ7N62U6XDLI4YOSTG4UJ3L3EDKRCXN6UHNB",
+    "num_swaps": 605,
+    "total_volume_xlm": 60400.9622154
+  },
+  {
+    "source_account": "GBMYMPCKRR7EF2IMGZTLJJYVZCHMXMBI7XAHOUAYADYR2FRY7T4MJ5YA",
+    "num_swaps": 605,
+    "total_volume_xlm": 60500.0
+  },
+  {
+    "source_account": "GBNSSFXJ3FXZF5NWPS2GPBBYM7KBNTD5Z6PQKQQFRV7ON7HN2NPFTBVF",
+    "num_swaps": 604,
+    "total_volume_xlm": 60400.0
+  },
+  {
+    "source_account": "GBBELHAXBOYSYS6FDRK5MYLYESFFSPBSA5OTSW3FN3PMFIMCE6JCIL5Y",
+    "num_swaps": 604,
+    "total_volume_xlm": 60400.0
+  },
+  {
+    "source_account": "GBGH5BTEVXTSJZG47ZVIT7G6HEM6CHQBTRJXCVYNLOCTYOU4J5PVFU7N",
+    "num_swaps": 604,
+    "total_volume_xlm": 60300.9258435
+  },
+  {
+    "source_account": "GD7HBFH364A62Z2UWA75VOVKGACSLHUMOCQ75XBYRIJGLHA4GOPO5I42",
+    "num_swaps": 604,
+    "total_volume_xlm": 60400.0
+  },
+  {
+    "source_account": "GASOK6K4WACN4R5OP25PVA6PIDOPYCCEMOM4OZICVXR3TDTCQRSES3K5",
+    "num_swaps": 604,
+    "total_volume_xlm": 60300.897890399996
+  },
+  {
+    "source_account": "GCPMDNULMMVSOQZNT473AZNYDYFX6NIHJG3RFSMF74Y4LKJ7BHSAURRZ",
+    "num_swaps": 604,
+    "total_volume_xlm": 60400.0
+  },
+  {
+    "source_account": "GB4VNE62MSGAZUGRWE5QIBPYRF6NNPSHBYIVEFB7C4ADNIIAQ5UUQKM5",
+    "num_swaps": 603,
+    "total_volume_xlm": 60300.0
+  },
+  {
+    "source_account": "GB4RM3D7DVPJDWT2OEYPRCIHF6MP6C46YHVJ5NMVLFB725OH7ZE4N6CP",
+    "num_swaps": 603,
+    "total_volume_xlm": 60300.0
+  },
+  {
+    "source_account": "GBFBYPLKDGZWIP4VJU4EVBLOAGJKRZV7KG4SZXBOFBILHM4R5QQWWTZF",
+    "num_swaps": 603,
+    "total_volume_xlm": 60300.0
+  },
+  {
+    "source_account": "GAK3NF4AA3G6ABDYCNWDDCY4OBTDBN7QG6BUDH6CMV63O7CYH4PQ2WP7",
+    "num_swaps": 602,
+    "total_volume_xlm": 60100.759717299996
+  },
+  {
+    "source_account": "GBRLBTR4SXWZD57RRZOL7CH734AOZOBWRKXGC2X5UKV7SWJCMJ67LUTX",
+    "num_swaps": 601,
+    "total_volume_xlm": 60100.0
+  },
+  {
+    "source_account": "GC7WCQWCQUSN4QMOOB2XLN5OGPLMDYZGDYKAXVAIUZSIGN5BNRZOSPXW",
+    "num_swaps": 601,
+    "total_volume_xlm": 60100.0
+  },
+  {
+    "source_account": "GDHP47I4DZNHBKFKDGYEJFMACKRHTL2NQGKB5PZLBHCF4FA5JWBSKALE",
+    "num_swaps": 601,
+    "total_volume_xlm": 60100.0
+  },
+  {
+    "source_account": "GAULDXK2EV22T3FAYGJUXU47GBGIQNBP5MKSEJX3D4P6ZV5KCPUIQAVF",
+    "num_swaps": 601,
+    "total_volume_xlm": 60100.0
+  },
+  {
+    "source_account": "GD3LQTJ2GN4WAPWCYSMUNWUD73AGGFSP72FDMDY6JN63QWXOGFE6ILOD",
+    "num_swaps": 600,
+    "total_volume_xlm": 60000.0
+  },
+  {
+    "source_account": "GCWPRMNJ2A5XIEHNLGXK5UH4OEHCDGWT2AZTRHWK2AX5HJPKH3XVZTHQ",
+    "num_swaps": 600,
+    "total_volume_xlm": 60000.0
+  },
+  {
+    "source_account": "GATFHSVUDLULXRENHP4Q3JIIA43F7IVQBOAC6JF7GSX3H6YPK6E3DNAS",
+    "num_swaps": 600,
+    "total_volume_xlm": 60000.0
+  },
+  {
+    "source_account": "GBKEJY7GR7CIGNJPR7UIXQKRGO5LUFOZUJXXX4UAENOIZSS4DICQ6YBI",
+    "num_swaps": 600,
+    "total_volume_xlm": 59900.944862899996
+  },
+  {
+    "source_account": "GAR223PAULQNWU2ZHS7OLER5HMOFQHSI7XETM2GRDVG67AEVRFOF2LBY",
+    "num_swaps": 600,
+    "total_volume_xlm": 60000.0
+  },
+  {
+    "source_account": "GDWPCELPL46UBCCM2MIGN2MS7WT4BIOECEVMUF7YO3BQUYVYENPUZ24G",
+    "num_swaps": 599,
+    "total_volume_xlm": 59900.0
+  },
+  {
+    "source_account": "GAI2PJPVQHPOAUACJMAEVLNXXVLHIE7TCPG6VD3F7G6PLY7U46K45XMI",
+    "num_swaps": 597,
+    "total_volume_xlm": 59700.0
+  },
+  {
+    "source_account": "GCJNDSLKFGQA326PBH4SVB5LZDWOXTO74TRDOJOJTQISZFVCJO2KGYR2",
+    "num_swaps": 597,
+    "total_volume_xlm": 59700.0
+  },
+  {
+    "source_account": "GASTWMMWG7BIZSX5R6N27QKST7JKFNTT2CXBSX2RADNTBSZFV3A7A74D",
+    "num_swaps": 597,
+    "total_volume_xlm": 59600.7706934
+  },
+  {
+    "source_account": "GCKPDLCLF6TJAYBVRKS7NVEZ5IH3AMUZZWDCXHWIGMMFDQDHEYNNK5IW",
+    "num_swaps": 597,
+    "total_volume_xlm": 220760.12253549998
+  },
+  {
+    "source_account": "GCS43O4WVETRWWAEJSJ6QXH2CKTGWLZ5C6T4LHXCZ4MLHVCJGBQAWWTM",
+    "num_swaps": 596,
+    "total_volume_xlm": 59600.0
+  },
+  {
+    "source_account": "GAR2ADXEJ4IIRX3OBKUHFMQ5B3XNAOJ6QXZPRP54IJMITMT6GUVWGKFZ",
+    "num_swaps": 596,
+    "total_volume_xlm": 59600.0
+  },
+  {
+    "source_account": "GBEPTKIP37KFQEYXIIZLIIC5NNIQ2KGFZAS5MYHJEX2YHNLQXEOO6VNP",
+    "num_swaps": 595,
+    "total_volume_xlm": 59400.7407623
+  },
+  {
+    "source_account": "GBJPXK2MBHOIQ4ABUJYGBXUR7QMLAJKUV6TQO5HJUDURKI4YKUZOVKV5",
+    "num_swaps": 595,
+    "total_volume_xlm": 59400.7692341
+  },
+  {
+    "source_account": "GAWF62NEQW7SFE7QUGVVGRXRD4ZKXBVY6YQY62ZSX2NQYIFBDAZ6PR67",
+    "num_swaps": 595,
+    "total_volume_xlm": 59500.0
+  },
+  {
+    "source_account": "GD7LQCDZCXGE57WT3ELKZWGPP7UMQETRXQ73HRYMBK7C3MAMAW2QVUKP",
+    "num_swaps": 594,
+    "total_volume_xlm": 59300.8928745
+  },
+  {
+    "source_account": "GBTHOGSHFPAQ6NSAPDEXQOT2F3YE3JLYENLPJRJLZC53GRHQMAGHOV25",
+    "num_swaps": 594,
+    "total_volume_xlm": 59300.8786636
+  },
+  {
+    "source_account": "GDXSDJIQV6BBISGC3JUR642D4XNSYUMOT7XVD3OXKD22ZNMX5TZQQWQ3",
+    "num_swaps": 593,
+    "total_volume_xlm": 59200.7878192
+  },
+  {
+    "source_account": "GB4PDKMIZCDDBE3Z5R4DCZGS52BE63IWNAGF42CO2YLO22CER6PB5R2U",
+    "num_swaps": 593,
+    "total_volume_xlm": 59300.0
+  },
+  {
+    "source_account": "GBYI3XW6MOBQQMVBZ7H7L42SB5CXQNUVMJ2ATRO2JCTHHPBH6AZ7MFBS",
+    "num_swaps": 592,
+    "total_volume_xlm": 59200.0
+  },
+  {
+    "source_account": "GCY5CECPJJT2DKOXOGSHDM3QPA3DNA7AJVLN5PNQGDTHVPZIJXXVDNFS",
+    "num_swaps": 592,
+    "total_volume_xlm": 59100.7995236
+  },
+  {
+    "source_account": "GDM4USHB6JMLO2CN7G6VLXEEYCIELY6474LJRTN7RVWSDBZH7547JX56",
+    "num_swaps": 592,
+    "total_volume_xlm": 59200.0
+  },
+  {
+    "source_account": "GBTUVZZZAKJ66M4VFLGKZHVZMJ333BYXTUARHXEMYMV3CBBON3VFLXFN",
+    "num_swaps": 592,
+    "total_volume_xlm": 59200.0
+  },
+  {
+    "source_account": "GBGKHLOWXVHJET7N7XY7VVCLY3AUFBQUWHW7YTGSHBSCEJKNCPDIOOXQ",
+    "num_swaps": 591,
+    "total_volume_xlm": 59100.0
+  },
+  {
+    "source_account": "GCYIVVVSK562VEVEYPVFFH44NCAF6VQY74VYQZ3DRTFKH3SQZ3TXC44C",
+    "num_swaps": 590,
+    "total_volume_xlm": 58900.7360926
+  },
+  {
+    "source_account": "GBQY4KAQBGI5HVFPADJN4FAQ6ICWUC3A3O2NXFE4B7GSIBRSB2NIIZW2",
+    "num_swaps": 590,
+    "total_volume_xlm": 59000.0
+  },
+  {
+    "source_account": "GCMDNAKPKJUT7JARLT6QN5C4NVKHK4NWN7QCDAJGK7DT5HKRIHRUSO36",
+    "num_swaps": 590,
+    "total_volume_xlm": 58900.7439617
+  },
+  {
+    "source_account": "GC5FIFDTJKDGZFRBQLVXZALIS7N5SIXUIULWFBQTERNCIMCPMXDMSWSG",
+    "num_swaps": 590,
+    "total_volume_xlm": 59000.0
+  },
+  {
+    "source_account": "GCGHDWZRP446GQH5LOIM6UBYSHO7BLJ7NR65MS33Q6JBFIKCT2Y44F5E",
+    "num_swaps": 589,
+    "total_volume_xlm": 58900.0
+  },
+  {
+    "source_account": "GBSE44FDMGBSCEUPCUU56CO3DD6TFTHGOMS6SUHRHMC576STU5MSE2DN",
+    "num_swaps": 588,
+    "total_volume_xlm": 58800.0
+  },
+  {
+    "source_account": "GCQBL52ZKMX5NI25UZQ2AFJ367WZYJLEX67MAVTKBFGZRXDWZZJCO7AX",
+    "num_swaps": 588,
+    "total_volume_xlm": 58800.0
+  },
+  {
+    "source_account": "GDGOPIQL33DXN7ACURYEKY24HIPXFGPBJSFHRDSFJ25F72HNTJRFB44E",
+    "num_swaps": 587,
+    "total_volume_xlm": 58700.0
+  },
+  {
+    "source_account": "GAC6MNH2UYZVTXDJ5FZ6VMQCZ26VRN7SVQEASI73YDNUM5ECRSQD4PKJ",
+    "num_swaps": 587,
+    "total_volume_xlm": 58700.0
+  },
+  {
+    "source_account": "GDLDCEQID6EWNOW4UY2TO4DO4E4AJTBMMTSBBVZO3DIBANF35MWNVBRJ",
+    "num_swaps": 586,
+    "total_volume_xlm": 58500.8613818
+  },
+  {
+    "source_account": "GC74RFV3HCXK4O6EOTNSHYPY54TWYSICLX6TD5G43QKFMKWCWT2CO5N5",
+    "num_swaps": 585,
+    "total_volume_xlm": 58500.0
+  },
+  {
+    "source_account": "GCNEEZ2KSZNMGXM3MSSAFTQFJVZYXHTGSZSEUCQWJYUCP7MZBNLXHEUN",
+    "num_swaps": 584,
+    "total_volume_xlm": 58400.0
+  },
+  {
+    "source_account": "GDPL3LTC3ZQCND4NHGNYMB3VNAMHXHPEMKECR5XXFYCSJRQWBRB3YYP4",
+    "num_swaps": 584,
+    "total_volume_xlm": 58400.0
+  },
+  {
+    "source_account": "GARFBJNR3CEFVIHZMXC7PXGZBRUNGXJMT2K4WIGQHMXGTYRTNQXUZZRR",
+    "num_swaps": 581,
+    "total_volume_xlm": 58100.0
+  },
+  {
+    "source_account": "GC7JP2QSRAVGVOH33T7VUGAH2NW5KN6YLDDR3NEMLRFUXWA32CIIL4ED",
+    "num_swaps": 580,
+    "total_volume_xlm": 147.31037360000002
+  },
+  {
+    "source_account": "GBSFWSYNAIIFQCERHLVOU7W6XV5SPDAFAZQBJIKKWIDKQFUNHY5QQUR6",
+    "num_swaps": 578,
+    "total_volume_xlm": 57800.0
+  },
+  {
+    "source_account": "GBNHO6XIAK3NCI46AESJ3B2UXB6O5O5YMTJDY2EIDKFLA6G736H254OH",
+    "num_swaps": 576,
+    "total_volume_xlm": 57500.8600772
+  },
+  {
+    "source_account": "GAKBBODZRIJLDBOU5SZHORZ7HXTYJ53QQE37WEX47SNT5Y3BBRMFCGYA",
+    "num_swaps": 576,
+    "total_volume_xlm": 57500.7125749
+  },
+  {
+    "source_account": "GAVB6T73SISFNKQRPR3KE6LEPQTIMZEBV5LU66IZBRQCFEJ4ZCUJYHF6",
+    "num_swaps": 576,
+    "total_volume_xlm": 57500.8666677
+  },
+  {
+    "source_account": "GCX73BVJBWNIKLNHWDQ2GRJTQOK7YZ2FGX2QIIHMP7HULY3HRYBGRQ45",
+    "num_swaps": 575,
+    "total_volume_xlm": 57500.0
+  },
+  {
+    "source_account": "GAWHQPYIFKGUHPG5K2HL2ULT6ZREKU2I7NTWCTAWZPNT4YSEYG24VYKG",
+    "num_swaps": 571,
+    "total_volume_xlm": 57100.0
+  },
+  {
+    "source_account": "GCFJHEUIRLUUPCIKGNUQ5HR4P237KQCRJAFETQ2243UBIKUVVPFXCUFY",
+    "num_swaps": 570,
+    "total_volume_xlm": 57000.0
+  },
+  {
+    "source_account": "GA2GW25QUIPRF4UTS5GBME7YFDJIIO2F67UUBMSRH7XO6BZYJ3U3P33O",
+    "num_swaps": 570,
+    "total_volume_xlm": 57000.0
+  },
+  {
+    "source_account": "GBOHCGFC45EINFK6CEE7E5P3T7T4BBIZLQOKFOUIJIZZVYW26XHF4AAT",
+    "num_swaps": 570,
+    "total_volume_xlm": 57000.0
+  },
+  {
+    "source_account": "GCEDKJZKOFGXQ7T2YRGNIZIKMWFPQYGJRVO2KEZV6UWZQ7WDSJWVYNVI",
+    "num_swaps": 568,
+    "total_volume_xlm": 56800.0
+  }
+]

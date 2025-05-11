@@ -1,0 +1,86 @@
+{
+  "primary_candidates": [
+    {
+      "source_account": "GB3JCHJUP6HHZJLN5LKQDRFP2HWSLNXYE2TGWDGBTNXIW6MLVRQXNDBC",
+      "net_xlm_change": 77.71809640000004,
+      "num_swaps": 32,
+      "total_volume_xlm": 603.7180964,
+      "per_swap_profit": 2.428690512500001,
+      "daily_swaps": 16.0,
+      "pair_diversity": 4,
+      "asset_pairs": [
+        "JOHN/XLM",
+        "XLM/USDC",
+        "XLM/JOHN",
+        "USDC/XLM"
+      ],
+      "score": 0.4863736051547808,
+      "risk_level": "Moderate",
+      "trade_type": "Directional",
+      "recommendation": "Replicate Directional trades on JOHN/XLM, XLM/USDC, XLM/JOHN, USDC/XLM. Start with small volumes to test consistency."
+    }
+  ],
+  "secondary_candidates": [
+    {
+      "source_account": "GBWTMI6LPQCHPIUVFNON5O6A5SOZ2NBT3KPC6WY6NENLWOGMBOFQFFIY",
+      "net_xlm_change": 222.1746392,
+      "num_swaps": 6,
+      "total_volume_xlm": 877.8253608,
+      "per_swap_profit": 37.029106533333334,
+      "daily_swaps": 3.0,
+      "pair_diversity": 6,
+      "asset_pairs": [
+        "XLM/JOHN",
+        "XLM/KXLM",
+        "KXLM/XLM",
+        "JOHN/XLM",
+        "LMNR/XLM",
+        "XLM/LMNR"
+      ],
+      "score": 0.65625,
+      "risk_level": "High",
+      "trade_type": "Directional",
+      "recommendation": "Replicate Directional trades on XLM/JOHN, XLM/KXLM, KXLM/XLM, JOHN/XLM, LMNR/XLM. Start with small volumes to test consistency."
+    },
+    {
+      "source_account": "GAHTETKEF6JDGN6K4DLBYESBOHYTWHK2HQATQB6ZP6ZK74WQURIKQQ2P",
+      "net_xlm_change": 158.7487179,
+      "num_swaps": 6,
+      "total_volume_xlm": 208.7487179,
+      "per_swap_profit": 26.45811965,
+      "daily_swaps": 3.0,
+      "pair_diversity": 6,
+      "asset_pairs": [
+        "JESS/XLM",
+        "EDEN/XLM",
+        "XLM/KXLM",
+        "XLM/EDEN",
+        "KXLM/XLM",
+        "XLM/JESS"
+      ],
+      "score": 0.48496333597286645,
+      "risk_level": "High",
+      "trade_type": "Directional",
+      "recommendation": "Replicate Directional trades on JESS/XLM, EDEN/XLM, XLM/KXLM, XLM/EDEN, KXLM/XLM. Start with small volumes to test consistency."
+    },
+    {
+      "source_account": "GAM2C36GO7GBTELZRPRAFLWVCIH2T4SNDLH4VVL5KUFQY5OFZBXQ6DEH",
+      "net_xlm_change": 66.4414104,
+      "num_swaps": 7,
+      "total_volume_xlm": 136.4414104,
+      "per_swap_profit": 9.491630057142856,
+      "daily_swaps": 3.5,
+      "pair_diversity": 4,
+      "asset_pairs": [
+        "XLM/KXLM",
+        "XLM/EDEN",
+        "KXLM/XLM",
+        "EDEN/XLM"
+      ],
+      "score": 0.2698442650727982,
+      "risk_level": "High",
+      "trade_type": "Directional",
+      "recommendation": "Replicate Directional trades on XLM/KXLM, XLM/EDEN, KXLM/XLM, EDEN/XLM. Start with small volumes to test consistency."
+    }
+  ]
+}

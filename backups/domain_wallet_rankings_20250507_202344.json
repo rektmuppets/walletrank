@@ -1,0 +1,1892 @@
+[
+  {
+    "source_account": "GB3JCHJUP6HHZJLN5LKQDRFP2HWSLNXYE2TGWDGBTNXIW6MLVRQXNDBC",
+    "num_swaps": 43,
+    "xlm_inflows": 794.9561497000001,
+    "xlm_outflows": 644.0,
+    "net_xlm_flow": 150.95614970000008,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 36,
+        "xlm_inflows": 794.9561497000001,
+        "xlm_outflows": 644.0
+      },
+      "USDC": {
+        "num_swaps": 7,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GAKYQCOXEYZDZIXIQSYSELFBE2XNUAJZTIQUUVIYIKMAJQPRRE7DVTFZ",
+    "num_swaps": 40,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 199.0,
+    "net_xlm_flow": -199.0,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 20,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 199.0
+      },
+      "JOHN": {
+        "num_swaps": 9,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      },
+      "EGG": {
+        "num_swaps": 7,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      },
+      "INC": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      },
+      "USDC": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      },
+      "DJT": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GCSOFXCE66IEKFC5ADIOFB4GAEZQ6CSUC2Q63IDYHFXWJ4PIH7ZZRPYL",
+    "num_swaps": 38,
+    "xlm_inflows": 615.2979361,
+    "xlm_outflows": 265.2705,
+    "net_xlm_flow": 350.0274361,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 24,
+        "xlm_inflows": 589.5815666,
+        "xlm_outflows": 0.0
+      },
+      "KXLM": {
+        "num_swaps": 14,
+        "xlm_inflows": 25.7163695,
+        "xlm_outflows": 265.2705
+      }
+    }
+  },
+  {
+    "source_account": "GBZG4FVNS74XPVCZTIISWCYRFWJDJT74G32VMBTMJTNR6VWF3IYF6UKK",
+    "num_swaps": 27,
+    "xlm_inflows": 9.8476022,
+    "xlm_outflows": 1177.06852,
+    "net_xlm_flow": -1167.2209178,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 21,
+        "xlm_inflows": 6.5134329000000015,
+        "xlm_outflows": 1177.06852
+      },
+      "LMNR": {
+        "num_swaps": 6,
+        "xlm_inflows": 3.3341692999999997,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GAPEBIQQ6JU4HXSJH5V62SNRXQGAPMXYWGA3XILBVI24XS4Z3L6D44VG",
+    "num_swaps": 18,
+    "xlm_inflows": 142.969092,
+    "xlm_outflows": 257.89500000000004,
+    "net_xlm_flow": -114.92590800000005,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 14,
+        "xlm_inflows": 95.244474,
+        "xlm_outflows": 228.19500000000002
+      },
+      "KXLM": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.1019684,
+        "xlm_outflows": 29.7
+      },
+      "LMBW": {
+        "num_swaps": 2,
+        "xlm_inflows": 47.6226496,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GCEUDSAIVKY6I7AJBAXDNSC3OM6XZSRO5LIKR5CG46P7G5IE3HS3I44H",
+    "num_swaps": 17,
+    "xlm_inflows": 21.742938200000005,
+    "xlm_outflows": 3.4927626000000003,
+    "net_xlm_flow": 18.250175600000006,
+    "assets_traded": {
+      "KXLM": {
+        "num_swaps": 7,
+        "xlm_inflows": 16.224060700000003,
+        "xlm_outflows": 1.495
+      },
+      "LMNR": {
+        "num_swaps": 5,
+        "xlm_inflows": 1.1,
+        "xlm_outflows": 1.4355000000000002
+      },
+      "CR7": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0043914,
+        "xlm_outflows": 0.5622626
+      },
+      "JOHN": {
+        "num_swaps": 2,
+        "xlm_inflows": 2.5,
+        "xlm_outflows": 0.0
+      },
+      "LMBW": {
+        "num_swaps": 1,
+        "xlm_inflows": 1.9144861,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GC5BIFUM7CDJYNIRLEKGOMBH62TNZVECKIUNXKKLWOJPB3ZPEANDLPIR",
+    "num_swaps": 14,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 4,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      },
+      "JOHN": {
+        "num_swaps": 4,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      },
+      "LMBW": {
+        "num_swaps": 3,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      },
+      "KXLM": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      },
+      "FIMI": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GADNGHDQLIMMKYLLQ3P7DVMDCTADBBMMJ2RNDB7XXSNJBDJR4T7JKPS7",
+    "num_swaps": 13,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 323.7284719,
+    "net_xlm_flow": -323.7284719,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 13,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 323.7284719
+      }
+    }
+  },
+  {
+    "source_account": "GBWTMI6LPQCHPIUVFNON5O6A5SOZ2NBT3KPC6WY6NENLWOGMBOFQFFIY",
+    "num_swaps": 13,
+    "xlm_inflows": 112.0,
+    "xlm_outflows": 9.9,
+    "net_xlm_flow": 102.1,
+    "assets_traded": {
+      "KXLM": {
+        "num_swaps": 9,
+        "xlm_inflows": 40.0,
+        "xlm_outflows": 9.9
+      },
+      "JOHN": {
+        "num_swaps": 2,
+        "xlm_inflows": 50.0,
+        "xlm_outflows": 0.0
+      },
+      "LMNR": {
+        "num_swaps": 2,
+        "xlm_inflows": 22.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GC36PQJPYO7NVLQZL3TJRBVIVTEU4VHNF2UTESQBNN4IH6EDFVCLMMVS",
+    "num_swaps": 11,
+    "xlm_inflows": 0.6451532,
+    "xlm_outflows": 332.64,
+    "net_xlm_flow": -331.9948468,
+    "assets_traded": {
+      "LMBW": {
+        "num_swaps": 4,
+        "xlm_inflows": 0.3471362,
+        "xlm_outflows": 0.0
+      },
+      "PINE": {
+        "num_swaps": 3,
+        "xlm_inflows": 0.298017,
+        "xlm_outflows": 0.0
+      },
+      "CR7": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 49.5
+      },
+      "KXLM": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 283.14
+      }
+    }
+  },
+  {
+    "source_account": "GCRJOKURK7AF4IFVWHVPZDT3N6NR3UJ4JBRVV3Y7XSR3MPB65IC7QGHP",
+    "num_swaps": 10,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 18.909000000000002,
+    "net_xlm_flow": -18.909000000000002,
+    "assets_traded": {
+      "SHIT": {
+        "num_swaps": 7,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 14.949000000000002
+      },
+      "EDEN": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 2.475
+      },
+      "404": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 1.485
+      }
+    }
+  },
+  {
+    "source_account": "GDOXKTJARLBZIXON3TLTEXHXOPGA4AAAKA4YE333OKCXNYQACJ5BFQUA",
+    "num_swaps": 10,
+    "xlm_inflows": 2.0340399,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 2.0340399,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 6,
+        "xlm_inflows": 1.102358,
+        "xlm_outflows": 0.0
+      },
+      "EGG": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.25067090000000003,
+        "xlm_outflows": 0.0
+      },
+      "JOHN": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.681011,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GDTQG7GCGIZO7YOLM27OMYPZCFXDCFLKXRRLBHAFVZWQGRREDCUDEHUX",
+    "num_swaps": 10,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 1.8148129000000002,
+    "net_xlm_flow": -1.8148129000000002,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 5,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.9420081
+      },
+      "EGG": {
+        "num_swaps": 3,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      },
+      "JOHN": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.8728048
+      }
+    }
+  },
+  {
+    "source_account": "GA4QH4AJGERVYX4PBY55JYTQJ4RTLJIBYV7OCYIV56LWZE5MVDH3R3UQ",
+    "num_swaps": 8,
+    "xlm_inflows": 419.54289320000004,
+    "xlm_outflows": 123.0,
+    "net_xlm_flow": 296.54289320000004,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 8,
+        "xlm_inflows": 419.54289320000004,
+        "xlm_outflows": 123.0
+      }
+    }
+  },
+  {
+    "source_account": "GBF6NKX6E674ET3VNWR7DFK43X3PVVNA7NL2MVID7W7O7QQ5WMIN6IU5",
+    "num_swaps": 8,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 5.0928625,
+    "net_xlm_flow": -5.0928625,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 8,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 5.0928625
+      }
+    }
+  },
+  {
+    "source_account": "GCSVETDQ3LC4O6K3S3WXATJ2K4JEQOENSEXKMAEIUVPOJNP5DXP3JRQZ",
+    "num_swaps": 8,
+    "xlm_inflows": 5800.0,
+    "xlm_outflows": 3443.2200000000003,
+    "net_xlm_flow": 2356.7799999999997,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 6,
+        "xlm_inflows": 5800.0,
+        "xlm_outflows": 3443.2200000000003
+      },
+      "EGG": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GCFUVN673DYMJOZ5UYSDFBCEPNNVY33DPELH3ZAEFQO4MEEUBRS5OYXJ",
+    "num_swaps": 8,
+    "xlm_inflows": 25.0,
+    "xlm_outflows": 818.6630422999999,
+    "net_xlm_flow": -793.6630422999999,
+    "assets_traded": {
+      "LMBW": {
+        "num_swaps": 5,
+        "xlm_inflows": 25.0,
+        "xlm_outflows": 343.4630423
+      },
+      "KXLM": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 247.5
+      },
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 227.7
+      }
+    }
+  },
+  {
+    "source_account": "GBMUFSJEZTQWJPNKRKOKQ63AD65SNI2FASV72EVDCYEOATESD63365FY",
+    "num_swaps": 8,
+    "xlm_inflows": 175.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 175.0,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 4,
+        "xlm_inflows": 100.0,
+        "xlm_outflows": 0.0
+      },
+      "LMNR": {
+        "num_swaps": 2,
+        "xlm_inflows": 25.0,
+        "xlm_outflows": 0.0
+      },
+      "FART": {
+        "num_swaps": 2,
+        "xlm_inflows": 50.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GDJDVSI2UFALI7TCP62V4XIANIQYPJIVJ6K2FDGIHG5XZUMXZJPEMM2F",
+    "num_swaps": 8,
+    "xlm_inflows": 5.0064357,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 5.0064357,
+    "assets_traded": {
+      "LMBW": {
+        "num_swaps": 3,
+        "xlm_inflows": 0.1270897,
+        "xlm_outflows": 0.0
+      },
+      "SHIT": {
+        "num_swaps": 2,
+        "xlm_inflows": 4.7616932,
+        "xlm_outflows": 0.0
+      },
+      "JESS": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0178042,
+        "xlm_outflows": 0.0
+      },
+      "KXLM": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0779731,
+        "xlm_outflows": 0.0
+      },
+      "PAF": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0218755,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GDBAUHEJYBLGYDYVBHB6ZQR4RS2ZXIVBIQ4VS4LOBMCMNL2FJF7OGMQA",
+    "num_swaps": 7,
+    "xlm_inflows": 0.2312912,
+    "xlm_outflows": 20.3096714,
+    "net_xlm_flow": -20.078380199999998,
+    "assets_traded": {
+      "EGG": {
+        "num_swaps": 4,
+        "xlm_inflows": 0.1562426,
+        "xlm_outflows": 18.8098614
+      },
+      "CR7": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 1.49981
+      },
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0750486,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GCBT4REH74AIHC67OD7MSL5UUCXNVFNRT6P4MFEFU2QW5D5FMRW4EK3S",
+    "num_swaps": 6,
+    "xlm_inflows": 0.6662645,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.6662645,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 3,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      },
+      "JOHN": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.6662645,
+        "xlm_outflows": 0.0
+      },
+      "KXLM": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GB35ZIXTWFVYZ64EXTW3ULQKIREF2L7OK72LMY4GRSUNHKTUWAGJ5IRK",
+    "num_swaps": 6,
+    "xlm_inflows": 1.7582949,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 1.7582949,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 3,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      },
+      "JOHN": {
+        "num_swaps": 2,
+        "xlm_inflows": 1.7582949,
+        "xlm_outflows": 0.0
+      },
+      "KXLM": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GAW4NW5MRO7ABKDWRI2HA6FZWXI34B7OZG6KIO4VESWJVBWSO6QOPUNX",
+    "num_swaps": 5,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 137.5110001,
+    "net_xlm_flow": -137.5110001,
+    "assets_traded": {
+      "KXLM": {
+        "num_swaps": 5,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 137.5110001
+      }
+    }
+  },
+  {
+    "source_account": "GC7R6N6QYBQD26QQB3B4FG3ZQAJ74V5WWFT32Z36UAI7RJEDTDCLZEDR",
+    "num_swaps": 5,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "LMBW": {
+        "num_swaps": 5,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GBGTY3ZU477CPG4SEJM3GZTZHOI7FTFYATRRA3ZUSBWCCPYTC5DRW46H",
+    "num_swaps": 5,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 45.5436486,
+    "net_xlm_flow": -45.5436486,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 4,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 35.6436486
+      },
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 9.9
+      }
+    }
+  },
+  {
+    "source_account": "GAUT65Q6PEIHEYJFLBR45HCGUPMQIARGIWIS3E2RJBP26FU3IYE4G7WB",
+    "num_swaps": 5,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 568.557,
+    "net_xlm_flow": -568.557,
+    "assets_traded": {
+      "EGG": {
+        "num_swaps": 4,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 271.55699999999996
+      },
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 297.0
+      }
+    }
+  },
+  {
+    "source_account": "GB6ICG3Q2ZCJU3RQAM3MJRQW23W6BBNENIY67ZGBCWDTELD6AGAASREI",
+    "num_swaps": 5,
+    "xlm_inflows": 100.0,
+    "xlm_outflows": 198.8785738,
+    "net_xlm_flow": -98.8785738,
+    "assets_traded": {
+      "LMBW": {
+        "num_swaps": 3,
+        "xlm_inflows": 100.0,
+        "xlm_outflows": 198.8785738
+      },
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      },
+      "FART": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GAHTETKEF6JDGN6K4DLBYESBOHYTWHK2HQATQB6ZP6ZK74WQURIKQQ2P",
+    "num_swaps": 5,
+    "xlm_inflows": 60.997675400000006,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 60.997675400000006,
+    "assets_traded": {
+      "JESS": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      },
+      "LMBW": {
+        "num_swaps": 2,
+        "xlm_inflows": 60.997675400000006,
+        "xlm_outflows": 0.0
+      },
+      "EDEN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GB2Z5SHCVFGO5QX3O3FXLZNYBTYE3ZCCB5M5XMEHBKKGCKXC7K55GUIU",
+    "num_swaps": 5,
+    "xlm_inflows": 3.7459435,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 3.7459435,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 2,
+        "xlm_inflows": 2.1351627,
+        "xlm_outflows": 0.0
+      },
+      "KXLM": {
+        "num_swaps": 2,
+        "xlm_inflows": 1.6107808,
+        "xlm_outflows": 0.0
+      },
+      "USDC": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GBOJQZHSAQO4PY4VF4ICJ6IT5TTSW4BWBJSGFA2YVGXPOXQBQFZBKB64",
+    "num_swaps": 4,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 1083.5535307,
+    "net_xlm_flow": -1083.5535307,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 4,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 1083.5535307
+      }
+    }
+  },
+  {
+    "source_account": "GBKA6VLY7PD4JZM6WLVHBZCPNLSD4CTNVTERBWSPIT2KJEP255RKBPVI",
+    "num_swaps": 4,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 35.3801576,
+    "net_xlm_flow": -35.3801576,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 4,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 35.3801576
+      }
+    }
+  },
+  {
+    "source_account": "GALMHC4L2CKAGF4TDGAGAE7QDYKXNWAWTLOMUICPUDTHIOH6UP3IUHUV",
+    "num_swaps": 4,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 148.5,
+    "net_xlm_flow": -148.5,
+    "assets_traded": {
+      "CR7": {
+        "num_swaps": 4,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 148.5
+      }
+    }
+  },
+  {
+    "source_account": "GBDMRJZYWFYHONUVXYQROTYLAWTK7JUPFGVSENUMJ427QEGNRYQXQSC6",
+    "num_swaps": 4,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "USDC": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      },
+      "SSLX": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      },
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GC5KVNIIWT2MHEC7BZQZGJO5Q545EG7H5JGHYQK4UJ2RRPILDZIEWEGV",
+    "num_swaps": 4,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.9375221,
+    "net_xlm_flow": -0.9375221,
+    "assets_traded": {
+      "EGG": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.495
+      },
+      "LMNR": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.4425221
+      }
+    }
+  },
+  {
+    "source_account": "GCATGGWGQ4HZC3MLUVL6OQ2JDRR4G2GUYE63GMCS7IWO75GAGI2EJNKI",
+    "num_swaps": 4,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 985.1048797000001,
+    "net_xlm_flow": -985.1048797000001,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 327.7955334
+      },
+      "LMBW": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 63.6
+      },
+      "LMNR": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 593.7093463
+      }
+    }
+  },
+  {
+    "source_account": "GDTLPW3OT45NMOLJKWS3LF6GUAP77Y27XJ4ZMDR7XLCUYSWD4M4Y6TLC",
+    "num_swaps": 3,
+    "xlm_inflows": 129.9548996,
+    "xlm_outflows": 94.0,
+    "net_xlm_flow": 35.954899600000005,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 3,
+        "xlm_inflows": 129.9548996,
+        "xlm_outflows": 94.0
+      }
+    }
+  },
+  {
+    "source_account": "GBL3IB4DID5635CZBTENDHIAY5WZ24HHVMWW5SGJ7VWWBQTGMMMH2F2I",
+    "num_swaps": 3,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 13.601448,
+    "net_xlm_flow": -13.601448,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 3,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 13.601448
+      }
+    }
+  },
+  {
+    "source_account": "GAM2C36GO7GBTELZRPRAFLWVCIH2T4SNDLH4VVL5KUFQY5OFZBXQ6DEH",
+    "num_swaps": 3,
+    "xlm_inflows": 62.0051585,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 62.0051585,
+    "assets_traded": {
+      "LMBW": {
+        "num_swaps": 3,
+        "xlm_inflows": 62.0051585,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GCHAIE7BKB2EWTPQG2RWI3IQIALHUKP2LPAZZFG3STLXRUD37PZ7WEUZ",
+    "num_swaps": 3,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 28.71,
+    "net_xlm_flow": -28.71,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 3,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 28.71
+      }
+    }
+  },
+  {
+    "source_account": "GDQVJIGZ5TPOQLMVUQ6AWX5XZNE3YDEL5UXAOM3574U4HGNKS2LE4RMD",
+    "num_swaps": 3,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 3,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GCLXSU72KT5IYMBHOUEEBUZPGLUWU4STLIKA6ZMRNPHJCZHEH4PG3HQR",
+    "num_swaps": 3,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 3,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GAVAMYD2ZBQZBBCTJUIPOQCTD4F4LX6Q2XGLNGGHMOTJYEPKJ5PN5Z7N",
+    "num_swaps": 3,
+    "xlm_inflows": 90.4181013,
+    "xlm_outflows": 49.7185109,
+    "net_xlm_flow": 40.699590400000005,
+    "assets_traded": {
+      "CR7": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.4442719,
+        "xlm_outflows": 49.7185109
+      },
+      "LZLA": {
+        "num_swaps": 1,
+        "xlm_inflows": 89.9738294,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GD4K3YQQK3OF46OC25DKT5CFDP5DJT3CHKHJKMPIKTHAHL7ADLW7LZL6",
+    "num_swaps": 3,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 19.8,
+    "net_xlm_flow": -19.8,
+    "assets_traded": {
+      "FART": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 19.8
+      },
+      "AQUA": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GDT4OKIGWARTBIEHZSWGECMWH554KSP2KZHPXJZGT7Y3PLIAWMGV3FBF",
+    "num_swaps": 3,
+    "xlm_inflows": 350.0,
+    "xlm_outflows": 209.7623647,
+    "net_xlm_flow": 140.2376353,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 2,
+        "xlm_inflows": 350.0,
+        "xlm_outflows": 0.0
+      },
+      "LMBW": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 209.7623647
+      }
+    }
+  },
+  {
+    "source_account": "GAJ25OGXIR4J6XOL3SO5KMYBRBPRMUGNC2LKYR4ZLC2KRIOWPFS3RT5P",
+    "num_swaps": 3,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 148.5,
+    "net_xlm_flow": -148.5,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 49.5
+      },
+      "KXLM": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 49.5
+      },
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 49.5
+      }
+    }
+  },
+  {
+    "source_account": "GAITHSE3XFR25LAWS7NPNGB67DMXHKHCZWQ6J7ZBRLRVN7QDMPMRQH72",
+    "num_swaps": 2,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "LMBW": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GASRWU4GZL4R4BJUHXIFCVXQMJMOA3GCUWJ5PLGA6DPQY6ER3H5NFQQF",
+    "num_swaps": 2,
+    "xlm_inflows": 0.2450768,
+    "xlm_outflows": 0.25,
+    "net_xlm_flow": -0.004923199999999989,
+    "assets_traded": {
+      "KXLM": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.2450768,
+        "xlm_outflows": 0.25
+      }
+    }
+  },
+  {
+    "source_account": "GB6VSNFZDIJKHMGRQUY6EES5K25CA6PV3GYLV5THZLL5DICIN2BQ5AS6",
+    "num_swaps": 2,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 62.370000000000005,
+    "net_xlm_flow": -62.370000000000005,
+    "assets_traded": {
+      "KXLM": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 62.370000000000005
+      }
+    }
+  },
+  {
+    "source_account": "GBZ6JJYOQIGN5SV7ROAUIR5PV7YS3IWFHYOBQJTVZWCVYXMZDUBBKDDT",
+    "num_swaps": 2,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "LMBW": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GBZR2QGHFKQ6TCHJURQ5CSV2P2GWSV3AWARX7AFMUTG5DAMIVEPT7N4X",
+    "num_swaps": 2,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 4.95,
+    "net_xlm_flow": -4.95,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 4.95
+      }
+    }
+  },
+  {
+    "source_account": "GCSSMOGHV7MRXQ5HDURSFU7LEB6J7JLKVFITQEBKQQJYFNEEHRNYDUVE",
+    "num_swaps": 2,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 3.0,
+    "net_xlm_flow": -3.0,
+    "assets_traded": {
+      "KXLM": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 3.0
+      }
+    }
+  },
+  {
+    "source_account": "GCZN3IIQXBGD3SCIZHKRY4RFZUPANGH4HHBRNLMZSE4R4E6SOXBXI5ES",
+    "num_swaps": 2,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 587.8196269,
+    "net_xlm_flow": -587.8196269,
+    "assets_traded": {
+      "EGG": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 587.8196269
+      }
+    }
+  },
+  {
+    "source_account": "GDCMPTK7B5UT5ROZ2HHQ2VSXJB5E6UYSXKUKNNCS3MZG2XBT3VPTYCGE",
+    "num_swaps": 2,
+    "xlm_inflows": 0.265031,
+    "xlm_outflows": 138.6,
+    "net_xlm_flow": -138.334969,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.265031,
+        "xlm_outflows": 138.6
+      }
+    }
+  },
+  {
+    "source_account": "GDPCAFCZIVUKNHSA32QNN77SMQ2NQVWFSVURN4EHLOJZJNWK5DENQA7O",
+    "num_swaps": 2,
+    "xlm_inflows": 0.0096816,
+    "xlm_outflows": 3.96,
+    "net_xlm_flow": -3.9503184,
+    "assets_traded": {
+      "CR7": {
+        "num_swaps": 2,
+        "xlm_inflows": 0.0096816,
+        "xlm_outflows": 3.96
+      }
+    }
+  },
+  {
+    "source_account": "GB4ZI5Y3ROEWNC6YXHKZ7Y2J3JHBC44QXXFCXKPVBZGOEIFCAQQ642UI",
+    "num_swaps": 2,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      },
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GDIXGEO3IR2T7JOOA75B54W2DJF3A2GYGACQNHYSRVMUZYD26QBCWQS2",
+    "num_swaps": 2,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 1.98,
+    "net_xlm_flow": -1.98,
+    "assets_traded": {
+      "KXLM": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.99
+      },
+      "LMBW": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.99
+      }
+    }
+  },
+  {
+    "source_account": "GAKIWUJPRLFYZUBZ4ZGYNQR3DL3O5VPBQ6JXMRLJCOK7KHFYUZXUDURV",
+    "num_swaps": 2,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 1.0,
+    "net_xlm_flow": -1.0,
+    "assets_traded": {
+      "KXLM": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      },
+      "PINE": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 1.0
+      }
+    }
+  },
+  {
+    "source_account": "GCWWRUUAUX34HFJXTT3INXGIETZSF74GLTOYDA7W4KNUIRTOHE3CYYBI",
+    "num_swaps": 2,
+    "xlm_inflows": 0.068353,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.068353,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.068353,
+        "xlm_outflows": 0.0
+      },
+      "KXLM": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GBEIHI63KF4T3DHNDXJNDMB5FBIFZSJ4VQ44BFRSBFLTZTFHQ2DNZYLN",
+    "num_swaps": 2,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "SSLX": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      },
+      "FART": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GBN42YMEMWMHXIEXZ7CR7S4M5IMN6MRNLB4CVITV3HSYDYOU2YBXPPM2",
+    "num_swaps": 2,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 32.3219295,
+    "net_xlm_flow": -32.3219295,
+    "assets_traded": {
+      "KXLM": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 13.8522531
+      },
+      "LMBW": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 18.4696764
+      }
+    }
+  },
+  {
+    "source_account": "GBQQ2MKNO67XRNOLJZ5BYOMYRUGNM3K7GEALJVDSSU6HRCHTJCCCMP5Z",
+    "num_swaps": 2,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "CR7": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      },
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GBTWMBKUNSPU6JYOW3A5WGIM4B2RAUNG6RGNIJ7GER2K52F5XXFGXH5U",
+    "num_swaps": 2,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 1.98,
+    "net_xlm_flow": -1.98,
+    "assets_traded": {
+      "POPE": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.99
+      },
+      "SHIT": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.99
+      }
+    }
+  },
+  {
+    "source_account": "GB5I4W6ZCEO6DQOQI4YLA5B6OS2ZBNMXOY476EUMSLV5N5APUFZM3ABV",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 14.85,
+    "net_xlm_flow": -14.85,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 14.85
+      }
+    }
+  },
+  {
+    "source_account": "GC22MQAZOV4JCIUDS7BVFVY4MDDQVB23AQAUYXBUDT5T7VTQQSFBTOMW",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 151.4387669,
+    "net_xlm_flow": -151.4387669,
+    "assets_traded": {
+      "LMBW": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 151.4387669
+      }
+    }
+  },
+  {
+    "source_account": "GC2CCTFVC7NMQRFRMA5JLPRDKMX47L4LYWSA4QO5P5OU2XNIKKWXHD3U",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 41.2935703,
+    "net_xlm_flow": -41.2935703,
+    "assets_traded": {
+      "LMBW": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 41.2935703
+      }
+    }
+  },
+  {
+    "source_account": "GB3KAW4PRZNI6Z5Y3MECXYA5TZRKL3XXY6ABWJ33LOUIQ3LVDV2PGLJC",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GAZTIKGJLU3OF63KV5UFAV7LLSEFS4MKV5TB7IXEAQHR346XQQGH2FLP",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "KXLM": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GC6HST3QLSHXWDOYY2ODHBBOMWK3DY6SFIB4K3QDZMOOREEWBWWEDKDQ",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "INC": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GAZ6RCTGM5RBWB6CYCZEHTXIEWGTVQA47S6YNYDY6PAJ6IW4PIKYAWKU",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GCB5RHPOTFRRBHIMRQSBQUSQLFETTBOOF5FO4FZR7KLMJ4JJIX2SQSOZ",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 1.99,
+    "net_xlm_flow": -1.99,
+    "assets_traded": {
+      "LMBW": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 1.99
+      }
+    }
+  },
+  {
+    "source_account": "GCB7CVHXQT2TXOWO6EL3L23U64BX3G3LMPC4R5X57B3LUZG53IOZQ4D2",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "KXLM": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GDZJNSC56LCNSAWJBUU33ZBCMUW2XQRBF7ZDODF6D6O57LNF6WJRUGC3",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 17.82,
+    "net_xlm_flow": -17.82,
+    "assets_traded": {
+      "EGG": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 17.82
+      }
+    }
+  },
+  {
+    "source_account": "GAWBXPWUB3B6IKWHLTMMLG7NYZPUBE5TLPWAD25P5E5NE55VBFTAPW7X",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GCCUEN2SLOAZMV73IMPLKFMHYNEPBUYQ2UGR7P2B2K4DC2IJVZOA73J5",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GDLP2UPAP656PGNAQJOXUZ7PAPYY2BCLFQBVNFI2V2BDKKVVRODPBCTU",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GAERSJGFQPCLXMX4XOQD5UJB7MC34UIDX7DZJIYLW2QRXH7WV27453TN",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 345.818097,
+    "net_xlm_flow": -345.818097,
+    "assets_traded": {
+      "CR7": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 345.818097
+      }
+    }
+  },
+  {
+    "source_account": "GCEUINMXBM2DUQZBUZ54MZSAWCY63J22POIOM4Y2VNFEX3KHQLOAZ47Z",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GDUYFU5A5DJXG5AJPALGDXMZKXSOW6K7MVI3EG5WSVF46ZOPW3JIGAIP",
+    "num_swaps": 1,
+    "xlm_inflows": 0.030372,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.030372,
+    "assets_traded": {
+      "FART": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.030372,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GAUMQCJAWLDN2JWIFJT6PL422LXFYVW65J3RIFKZ27WLDJAH7Q2X6HTG",
+    "num_swaps": 1,
+    "xlm_inflows": 0.5056092,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.5056092,
+    "assets_traded": {
+      "KXLM": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.5056092,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GAUCTAQHABG6VTPD2ESQ63BVTC2EFL7TAP623PT2OWO7BCDLKQGLLRFG",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 94.525,
+    "net_xlm_flow": -94.525,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 94.525
+      }
+    }
+  },
+  {
+    "source_account": "GCISYLHMXMDTISNQP2627TB62WX33WPGK2EOHVLTAZGPP2ZBMQ25FXI5",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GCJOJGLPIKW7IW743LYO6JKNLNC64V2NYG3T2ZKVAI5YOCMSUB7GW2R4",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0130501,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0130501,
+    "assets_traded": {
+      "EGG": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0130501,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GATFBKHFRPQEUHGTHARD7BKI2XDIHKI25UEKZTV4R3MUIW6IZVTAAECB",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 1.0,
+    "net_xlm_flow": -1.0,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 1.0
+      }
+    }
+  },
+  {
+    "source_account": "GCMFK5SNABMCSO7QV4WOOZDAPCHTJJH7YZNAHD2DI6KJ6XSXRIRP4VWH",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 49.5,
+    "net_xlm_flow": -49.5,
+    "assets_traded": {
+      "FART": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 49.5
+      }
+    }
+  },
+  {
+    "source_account": "GCMKN5GFBNRHL3IDJZLZLEJOLAVRNBO2MK2W3MWAJPK3YVWWZE5UIWEU",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GCPH43TEGQJGYRPYARSKV62VSHCAM6W543N6E3ZFCLJ2XINV63L45SGR",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 9.9,
+    "net_xlm_flow": -9.9,
+    "assets_traded": {
+      "GLS": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 9.9
+      }
+    }
+  },
+  {
+    "source_account": "GCPYMH6XDUJRX4Z5IXLEYXRICLT4JBCSBVXTZAE7LXONCMQS4MDCTFZ7",
+    "num_swaps": 1,
+    "xlm_inflows": 0.1611097,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.1611097,
+    "assets_traded": {
+      "LMBW": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.1611097,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GCR7SK56QAD6QYYOK5TEMM25KCQHSFUEDQTDJJJUCQJXUWW7CYCBX6HT",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 57.7859309,
+    "net_xlm_flow": -57.7859309,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 57.7859309
+      }
+    }
+  },
+  {
+    "source_account": "GAP5T6PYROWWU4R7VX6J3GNJJ5MSJLNX6GTRIUIHYKQUE7PRB2RYHXIT",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GCRQM6J5M72RGBEGIH5FYXVVLMEZIUFVLC4EM4R4YJ6JXT7Q24TZENVE",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GAOTXMKHO6PIENO6YMSPJB2SLWUWNUPKWWP67ULQA6WR4FY4BMPCAYGK",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 1.98,
+    "net_xlm_flow": -1.98,
+    "assets_traded": {
+      "PAF": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 1.98
+      }
+    }
+  },
+  {
+    "source_account": "GDVGT42U4MJQYTBNE5SXSKES66Y6UJMV2CVICQKQPBOFE6XA725MAGJF",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 24.75,
+    "net_xlm_flow": -24.75,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 24.75
+      }
+    }
+  },
+  {
+    "source_account": "GCV2VSWYCQWVJNEI32EQXPF2RQ7NAR75KR4XAJML5TQSXCEFPD65LN63",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 9.9,
+    "net_xlm_flow": -9.9,
+    "assets_traded": {
+      "EGG": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 9.9
+      }
+    }
+  },
+  {
+    "source_account": "GCW7NAQVS3S5MWJV4HUSLEOT3AJGGTXVGP4TXEYHSP4TXZDQHAQH6GYN",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 148.5,
+    "net_xlm_flow": -148.5,
+    "assets_traded": {
+      "KXLM": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 148.5
+      }
+    }
+  },
+  {
+    "source_account": "GCWWN7HWTQ3H57AXSNSGESMER62SCOVFGHBRXOEOIFT6HXH3K3LMDR4H",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 19.305,
+    "net_xlm_flow": -19.305,
+    "assets_traded": {
+      "KXLM": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 19.305
+      }
+    }
+  },
+  {
+    "source_account": "GDW3LFCGJW2KJOYSXYHBSSJ2KZXU7DDAKV4D7MZLPV5OTV2S66XVTEDJ",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0211431,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0211431,
+    "assets_traded": {
+      "LAMA": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0211431,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GD2CPCIIRROTLL3WR2GWPXUVT46PDMI4G2DZL2YZJWJIBNPUYCMHNZPM",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GD7B4EIJHJX6OKQCC346WLWGLY6KPFBFHFXZK4OGBUFQACQWUSFERTSO",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GBIDOBMGAFJMCLBJ44VRTSWSTU6VREAVFHWS4WEGJUGJQ6GRP2DVOJNF",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "EDEN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GBDQQ64CEV3SNYLVQOT2HLXYZLYQLB2XJKGG7WHZM2YJBDTROVKMAL2E",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 5.0,
+    "net_xlm_flow": -5.0,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 5.0
+      }
+    }
+  },
+  {
+    "source_account": "GBDDZYMHWXBRJCRYKHMI375RMW5EKTXO6YQ74VRQMK6KDHPNXPT3CXCZ",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 47.52,
+    "net_xlm_flow": -47.52,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 47.52
+      }
+    }
+  },
+  {
+    "source_account": "GBNCLRYSHLZ2VKZTIWHKS2EIDLDSUR3FUQGSOISR27OKVK4J74LQYGLV",
+    "num_swaps": 1,
+    "xlm_inflows": 0.1781669,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.1781669,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.1781669,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GBPWIBQSLW72TTTBZTP7XQGLBIHNP5MU5GCJR22FL444GUD7UOIRRLEG",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 12.8133935,
+    "net_xlm_flow": -12.8133935,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 12.8133935
+      }
+    }
+  },
+  {
+    "source_account": "GBQFDB3UGSMYFRKDVQQHJOED4ZTCDPGTITPFN2VJGTAFRRZZSUCEZAEG",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.495,
+    "net_xlm_flow": -0.495,
+    "assets_traded": {
+      "LMNR": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.495
+      }
+    }
+  },
+  {
+    "source_account": "GBQZJG4OCET7SV56I6IPBHGQAZBVRZBXP4BAS6ICCP56M32S23TQLKII",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.99,
+    "net_xlm_flow": -0.99,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.99
+      }
+    }
+  },
+  {
+    "source_account": "GBS3FAVT4MVT37IPB74VVXTRJXHFCK3NDFABU3QV7OJ74PLJCZLNNLH6",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GBTC7MRR2YXZII3OIMFWEJDSEYDK3TX6PATR45EFRA74WVTZEBCQFU5I",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GBUSZPJTP4RZ5KJ5TEYBF2PJAGU6MKKF477RE5JPQBAUZ5E3SUZFYHIP",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 2701.8363444,
+    "net_xlm_flow": -2701.8363444,
+    "assets_traded": {
+      "JOHN": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 2701.8363444
+      }
+    }
+  },
+  {
+    "source_account": "GBWSFXZYYZWLD6FK3AUL7TD7SJP5VDM44XV45U2FVSX5MSNQBKP46JCJ",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0321934,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0321934,
+    "assets_traded": {
+      "LMBW": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0321934,
+        "xlm_outflows": 0.0
+      }
+    }
+  },
+  {
+    "source_account": "GDC7TOOXL6XTP6QZOAWMZBPGGKOQNS57XLBDRBDVLTREZ2LK5RNXPHYQ",
+    "num_swaps": 1,
+    "xlm_inflows": 0.0,
+    "xlm_outflows": 0.0,
+    "net_xlm_flow": 0.0,
+    "assets_traded": {
+      "AQUA": {
+        "num_swaps": 1,
+        "xlm_inflows": 0.0,
+        "xlm_outflows": 0.0
+      }
+    }
+  }
+]

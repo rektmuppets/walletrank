@@ -28,7 +28,7 @@ def fetch_swaps_for_all_wallets(wallet_addresses, limit_per_wallet=200, batch_si
     cursor = conn.cursor()
     swaps_by_wallet = {}
 
-    start_time = datetime.now(timezone.utc) - timedelta(hours=36)
+    start_time = datetime.now(timezone.utc) - timedelta(hours=48)
     total_wallets = len(wallet_addresses)
 
     # Process wallets in batches
@@ -212,6 +212,12 @@ if __name__ == "__main__":
     print(f"Analyzing P&L for {len(wallet_data_list)} wallets using {cpu_count()} CPU cores...")
     with Pool(processes=cpu_count()) as pool:
         pnl_results = pool.map(estimate_pnl_for_wallet, wallet_data_list)
+
+    # Archive the current wallet_pnl.json with a timestamp
+    import os
+    if os.path.exists("wallet_pnl.json"):
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        os.rename("wallet_pnl.json", f"backups/wallet_pnl_{timestamp}.json")
 
     # Save results to JSON
     with open("wallet_pnl.json", "w") as f:

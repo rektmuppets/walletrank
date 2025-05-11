@@ -1,0 +1,415 @@
+{
+  "primary_candidates": [
+    {
+      "source_account": "GAFB7IYPCYZCODQBB5BR5JO45JC4PPVLARUAXQSFHWTLH2KMHPWJ36GD",
+      "net_xlm_change": 1111692.2123176025,
+      "num_swaps": 9402,
+      "total_volume_xlm": 0.1002457,
+      "per_swap_profit": 5558.461061588012,
+      "daily_swaps": 4701.0,
+      "pair_diversity": 1,
+      "asset_pairs": [
+        "AQUA/XLM"
+      ],
+      "score": 0.979891973109871,
+      "risk_level": "Low",
+      "trade_type": "Directional",
+      "recommendation": "Replicate Directional trades on AQUA/XLM. Start with small volumes to test consistency."
+    },
+    {
+      "source_account": "GBTEZE3JLLRBS5NFXRPQU675AFLC3L7P2CXDOIM4333AUNCZ2NUA2EKV",
+      "net_xlm_change": 1113820.8732281025,
+      "num_swaps": 8851,
+      "total_volume_xlm": 0.13657589999999997,
+      "per_swap_profit": 5569.104366140512,
+      "daily_swaps": 4425.5,
+      "pair_diversity": 1,
+      "asset_pairs": [
+        "TscOpe3/XLM"
+      ],
+      "score": 0.9642022305968629,
+      "risk_level": "Low",
+      "trade_type": "Directional",
+      "recommendation": "Replicate Directional trades on TscOpe3/XLM. Start with small volumes to test consistency."
+    },
+    {
+      "source_account": "GCSO6DAFG52JZDJOB2ZXY3FZBCFJIEINR2BXNA2TTTCMFAOL5SQMIPW6",
+      "net_xlm_change": 952001.7485100027,
+      "num_swaps": 9818,
+      "total_volume_xlm": 0.0,
+      "per_swap_profit": 4760.008742550013,
+      "daily_swaps": 4909.0,
+      "pair_diversity": 1,
+      "asset_pairs": [
+        "U/XLM"
+      ],
+      "score": 0.9065802609831085,
+      "risk_level": "Low",
+      "trade_type": "Directional",
+      "recommendation": "Replicate Directional trades on U/XLM. Start with small volumes to test consistency."
+    }
+  ],
+  "secondary_candidates": [
+    {
+      "source_account": "GBXQUJBEDX5TYLJ6D5BGJZFLYF5GZVGXLWA2ZORS5OIA7H6B5O3MHMTP",
+      "net_xlm_change": 686306.5280534014,
+      "num_swaps": 601,
+      "total_volume_xlm": 52095.441738199996,
+      "per_swap_profit": 3431.532640267007,
+      "daily_swaps": 300.5,
+      "pair_diversity": 5,
+      "asset_pairs": [
+        "yXLM/XLM",
+        "USDC/XLM",
+        "XLM/yXLM",
+        "AQUA/XLM",
+        "XLM/XLM"
+      ],
+      "score": 0.4568181254641316,
+      "risk_level": "Low",
+      "trade_type": "Directional",
+      "recommendation": "Replicate Directional trades on yXLM/XLM, USDC/XLM, XLM/yXLM, AQUA/XLM, XLM/XLM. Start with small volumes to test consistency."
+    },
+    {
+      "source_account": "GAZBQ3PSXA45RHTBT4IBGS6RUPPQJMT3F4TRVLWJRCG652NQF66EDEAD",
+      "net_xlm_change": 628708.2429589018,
+      "num_swaps": 719,
+      "total_volume_xlm": 208804.0,
+      "per_swap_profit": 3143.541214794509,
+      "daily_swaps": 359.5,
+      "pair_diversity": 5,
+      "asset_pairs": [
+        "SHX/XLM",
+        "VELO/XLM",
+        "RIO/XLM",
+        "USDC/XLM",
+        "XLM/USDC"
+      ],
+      "score": 0.42939634303683216,
+      "risk_level": "Low",
+      "trade_type": "Directional",
+      "recommendation": "Replicate Directional trades on SHX/XLM, VELO/XLM, RIO/XLM, USDC/XLM, XLM/USDC. Start with small volumes to test consistency."
+    },
+    {
+      "source_account": "GD754P2RK354PJITVUQX32TLXTV4H3LS34FDBRRTHWYUSCQ4F36GTADV",
+      "net_xlm_change": 518765.78985379834,
+      "num_swaps": 1255,
+      "total_volume_xlm": 9602.095327500001,
+      "per_swap_profit": 2593.828949268992,
+      "daily_swaps": 627.5,
+      "pair_diversity": 15,
+      "asset_pairs": [
+        "BTC/XLM",
+        "XLM/BTC",
+        "XLM/BTCLN",
+        "XLM/USDM",
+        "BTCLN/XLM",
+        "EURMTL/XLM",
+        "EURC/XLM",
+        "yETH/XLM",
+        "USDC/XLM",
+        "XLM/USDC",
+        "USDM/XLM",
+        "yUSDC/XLM",
+        "ETH/XLM",
+        "BTCMTL/XLM",
+        "SATSMTL/XLM"
+      ],
+      "score": 0.32404993528425396,
+      "risk_level": "Low",
+      "trade_type": "Directional and Round-Trips",
+      "recommendation": "Replicate Directional and Round-Trips trades on BTC/XLM, XLM/BTC, XLM/BTCLN, XLM/USDM, BTCLN/XLM. Start with small volumes to test consistency."
+    },
+    {
+      "source_account": "GABIFPURFC56QJRJCBLXEBF2ZNJ4WELFZDOCXZ7UUOB6HBF4ZR23SUOB",
+      "net_xlm_change": 192824.3391280016,
+      "num_swaps": 534,
+      "total_volume_xlm": 150.0,
+      "per_swap_profit": 964.1216956400079,
+      "daily_swaps": 267.0,
+      "pair_diversity": 4,
+      "asset_pairs": [
+        "USDC/XLM",
+        "SHX/XLM",
+        "SSLX/XLM",
+        "RIO/XLM"
+      ],
+      "score": 0.1951887908264418,
+      "risk_level": "Low",
+      "trade_type": "Directional",
+      "recommendation": "Replicate Directional trades on USDC/XLM, SHX/XLM, SSLX/XLM, RIO/XLM. Start with small volumes to test consistency."
+    },
+    {
+      "source_account": "GAFYXEXG66CVYM4F73M3SYSMNTCZ3O2KLC7T25GH6W63AJKSUWOGJFVT",
+      "net_xlm_change": 1422.6235863999857,
+      "num_swaps": 3354,
+      "total_volume_xlm": 39053.495543699966,
+      "per_swap_profit": 7.113117931999929,
+      "daily_swaps": 1677.0,
+      "pair_diversity": 2,
+      "asset_pairs": [
+        "XLM/yXLM",
+        "yXLM/XLM"
+      ],
+      "score": 0.19075157898648057,
+      "risk_level": "Low",
+      "trade_type": "Directional and Round-Trips",
+      "recommendation": "Replicate Directional and Round-Trips trades on XLM/yXLM, yXLM/XLM. Start with small volumes to test consistency."
+    },
+    {
+      "source_account": "GBAMEXG5GVDFPEYKW3BLOZHZC2QN7K6DI5DN6EHP5WX4U3AZQENSMECJ",
+      "net_xlm_change": 262.9979351000003,
+      "num_swaps": 1784,
+      "total_volume_xlm": 6385.3087428,
+      "per_swap_profit": 1.3149896755000015,
+      "daily_swaps": 892.0,
+      "pair_diversity": 4,
+      "asset_pairs": [
+        "USDC/XLM",
+        "XLM/yXLM",
+        "yXLM/XLM",
+        "EURC/XLM"
+      ],
+      "score": 0.12965379396875235,
+      "risk_level": "Low",
+      "trade_type": "Directional",
+      "recommendation": "Replicate Directional trades on USDC/XLM, XLM/yXLM, yXLM/XLM, EURC/XLM. Start with small volumes to test consistency."
+    },
+    {
+      "source_account": "GDJSHJALTU3W5C6DZTHO5XH3LCPNPCKQSBA5K7AKTUQWGEQJ5XL3JKXT",
+      "net_xlm_change": 459.1123943000025,
+      "num_swaps": 532,
+      "total_volume_xlm": 0.0,
+      "per_swap_profit": 2.2955619715000126,
+      "daily_swaps": 266.0,
+      "pair_diversity": 2,
+      "asset_pairs": [
+        "USDC/XLM",
+        "yUSDC/XLM"
+      ],
+      "score": 0.10400317412833208,
+      "risk_level": "Low",
+      "trade_type": "Directional",
+      "recommendation": "Replicate Directional trades on USDC/XLM, yUSDC/XLM. Start with small volumes to test consistency."
+    },
+    {
+      "source_account": "GAFIAE3DA3ZHGXVLVOAEYYBJM5ZQPCJZ4N6XGTI5UCQUVDX62F6HBB4R",
+      "net_xlm_change": 758.2017024000044,
+      "num_swaps": 532,
+      "total_volume_xlm": 113.59374180000002,
+      "per_swap_profit": 3.7910085120000216,
+      "daily_swaps": 266.0,
+      "pair_diversity": 3,
+      "asset_pairs": [
+        "SHX/XLM",
+        "yXLM/XLM",
+        "XLM/SHX"
+      ],
+      "score": 0.09791428942898173,
+      "risk_level": "Low",
+      "trade_type": "Directional and Round-Trips",
+      "recommendation": "Replicate Directional and Round-Trips trades on SHX/XLM, yXLM/XLM, XLM/SHX. Start with small volumes to test consistency."
+    },
+    {
+      "source_account": "GCCPDJUKI6APBMSHOXRUYU5I5LZO3IGYSFJPGFGFNBELR5WBNHPO73OD",
+      "net_xlm_change": 928.2852384000037,
+      "num_swaps": 448,
+      "total_volume_xlm": 93.847621,
+      "per_swap_profit": 4.641426192000019,
+      "daily_swaps": 224.0,
+      "pair_diversity": 3,
+      "asset_pairs": [
+        "SHX/XLM",
+        "yXLM/XLM",
+        "XLM/SHX"
+      ],
+      "score": 0.09543919689438832,
+      "risk_level": "Low",
+      "trade_type": "Directional",
+      "recommendation": "Replicate Directional trades on SHX/XLM, yXLM/XLM, XLM/SHX. Start with small volumes to test consistency."
+    },
+    {
+      "source_account": "GBDG5RV7F6GVAIDBHSK7VMKYQ7SCOVYY2OG25D2TPHMDF5CNJY6HFUCK",
+      "net_xlm_change": 2808.850460299988,
+      "num_swaps": 951,
+      "total_volume_xlm": 83734.24605480002,
+      "per_swap_profit": 14.04425230149994,
+      "daily_swaps": 475.5,
+      "pair_diversity": 9,
+      "asset_pairs": [
+        "USDx/XLM",
+        "SHX/XLM",
+        "XLM/BTC",
+        "None/XLM",
+        "VELO/XLM",
+        "XLM/SHX",
+        "XLM/USDx",
+        "ETH/XLM",
+        "XLM/ETH"
+      ],
+      "score": 0.07432196060865683,
+      "risk_level": "Low",
+      "trade_type": "Directional",
+      "recommendation": "Replicate Directional trades on USDx/XLM, SHX/XLM, XLM/BTC, None/XLM, VELO/XLM. Start with small volumes to test consistency."
+    },
+    {
+      "source_account": "GB3JCHJUP6HHZJLN5LKQDRFP2HWSLNXYE2TGWDGBTNXIW6MLVRQXNDBC",
+      "net_xlm_change": 26510.14629060002,
+      "num_swaps": 1691,
+      "total_volume_xlm": 109051.35161730001,
+      "per_swap_profit": 132.5507314530001,
+      "daily_swaps": 845.5,
+      "pair_diversity": 16,
+      "asset_pairs": [
+        "SHX/XLM",
+        "XLM/BTC",
+        "BTC/XLM",
+        "None/XLM",
+        "VELO/XLM",
+        "XLM/KALE",
+        "yXLM/XLM",
+        "yETH/XLM",
+        "USDC/XLM",
+        "XLM/SHX",
+        "BLND/XLM",
+        "yUSDC/XLM",
+        "AQUA/XLM",
+        "ETH/XLM",
+        "JOHN/XLM",
+        "XLM/SSLX"
+      ],
+      "score": 0.065951052848945,
+      "risk_level": "Low",
+      "trade_type": "Directional",
+      "recommendation": "Replicate Directional trades on SHX/XLM, XLM/BTC, BTC/XLM, None/XLM, VELO/XLM. Start with small volumes to test consistency."
+    },
+    {
+      "source_account": "GA4QH4AJGERVYX4PBY55JYTQJ4RTLJIBYV7OCYIV56LWZE5MVDH3R3UQ",
+      "net_xlm_change": 769.988718399981,
+      "num_swaps": 621,
+      "total_volume_xlm": 61169.73161449999,
+      "per_swap_profit": 3.849943591999905,
+      "daily_swaps": 310.5,
+      "pair_diversity": 9,
+      "asset_pairs": [
+        "BTC/XLM",
+        "SHX/XLM",
+        "XLM/BTC",
+        "None/XLM",
+        "VELO/XLM",
+        "XLM/SHX",
+        "USDC/XLM",
+        "XLM/USDC",
+        "XLM/XRP"
+      ],
+      "score": 0.0631401337380013,
+      "risk_level": "Low",
+      "trade_type": "Directional",
+      "recommendation": "Replicate Directional trades on BTC/XLM, SHX/XLM, XLM/BTC, None/XLM, VELO/XLM. Start with small volumes to test consistency."
+    },
+    {
+      "source_account": "GDZIQ3DABQBDTQDQB57XEHIZJVRQUHO25VYFTCH466BXTHPQV5JKL63L",
+      "net_xlm_change": 2792.706301499998,
+      "num_swaps": 610,
+      "total_volume_xlm": 186.51708099999996,
+      "per_swap_profit": 13.96353150749999,
+      "daily_swaps": 305.0,
+      "pair_diversity": 11,
+      "asset_pairs": [
+        "SHX/XLM",
+        "XLM/AQUA",
+        "yXLM/XLM",
+        "VELO/XLM",
+        "XLM/VELO",
+        "XLM/SHX",
+        "XRP/XLM",
+        "XLM/XRP",
+        "XLM/XXA",
+        "XXA/XLM",
+        "AQUA/XLM"
+      ],
+      "score": 0.051393626571446784,
+      "risk_level": "Low",
+      "trade_type": "Directional and Round-Trips",
+      "recommendation": "Replicate Directional and Round-Trips trades on SHX/XLM, XLM/AQUA, yXLM/XLM, VELO/XLM, XLM/VELO. Start with small volumes to test consistency."
+    },
+    {
+      "source_account": "GATUKMTDJK7UHSTNNT2POZ3HK2FJRJZK557ONKX5GRVKDKGEBOP67H4F",
+      "net_xlm_change": 2320.379008299999,
+      "num_swaps": 618,
+      "total_volume_xlm": 197.99161179999993,
+      "per_swap_profit": 11.601895041499995,
+      "daily_swaps": 309.0,
+      "pair_diversity": 11,
+      "asset_pairs": [
+        "SHX/XLM",
+        "XLM/AQUA",
+        "yXLM/XLM",
+        "VELO/XLM",
+        "XLM/VELO",
+        "XLM/SHX",
+        "XRP/XLM",
+        "XLM/XRP",
+        "XLM/XXA",
+        "XXA/XLM",
+        "AQUA/XLM"
+      ],
+      "score": 0.051383639319870125,
+      "risk_level": "Low",
+      "trade_type": "Directional and Round-Trips",
+      "recommendation": "Replicate Directional and Round-Trips trades on SHX/XLM, XLM/AQUA, yXLM/XLM, VELO/XLM, XLM/VELO. Start with small volumes to test consistency."
+    },
+    {
+      "source_account": "GCJWACFC2PL3ZIPKRDGNMR7LERSBZIRTNDCBXHSNGYCNLGYXRAQCZT44",
+      "net_xlm_change": 3072.3160868999885,
+      "num_swaps": 548,
+      "total_volume_xlm": 136.82176490000003,
+      "per_swap_profit": 15.361580434499942,
+      "daily_swaps": 274.0,
+      "pair_diversity": 11,
+      "asset_pairs": [
+        "SHX/XLM",
+        "XLM/AQUA",
+        "yXLM/XLM",
+        "VELO/XLM",
+        "XLM/VELO",
+        "XLM/SHX",
+        "XRP/XLM",
+        "XLM/XRP",
+        "XLM/XXA",
+        "XXA/XLM",
+        "AQUA/XLM"
+      ],
+      "score": 0.04964976899347683,
+      "risk_level": "Low",
+      "trade_type": "Directional and Round-Trips",
+      "recommendation": "Replicate Directional and Round-Trips trades on SHX/XLM, XLM/AQUA, yXLM/XLM, VELO/XLM, XLM/VELO. Start with small volumes to test consistency."
+    },
+    {
+      "source_account": "GC7JP2QSRAVGVOH33T7VUGAH2NW5KN6YLDDR3NEMLRFUXWA32CIIL4ED",
+      "net_xlm_change": 2557.7837601999922,
+      "num_swaps": 508,
+      "total_volume_xlm": 187.36184389999994,
+      "per_swap_profit": 12.78891880099996,
+      "daily_swaps": 254.0,
+      "pair_diversity": 11,
+      "asset_pairs": [
+        "SHX/XLM",
+        "XLM/AQUA",
+        "yXLM/XLM",
+        "VELO/XLM",
+        "XLM/VELO",
+        "XLM/SHX",
+        "XRP/XLM",
+        "XLM/XRP",
+        "XLM/XXA",
+        "AQUA/XLM",
+        "XXA/XLM"
+      ],
+      "score": 0.0481503526426067,
+      "risk_level": "Low",
+      "trade_type": "Directional",
+      "recommendation": "Replicate Directional trades on SHX/XLM, XLM/AQUA, yXLM/XLM, VELO/XLM, XLM/VELO. Start with small volumes to test consistency."
+    }
+  ]
+}

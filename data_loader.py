@@ -15,14 +15,21 @@ def load_data():
     except FileNotFoundError:
         domain_rankings = []
 
-    # Load meme trade candidates
+    # Load network-wide wallet rankings
     try:
-        with open("meme_trade_candidates.json", "r") as f:
-            meme_candidates_data = json.load(f)
-        meme_primary_candidates = meme_candidates_data["primary_candidates"]
-        meme_secondary_candidates = meme_candidates_data["secondary_candidates"]
-        meme_all_candidates = meme_primary_candidates + meme_secondary_candidates
+        with open("wallet_rankings.json", "r") as f:
+            network_rankings = json.load(f)
     except FileNotFoundError:
-        meme_all_candidates = []
+        network_rankings = []
 
-    return all_candidates, domain_rankings, meme_all_candidates
+    # Load domain-specific copy trade candidates
+    try:
+        with open("domain_copy_trade_candidates.json", "r") as f:
+            domain_copy_trade_data = json.load(f)
+        domain_copy_trade_primary = domain_copy_trade_data["primary_candidates"]
+        domain_copy_trade_secondary = domain_copy_trade_data["secondary_candidates"]
+        domain_copy_trade_all = domain_copy_trade_primary + domain_copy_trade_secondary
+    except FileNotFoundError:
+        domain_copy_trade_all = []
+
+    return all_candidates, domain_rankings, network_rankings, domain_copy_trade_all

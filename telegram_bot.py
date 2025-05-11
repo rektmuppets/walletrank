@@ -7,7 +7,7 @@ from aiohttp import web
 from dotenv import load_dotenv
 import os
 from data_loader import load_data
-from templates import get_copy_trade_template, get_domain_rankings_template, get_meme_trade_template, get_landing_page_template
+from templates import get_copy_trade_template, get_domain_rankings_template, get_meme_trade_template, get_network_rankings_template, get_domain_copy_trade_template, get_landing_page_template
 
 # Load environment variables from .env file
 load_dotenv()
@@ -23,7 +23,7 @@ bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 
 # Load data
-all_candidates, domain_rankings, meme_all_candidates = load_data()
+all_candidates, domain_rankings, network_rankings, domain_copy_trade_all = load_data()
 
 # Web app route for copy trade candidates
 async def serve_webapp(request):
@@ -35,9 +35,19 @@ async def serve_domain_rankings(request):
     html = get_domain_rankings_template(domain_rankings)
     return web.Response(text=html, content_type='text/html')
 
-# Web app route for meme trade candidates
+# Web app route for meme trade candidates (using domain_copy_trade_all)
 async def serve_meme_trade_candidates(request):
-    html = get_meme_trade_template(meme_all_candidates)
+    html = get_meme_trade_template(domain_copy_trade_all)
+    return web.Response(text=html, content_type='text/html')
+
+# Web app route for network-wide wallet rankings
+async def serve_network_rankings(request):
+    html = get_network_rankings_template(network_rankings)
+    return web.Response(text=html, content_type='text/html')
+
+# Web app route for domain-specific copy trade candidates
+async def serve_domain_copy_trade(request):
+    html = get_domain_copy_trade_template(domain_copy_trade_all)
     return web.Response(text=html, content_type='text/html')
 
 # Landing page for selecting rankings
@@ -51,6 +61,8 @@ app.router.add_get('/', serve_landing_page)
 app.router.add_get('/webapp', serve_webapp)
 app.router.add_get('/domain_rankings', serve_domain_rankings)
 app.router.add_get('/meme_trade_candidates', serve_meme_trade_candidates)
+app.router.add_get('/network_rankings', serve_network_rankings)
+app.router.add_get('/domain_copy_trade', serve_domain_copy_trade)
 
 async def start_web_server():
     runner = web.AppRunner(app)
